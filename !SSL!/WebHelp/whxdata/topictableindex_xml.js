@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"Court notifies CSEU of Court Decision\" to=\"Eligible cases appear on &quot;Cost of Living Adjustment Eligible Cases&quot; screen\" num=\"41\"/><ck fm=\"Cannot clear the Objection Date Field\" to=\"Cost_of_Living_Adjustment_(COLA).pdf\" num=\"26\"/></cki>";

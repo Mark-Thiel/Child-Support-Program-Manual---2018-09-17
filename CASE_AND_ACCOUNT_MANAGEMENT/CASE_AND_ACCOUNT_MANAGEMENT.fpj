@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Continuation_of_Service_When_There_s_a_Waiver_In_Effect.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>Modification_Petitions</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>Continuation_of_Services_when_TA_benefits_cease.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Batch_Types_-_an_Introduction.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

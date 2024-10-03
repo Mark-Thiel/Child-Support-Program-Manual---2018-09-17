@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Processing_Center_-_Cover_Page.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Introduction_to_the_Processing_Center.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>How_Data_Is_Captured_at_the_Processing_Center.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>ECS_-_Docs_Available_Via_Electronic_Communication_System.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Original_Documents_Forwarded_from_the_Processing_Center_to_the_CSEU.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>NOTES_re_Processing_Center.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

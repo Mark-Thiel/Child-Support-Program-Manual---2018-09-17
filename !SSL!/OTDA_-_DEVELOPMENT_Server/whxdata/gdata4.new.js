@@ -1,0 +1,4 @@
+(function() {
+var glossary =  {"type":"data","entrys":[{"type":"entry","name":"WRATS","value":"Waiting Room Appointment Tracking System (WRATS). This is a system to track clients applying for various social services within a county."},{"type":"entry","name":"WRS","value":"[State] Wage Reporting System. The WRS contains wage data and employer indentification for all persons for whom New York State income tax is withheld by their employer."},{"type":"entry","name":"WRTS","value":"Welfare Reporting and Tracking System. This is accessed through the Summary Tab."},{"type":"entry","name":"Yellowbook","value":"Often referred to as \"the yellow book\" (the cover is yellow), this is the bound book of \"New York Family Law Statutes.\""}]};
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), glossary, { sync:true });
+})();

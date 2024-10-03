@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Legal - General Information","url":"Legislation/Legal_-_General_Information.htm"},{"type":"item","name":"1989: Child Support Standards Act (\"CSSA\")","url":"Legislation/Legislation.htm"},{"type":"item","name":"Title 6-A of the Social Services Law","url":"Legislation/Title_6-A_of_the_Social_Services_Law.htm"},{"type":"item","name":"Section 111-G of the Social Services Law","url":"Legislation/Section_111-G_of_the_Social_Services_Law.htm"},{"type":"item","name":"Title IV-E Foster Care","url":"Legislation/Title_IV-E_Foster_Care.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

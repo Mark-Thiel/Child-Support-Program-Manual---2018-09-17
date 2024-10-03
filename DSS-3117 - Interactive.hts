@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="DSS-3117 - Interactive" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>DSS-3117 - Interactive</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 0px;"><span 
+	 style="font-weight: bold;">Click on the fields highlighted in red 
+ below</span> to see their corresponding ASSETS codes. </p>
+<?rh-align_start align="left" ?>
+<table style="border: Solid 1px #000000; left: 315px; top: 161px; height: 131px;" 
+		 cellspacing="0" width="482">
+	<col style="width: 24.218%;" />
+	<col style="width: 75.782%;" />
+	<tr>
+		<td style="border: Solid 1px #000000;" bgcolor="#FCB8C3"><p style="margin-top: 0pt; 
+			 line-height: Normal;">&#160;</p></td>
+		<td style="border-top: Solid 1px #000000; border-right: Solid 1px #000000; 
+			 border-bottom: Solid 1px #000000;"><p class="Normal_Pre-Bullet_Pre-Numbers" 
+													 style="margin-top: 0pt; 
+													 margin-bottom: 0pt; 
+													 line-height: Normal;">Red 
+		 fields require a <span style="font-weight: bold;">code</span></p></td>
+	</tr>
+	<tr>
+		<td style="border-left: Solid 1px #000000; border-right: Solid 1px #000000; 
+			 border-bottom: Solid 1px #000000;" bgcolor="#FCEBBD"><p style="margin-top: 0pt; 
+			 line-height: Normal;">&#160;</p></td>
+		<td style="border-right: Solid 1px #000000; border-bottom: Solid 1px #000000;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="margin-top: 0pt; 
+			 margin-bottom: 0pt; line-height: Normal;">Yellow fields require 
+		 a<span style="font-weight: bold;"> date</span></p></td>
+	</tr>
+	<tr>
+		<td style="border-left: Solid 1px #000000; border-right: Solid 1px #000000; 
+			 border-bottom: Solid 1px #000000;" bgcolor="#C1F9B6"><p style="margin-top: 0pt; 
+			 line-height: Normal;">&#160;</p></td>
+		<td style="border-right: Solid 1px #000000; border-bottom: Solid 1px #000000;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="margin-top: 0pt; 
+			 margin-bottom: 0pt; line-height: Normal;">Green fields fields 
+		 require a <span style="font-weight: bold;">dollar amount</span></p></td>
+	</tr>
+</table>
+<?rh-align_end ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; margin-left: 0px;"><img 
+	 src="DSS-3117 - w SOME Highlighting.png" alt="" usemap="#MAP646702112" 
+	 style="border: none;" border="0" />
+<map id="MAP646702112" name="MAP646702112">
+<area shape="rect" coords="947, 63, 1131, 100" title="FIPS Codes" href="javascript:BSSCPopup('Codes/FIPS_Codes_-_Federal_Information_Processing_Standards_codes.htm',800,1000);" 
+		 id="area1" alt="" />
+<area shape="rect" coords="192, 331, 286, 366" title="Delinquency Switch Codes" 
+		 href="javascript:BSSCPopup('Codes/Delinquency_Switch_Codes.htm',800,1000);" 
+		 id="area2" alt="" />
+<area shape="rect" coords="563, 331, 657, 366" title="Billing Switch Codes" 
+		 href="javascript:BSSCPopup('Codes/Billing_Switch_Codes.htm',800,1000);" 
+		 id="area3" alt="" />
+<area shape="rect" coords="544, 366, 702, 400" title="Frequency Codes" 
+		 href="javascript:BSSCPopup('Codes/Frequency_Codes.htm',800,1000);" 
+		 id="area6" alt="" />
+<area shape="rect" coords="781, 366, 940, 401" title="Income Withholding Income Deduction Order Indicator Codes" 
+		 href="javascript:BSSCPopup('Codes/Income_Withholding_Income_Deduction_Order_Indicator_Codes.htm',800,1000);" 
+		 id="area9" alt="" />
+<area shape="rect" coords="3, 493, 230, 529" title="Ledger Type Codes - Meaning and Syntax" 
+		 href="javascript:BSSCPopup('Codes/Ledger_Type_Codes_-_Meaning_and_Syntax.htm',800,1000);" 
+		 id="area4" alt="" />
+<area shape="rect" coords="434, 528, 676, 565" title="Obligation Frequency Codes" 
+		 href="javascript:BSSCPopup('Codes/Frequency_Codes.htm',800,1000);" 
+		 id="area5" alt="" />
+<area shape="rect" coords="963, 440, 1132, 475" title="Standards Act Indicator Codes" 
+		 href="javascript:BSSCPopup('Codes/Standards_Act_Indicator_Codes.htm',800,1000);" 
+		 id="area7" alt="" />
+</map> </p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; margin-left: 0px;">&#160;</p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	FilePopupInit('area1');
+	FilePopupInit('area2');
+	FilePopupInit('area3');
+	FilePopupInit('area6');
+	FilePopupInit('area9');
+	FilePopupInit('area4');
+	FilePopupInit('area5');
+	FilePopupInit('area7');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

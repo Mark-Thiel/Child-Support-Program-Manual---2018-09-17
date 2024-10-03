@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Support_Establishment_-_Cover_Page.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Laws_and_Regulations_Related_to_Support_Establishment.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>Drilldown_Content_NOT_incl_in_TOC</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>Introduction_to_Support_Establishment.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>Support_Establishment_Process</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>Status_and_Reason_Codes_-_an_Overview.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>Change_of_Payee</name>
+		</folder>
+	</folders>
+</rhpml>

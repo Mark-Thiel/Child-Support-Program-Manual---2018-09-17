@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Cooperation Requirements for TA Cases","url":"INTAKE/TA_and_IV-E_Cases_-_Introduction/Cooperation_Requirements_for_TA_Cases.htm"},{"type":"item","name":"Safety Concerns in TA Cases","url":"INTAKE/TA_and_IV-E_Cases_-_Introduction/Safety_Concerns_in_TA_Cases.htm"},{"type":"item","name":"TA Worker Actions","url":"INTAKE/TA_and_IV-E_Cases_-_Introduction/TA_Worker_Actions.htm"},{"type":"item","name":"Continuation of Services letter","url":"INTAKE/TA_and_IV-E_Cases_-_Introduction/Continuation_of_Services_letter.htm"},{"type":"item","name":"When the TA Case Closes","url":"INTAKE/TA_and_IV-E_Cases_-_Introduction/When_the_TA_Case_Closes.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

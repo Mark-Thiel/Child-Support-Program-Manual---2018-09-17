@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc35.js\"  name=\"Additional Resources\"><remoteitem name=\"NYC Child Support Handbook for CPs\" url=\"https://www1.nyc.gov/assets/hra/downloads/pdf/services/child_support/custodial_parents.pdf\" /></data>";

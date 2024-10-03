@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="template" content="Troubleshooting_Master_Page.htt" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="rh-authors" content="Mark Thiel" />
+<meta name="topic-status" content="Complete" />
+<meta name="topic-comment" content="Can't edit CEJ State field? What to do." />
+<meta name="topic-check-list" content="Ran Smart Index" />
+<meta name="build tags" content="Chapter_COLA" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>CEJ State field is locked</title>
+<link rel="StyleSheet" href="..\..\default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="../../ehlpdhtm.js" type="text/javascript" 
+							 language="JavaScript1.2"></script><?rh-script_end ?>
+<p class="Troubleshooting_Header" style="text-align: center;">CEJ State 
+ Field is Locked</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">The <span class="Field_Name">CEJ 
+ State</span> field is locked if either one of these is true:</p>
+<ul style="list-style: disc;">
+	<ul style="list-style: disc;">
+		<li class="Bullet_New_Style"><p class="Normal_Pre-Bullet_Pre-Numbers"><span 
+		 class="Field_Name">Objection Date</span> field is populated, or</p></li>
+		<li class="Bullet_New_Style"><p class="Normal_Pre-Bullet_Pre-Numbers"><span 
+		 class="Field_Name">COLA Request Indicator</span> field contains 
+		 <span class="Code_Value"><a title="COLA Request Indicator Codes" 
+									 href="javascript:BSSCPopup('../../Codes/COLA_Request_Indicator_Codes.htm',800,1000);" 
+									 id="a3">Code R</a></span></p></li>
+	</ul>
+</ul>
+<hr width="50%" align="center" />
+<p class="Normal_Pre-Bullet_Pre-Numbers">When the <span class="Field_Name">Objection 
+ Date</span> field is populated:</p>
+<ul style="list-style: disc;">
+	<ul style="list-style: disc;">
+		<li><p class="Normal_Pre-Bullet_Pre-Numbers">ASSETS locks the affected 
+		 ledgers so that they cannot be adjusted, and</p></li>
+		<li><p class="Normal_Pre-Bullet_Pre-Numbers">ASSETS locks the <span 
+		 class="Field_Name">CEJ State</span> field.</p></li>
+	</ul>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers">If the <span class="Field_Name">Adjusted 
+ Order Effective Date</span> passes while the <span class="Field_Name">Objection 
+ Date</span> field is populated, the Worker will be unable to clear the 
+ <span class="Field_Name">Objection Date</span> field – meaning they cannot 
+ edit the <span class="Field_Name">CEJ State</span> field, and cannot adjust 
+ ledgers. The worker will need to contact NYS Child Support Services to 
+ get the <span class="Field_Name">Objection Date</span> field cleared and, 
+ consequently, ledgers and <span class="Field_Name">CEJ State</span> field 
+ unlocked.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers"><span style="font-weight: bold; 
+												 text-decoration: underline; ">Note:</span> 
+ &#160;If an objection to a COLA has been filed with the court and the 
+ CSEU becomes aware that a state other than New York has continuing exclusive 
+ jurisdiction over the case, the worker will not be able to enter the code 
+ for the state holding continuing exclusive jurisdiction into the <span 
+	 class="Field_Name">CEJ State</span> field until the COLA order is 
+ withdrawn.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">The worker can withdraw the COLA 
+ order by entering a <span class="Code_Value"><a title="COLA Request Indicator Codes" 
+												 href="javascript:BSSCPopup('../../Codes/COLA_Request_Indicator_Codes.htm',800,1000);" 
+												 id="a2">Code W</a></span> 
+ in the <b style="mso-bidi-font-weight: normal;"><span class="Field_Name">COLA 
+ Request Indicator</span></b> field on the <span class="Screen_Name"><a 
+	 title="Cost of Living Adjustment Information Edit screen" href="javascript:BSSCPopup('../../Screens_You_Will_Encounter_-_Master_List/Cost_of_Living_Adjustment_(COLA)_Information_Edit.htm',950,1000);" 
+	 id="a1">Cost of Living Adjustment Information Edit</a></span> screen). 
+ See section “<a href="Cannot_edit_the__CEJ_State__field_in_ASSETS.htm">CEJ 
+ State field Is locked</a>.&quot;</p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	FilePopupInit('a3');
+	FilePopupInit('a2');
+	FilePopupInit('a1');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

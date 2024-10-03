@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Group Codes aka Status Codes first position" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Group Codes aka Status Codes</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<table style="border-top-style: Solid; border-top-width: 2px; border-bottom-style: Solid; 
+		 border-bottom-width: 2px; margin-left: 35px; margin-right: 35px; 
+		 margin-top: 15px; margin-bottom: 15px;" cellspacing="0" width="700" 
+		 align="center">
+	<col width="96" />
+	<col width="600" />
+	<tr>
+		<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080; 
+			 vertical-align: top;" bgcolor="#513077"><p style="margin-left: 10px; 
+														 color: #ffffff;">Group 
+		 Code</p></th>
+		<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080; 
+			 vertical-align: top;" bgcolor="#513077"><p class="Normal_Pre-Bullet_Pre-Numbers" 
+														 style="text-align: left; 
+														 margin-top: 5pt; 
+														 margin-left: 10pt; 
+														 color: #ffffff;">Description</p></th>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="A Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/A_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a1">A</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Account 
+		 <span style="font-weight: normal;">has been built for this case.</span> 
+		 &#160;<span style="font-weight: normal;">(Which means that a support 
+		 order has been established.)</span></p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 text-align: center; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="B Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/B_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a14">B</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Pre-acceptance</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 text-align: center; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="C Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/C_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a2">C</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Title 
+		 IV-E Case (Foster Care)</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 text-align: center; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="D Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/D_Group_-_Pre-Determination.htm',800,1000);" 
+									 id="a17">D</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Pre-Determination</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 text-align: center; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="E Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/E_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a27">E</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Enforcement</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="F Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/F_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a3">F</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Financial 
+		 Investigation <span style="font-weight: normal;">is ongoing. &#160;A 
+		 </span><span style="line-height: Normal;"><a title="Wage and Health Benefits Report" 
+														 href="http://otda.state.nyenet/assets/pages/PDFs/Support_Establishment/WHBR.pdf" 
+														 target="_blank" 
+														 style="font-weight: normal;">WHBR</a></span><span 
+		 style="font-weight: normal;"> has been sent to an employer, and 
+		 ASSETS is awaiting results. When the </span><span style="line-height: Normal;"><a 
+		 title="Wage and Health Benefits Report" href="http://otda.state.nyenet/assets/pages/PDFs/Support_Establishment/WHBR.pdf" 
+		 target="_blank" style="font-weight: normal;">WHBR</a></span><span 
+		 style="font-weight: normal;"> is returned to the Processing Center 
+		 and the employer information is verified, ASSETS closes the <a 
+		 title="F Group - Status and Reason Codes" href="javascript:BSSCPopup('Codes/F_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+		 id="a23" style="font-weight: normal;">F Group</a>.</span></p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="G Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/G_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a20">G</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Good 
+		 Cause</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="H Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/H_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a21">H</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Desk 
+		 Review</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="I Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/I_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a4">I</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Income 
+		 Withholding</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="J Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/J_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a22">J</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Review 
+		 and Adjustment</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="K Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/K_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a5">K</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Summons 
+		 Service</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="L Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/L_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a6">L</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Location 
+		 <span style="font-weight: normal;">efforts are ongoing.</span></p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-right: 0pt; 
+			 margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Automated 
+		 location searches via <?rh-expandspot_start class="expandspot" 
+													 dataid="POPUP649845388" 
+													 href="javascript:TextPopup(this)" 
+													 id="a30" ?>APRRS<?rh-expandspot_end ?><?rh-expandtext_start 
+		 class="expandtext" id="POPUP649845388" style="display: none;" ?>Absent 
+		 Parent Resource Reporting System <?rh-expandtext_end ?> and <?rh-expandspot_start 
+		 class="expandspot" dataid="POPUP649881839" href="javascript:TextPopup(this)" 
+		 id="a31" ?>PLS<?rh-expandspot_end ?><?rh-expandtext_start class="expandtext" 
+		 id="POPUP649881839" style="display: none;" ?>Parent Locator Service 
+		 <?rh-expandtext_end ?> are automatically relaunched every 75 days, 
+		 for as long as the <span class="Code_Value"><a title="L Group - Status and Reason Codes" 
+														 href="javascript:BSSCPopup('Codes/L_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+														 id="a24" style="font-weight: normal;">L 
+		 Group</a></span> remains open.</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-right: 0pt; 
+			 margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Once 
+		 ASSETS has a verified address for the Respondent, ASSETS closes 
+		 the <span class="Code_Value"><a title="L Group - Status and Reason Codes" 
+										 href="javascript:BSSCPopup('Codes/L_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+										 id="a25" style="font-weight: normal;">L 
+		 Group</a></span><span class="Code_Value">.</span></p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="M Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/M_Group_-_Reason_and_Status_Codes.htm',850,1000);" 
+									 id="a7">M</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Medical</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="N Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/N_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a8">N</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Support 
+		 Petition</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="P Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/P_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a9">P</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Paternity 
+		 Establishment <span style="font-weight: normal;">efforts are ongoing.</span></p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-right: 0pt; 
+			 margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">ASSETS 
+		 automatically opens a <span class="Code_Value"><a title="P Group - Status and Reason Codes" 
+															 href="javascript:BSSCPopup('Codes/P_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+															 id="a26" style="font-weight: normal;">P 
+		 Group</a></span> on a case in which paternity is not established, 
+		 or in which the <span class="Field_Name">Wedlock Indicator</span> 
+		 field is set to <span class="Code_Value">N</span> (No).</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="Q Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/Q_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a18">Q</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Federal 
+		 Case Registry <span style="font-weight: normal;">referral</span></p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="R Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/R_Group_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a19">R</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Reciprocity</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="S Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/S_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a10">S</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Support</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="T Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/T_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a28">T</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Spousal</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="U Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/U_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a16">U</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Suspend 
+		 Aging</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="V Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/V_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a11">V</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Verified 
+		 Address</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="W Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/W_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a15">W</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Paternity 
+		 Petition</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="X Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/X_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a12">X</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">TA 
+		 case &#160;<span style="font-weight: normal;">(This indicates 
+		 an open TA case) </span></p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="Y Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/Y_Group_-_Status_and_Reason_Codes.htm',850,1000);" 
+									 id="a13">Y</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Non-TA 
+		 case &#160;<span style="font-weight: normal;">(This indicates 
+		 an open Non-TA case) (Applicant does not have CAN or CIN numbers.) 
+		 If the customer subsequently goes on temporary assistance, the 
+		 CSEU worker enters CAN and CIN numbers for the children, and ASSETS 
+		 opens an </span><span class="Code_Value">X Group</span><span style="font-weight: normal;">, 
+		 signifying that this is now a TA case.</span></p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+			 font-weight: bold; margin-left: 0pt; margin-right: 0pt; margin-top: 5pt; 
+			 margin-bottom: 5pt;"><a title="Z Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/Z_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a29">Z</a></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 margin-right: 0pt; margin-top: 5pt; margin-bottom: 5pt; margin-left: 10pt;">Non-IV-D 
+		 Case <span style="font-weight: normal;">(Non-child support)</span></p></td>
+	</tr>
+</table>
+<p class="Normal_Pre-Bullet_Pre-Numbers">&#160;</p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	FilePopupInit('a1');
+	FilePopupInit('a14');
+	FilePopupInit('a2');
+	FilePopupInit('a17');
+	FilePopupInit('a27');
+	FilePopupInit('a3');
+	FilePopupInit('a23');
+	FilePopupInit('a20');
+	FilePopupInit('a21');
+	FilePopupInit('a4');
+	FilePopupInit('a22');
+	FilePopupInit('a5');
+	FilePopupInit('a6');
+	TextPopupInit('a30', 'POPUP649845388');
+	TextPopupInit('a31', 'POPUP649881839');
+	FilePopupInit('a24');
+	FilePopupInit('a25');
+	FilePopupInit('a7');
+	FilePopupInit('a8');
+	FilePopupInit('a9');
+	FilePopupInit('a26');
+	FilePopupInit('a18');
+	FilePopupInit('a19');
+	FilePopupInit('a10');
+	FilePopupInit('a28');
+	FilePopupInit('a16');
+	FilePopupInit('a11');
+	FilePopupInit('a15');
+	FilePopupInit('a12');
+	FilePopupInit('a13');
+	FilePopupInit('a29');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

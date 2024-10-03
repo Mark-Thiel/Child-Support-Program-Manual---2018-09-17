@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!--Printed Documentation Layout-->
+<printdoclayout version="3">
+  <temphistory/>
+ <stylemapping>
+   <templatefile type="msword" filename="Style Mapping.dot"/>
+   <maps/>
+ </stylemapping>
+ <tocstructure>
+  <chapter name="Location">
+   <chapter name="Introduction to Location">
+     <page name="Acronyms Used in the Location Chapter" topic="LOCATION\Introduction_to_Location\Acronyms_Used_in_the_Location_Chapter.htm" flags="0" topicid="-1"/>
+     <page name="Introduction to Location" topic="LOCATION\Introduction_to_Location\Introduction_to_Location.htm" flags="0" topicid="-1"/>
+     <page name="Opening an L Group" topic="LOCATION\Introduction_to_Location\Opening_an_L_Group.htm" flags="0" topicid="-1"/>
+     <page name="Ways In Which Data Enters ASSETS" topic="LOCATION\Introduction_to_Location\Ways_In_Which_Data_Enters_ASSETS.htm" flags="0" topicid="-1"/>
+     <page name="Minimum Information Required to Locate a Respondent" topic="LOCATION\Introduction_to_Location\Minimum_Information_Required_to_Locate_a_Respondent.htm" flags="0" topicid="-1"/>
+     <page name="Essential Screens in the Location Process" topic="LOCATION\Introduction_to_Location\Essential_Screens_in_the_Location_Process.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="New Hire Reporting (Fully Automated)">
+     <page name="Intro to New Hire Reporting" topic="LOCATION\New_Hire_Reporting\Intro_to_New_Hire_Reporting.htm" flags="0" topicid="-1"/>
+     <page name="Roadmap_New_Hire_Reporting" topic="LOCATION\New_Hire_Reporting\Roadmap_New_Hire_Reporting.htm" flags="0" topicid="-1"/>
+     <page name="Case appears on Overage Statuses tab" topic="LOCATION\New_Hire_Reporting\Case_appears_on_Overage_Statuses_tab.htm" flags="0" topicid="-1"/>
+     <page name="Proc Ctr enters Code V into Employer Verification Ind field" topic="LOCATION\New_Hire_Reporting\Proc_Ctr_enters_Code_V_into_Employer_Verification_Ind_field.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Automated Location Searches">
+     <page name="Automated Location Searches - Introduction" topic="LOCATION\Automated_Location_Searches\Automated_Location_Searches_-_Introduction.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Manual Location Searches">
+     <page name="Intro to Manual Searches" topic="LOCATION\Manual_-_Non-Automated_Location_Searches\Intro_to_Manual_Searches.htm" flags="0" topicid="-1"/>
+     <page name="Social Security Number - Sources For Finding It" topic="LOCATION\Manual_-_Non-Automated_Location_Searches\Social_Security_Number_-_Sources_For_Finding_It.htm" flags="0" topicid="-1"/>
+     <page name="Deceased PF/NCP" topic="LOCATION\Manual_-_Non-Automated_Location_Searches\Deceased_PF_NCP.htm" flags="0" topicid="-1"/>
+     <page name="Incarcerated PF/NCPs" topic="LOCATION\Manual_-_Non-Automated_Location_Searches\Incarcerated_PF_NCPs.htm" flags="0" topicid="-1"/>
+     <page name="Military - PF or NCP Is In the Military" topic="LOCATION\Manual_-_Non-Automated_Location_Searches\Military_-_PF_or_NCP_Is_In_the_Military.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Manually Entering Respondent Address or Employer Into Case Record">
+     <page name="Manually Enter a New Respondent Address Into Case Record" topic="LOCATION\Manual_-_Non-Automated_Location_Searches\Manually_Enter_a_New_Respondent_Address_Into_Case_Record.htm" flags="0" topicid="-1"/>
+     <page name="How to Manually Enter an Employer into the Case Record" topic="LOCATION\Manual_-_Non-Automated_Location_Searches\How_to_Manually_Enter_an_Employer_into_the_Case_Record.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Verification of Address or Employment">
+     <page name="Intro to Verifying Address and Employment" topic="LOCATION\Verification_of_Address_or_Employment\Intro_to_Verifying_Address_and_Employment.htm" flags="1" topicid="-1"/>
+     <page name="WHBR Wage and Health Benefits Report" topic="LOCATION\Verification_of_Address_or_Employment\WHBR_Wage_and_Health_Benefits_Report.htm" flags="0" topicid="-1"/>
+     <page name="PCL - Postal Clearance Letter" topic="LOCATION\Verification_of_Address_or_Employment\PCL_-_Postal_Clearance_Letter.htm" flags="0" topicid="-1"/>
+   </chapter>
+  </chapter>
+ </tocstructure>
+  <sectionhistory/>
+ <sectionlist>
+   <section type="defaulttitlepage" name="&lt;Default Title Page&gt;" url="" flags="0" topicid="-1"/>
+   <section type="toc" name="TOC" url="" flags="0" topicid="-1"/>
+   <section type="topics" name="Chapter Layout" url="" flags="0" topicid="-1"/>
+ </sectionlist>
+  <robopdfgeneratorsettings data="resIndex=3&amp;jpegImageQuality=75&amp;imageDPI=96&amp;quiet=0&amp;Quality=3&amp;resolution=96&amp;customResolution=300&amp;customImageDPI=96&amp;customJpegImageQuality=75&amp;pdfTemplateEnable=0&amp;pdfTemplateOnTop=0&amp;pdfTemplate=&amp;watermark=&amp;watermarkText=&amp;watermarkFontName=Arial&amp;watermarkFontSize=48&amp;watermarkStyle=0&amp;watermarkColor=90&amp;sd_permissionFlags=-64&amp;sd_enabled=0&amp;sd_keyLen=16&amp;sd_up=&amp;sd_op=&amp;"/>
+ <headerfootermapping>
+   <section type="custominternaltopic" firstpagetemplate="&lt;None&gt;" evenpagetemplate="&lt;None&gt;" oddpagetemplate="&lt;None&gt;"/>
+   <section type="customexternaltopic" firstpagetemplate="&lt;None&gt;" evenpagetemplate="&lt;None&gt;" oddpagetemplate="&lt;None&gt;"/>
+   <section type="defaulttitlepage" firstpagetemplate="&lt;None&gt;" evenpagetemplate="&lt;None&gt;" oddpagetemplate="&lt;None&gt;"/>
+   <section type="toc" firstpagetemplate="&lt;None&gt;" evenpagetemplate="&lt;None&gt;" oddpagetemplate="&lt;None&gt;"/>
+   <section type="topics" firstpagetemplate="&lt;None&gt;" evenpagetemplate="&lt;None&gt;" oddpagetemplate="&lt;None&gt;"/>
+   <section type="glossary" firstpagetemplate="&lt;None&gt;" evenpagetemplate="&lt;None&gt;" oddpagetemplate="&lt;None&gt;"/>
+   <section type="index" firstpagetemplate="&lt;None&gt;" evenpagetemplate="&lt;None&gt;" oddpagetemplate="&lt;None&gt;"/>
+ </headerfootermapping>
+</printdoclayout>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<buildtags>
+		<buildtag>
+			<name>Author_Notes</name>
+			<colorref>8043591</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_CASE_CLOSURE</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_COLA</name>
+			<colorref>7939358</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_COLLECTIONS</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_ENFORCEMENT</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_FINANCIAL_INVESTIGATION</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_INTAKE</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_LOCATION</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_PATERNITY_ESTAB</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_PROCESSING_CENTER</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Chapter_SUPPORT_ESTAB</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>DEVELOPMENT_SERVER_ONLY</name>
+			<colorref>16711680</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Disclaimer_Test_Server</name>
+			<colorref>7089051</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Exclude_from_PDF_output</name>
+			<colorref>255</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Excluded_by_SMEs</name>
+			<colorref>3091887</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>File_Name_in_Windows</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Front_Matter</name>
+			<colorref>128</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>KUG_Review_TEST_SERVER_OUTPUT</name>
+			<colorref>16711680</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Legal_Citation</name>
+			<colorref>15771895</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>Online</name>
+			<colorref>65280</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>PageFileNameDisplay</name>
+			<colorref>3604973</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>PRODUCTION_Server_ONLY</name>
+			<colorref>8637299</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>PROJECT_NOTES</name>
+			<colorref>16776960</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>SME_REVIEW</name>
+			<colorref>65535</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>SOURCE_of_Information</name>
+			<colorref>65280</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>TEST_SERVER_OUTPUT</name>
+			<colorref>1994077</colorref>
+			<comments/>
+		</buildtag>
+		<buildtag>
+			<name>THIEL_ONLY</name>
+			<colorref>255</colorref>
+			<comments/>
+		</buildtag>
+	</buildtags>
+	<filters>
+		<filter>
+			<name>KUG Review - Test Server</name>
+			<caption>OTDA - TEST Server</caption>
+			<type>0</type>
+			<filteritemlist>
+				<filteritem>
+					<displayname>TA Process?  Non-TA Process?  Both?</displayname>
+					<type>1</type>
+					<filteritemlist/>
+				</filteritem>
+				<filteritem>
+					<displayname>Who Completes This Action?</displayname>
+					<type>1</type>
+					<filteritemlist/>
+				</filteritem>
+				<filteritem>
+					<displayname>Thiel Only</displayname>
+					<type>1</type>
+					<filteritemlist>
+						<filteritem>
+							<displayname>THIEL ONLY</displayname>
+							<type>0</type>
+							<name>THIEL_ONLY</name>
+							<flags>0</flags>
+						</filteritem>
+					</filteritemlist>
+				</filteritem>
+			</filteritemlist>
+		</filter>
+		<filter>
+			<name>MARK'S ROUGH NOTES - Development Server</name>
+			<caption>TEST NEW SME OUTPUT</caption>
+			<type>0</type>
+			<filteritemlist>
+				<filteritem>
+					<displayname>TA Process?  Non-TA Process?  Both?</displayname>
+					<type>1</type>
+					<filteritemlist/>
+				</filteritem>
+				<filteritem>
+					<displayname>Who Completes This Action?</displayname>
+					<type>1</type>
+					<filteritemlist/>
+				</filteritem>
+				<filteritem>
+					<displayname>Thiel Only</displayname>
+					<type>1</type>
+					<filteritemlist>
+						<filteritem>
+							<displayname>THIEL ONLY</displayname>
+							<type>0</type>
+							<name>THIEL_ONLY</name>
+							<flags>0</flags>
+						</filteritem>
+					</filteritemlist>
+				</filteritem>
+			</filteritemlist>
+		</filter>
+		<filter>
+			<name>PRODUCTION Server - Program Manual</name>
+			<caption>OTDA - PRODUCTION Server</caption>
+			<type>0</type>
+			<filteritemlist>
+				<filteritem>
+					<displayname>TA Process?  Non-TA Process?  Both?</displayname>
+					<type>1</type>
+					<filteritemlist/>
+				</filteritem>
+				<filteritem>
+					<displayname>Who Completes This Action?</displayname>
+					<type>1</type>
+					<filteritemlist/>
+				</filteritem>
+				<filteritem>
+					<displayname>Thiel Only</displayname>
+					<type>1</type>
+					<filteritemlist>
+						<filteritem>
+							<displayname>THIEL ONLY</displayname>
+							<type>0</type>
+							<name>THIEL_ONLY</name>
+							<flags>0</flags>
+						</filteritem>
+					</filteritemlist>
+				</filteritem>
+			</filteritemlist>
+		</filter>
+	</filters>
+	<expressions>
+		<expression>
+			<name>DEVELOPMENT_Server_Settings</name>
+			<expressiondetail>Chapter_COLA OR KUG_Review_TEST_SERVER_OUTPUT OR DEVELOPMENT_SERVER_ONLY</expressiondetail>
+			<type>1</type>
+		</expression>
+		<expression>
+			<name>LOCATION_Chapter_ONLY</name>
+			<expressiondetail>NOT Author_Notes AND NOT Chapter_CASE_CLOSURE AND NOT Chapter_COLA AND NOT Chapter_COLLECTIONS AND NOT Chapter_ENFORCEMENT AND NOT Chapter_FINANCIAL_INVESTIGATION AND NOT Chapter_INTAKE AND NOT Chapter_PATERNITY_ESTAB AND NOT Chapter_PROCESSING_CENTER AND NOT Chapter_SUPPORT_ESTAB AND NOT DEVELOPMENT_SERVER_ONLY AND NOT Disclaimer_Test_Server AND NOT Exclude_from_PDF_output AND NOT Excluded_by_SMEs AND NOT File_Name_in_Windows AND NOT Front_Matter AND NOT KUG_Review_TEST_SERVER_OUTPUT AND NOT Legal_Citation AND NOT Online AND NOT PageFileNameDisplay AND NOT PRODUCTION_Server_ONLY AND NOT PROJECT_NOTES AND NOT SME_REVIEW AND NOT SOURCE_of_Information AND NOT TEST_SERVER_OUTPUT AND NOT THIEL_ONLY</expressiondetail>
+			<type>1</type>
+		</expression>
+		<expression>
+			<name>MARK_s_DRAFT</name>
+			<expressiondetail>NOT Disclaimer_Test_Server</expressiondetail>
+			<type>1</type>
+		</expression>
+		<expression>
+			<name>OTDA___TEST_Server</name>
+			<expressiondetail>NOT Author_Notes AND NOT Chapter_CASE_CLOSURE AND NOT Chapter_COLLECTIONS AND NOT Chapter_ENFORCEMENT AND NOT Chapter_FINANCIAL_INVESTIGATION AND NOT Chapter_INTAKE AND NOT Chapter_PATERNITY_ESTAB AND NOT Chapter_PROCESSING_CENTER AND NOT Chapter_SUPPORT_ESTAB AND NOT DEVELOPMENT_SERVER_ONLY AND NOT Excluded_by_SMEs AND NOT File_Name_in_Windows AND NOT PageFileNameDisplay AND NOT PRODUCTION_Server_ONLY AND NOT PROJECT_NOTES AND NOT SME_REVIEW AND NOT SOURCE_of_Information AND NOT THIEL_ONLY</expressiondetail>
+			<type>1</type>
+		</expression>
+		<expression>
+			<name>SME_REVIEW_Server</name>
+			<expressiondetail>NOT Author_Notes AND NOT Chapter_CASE_CLOSURE AND NOT Chapter_ENFORCEMENT AND NOT Chapter_PROCESSING_CENTER AND NOT DEVELOPMENT_SERVER_ONLY AND NOT Excluded_by_SMEs AND NOT PRODUCTION_Server_ONLY AND NOT PROJECT_NOTES AND NOT THIEL_ONLY</expressiondetail>
+			<type>1</type>
+		</expression>
+		<expression>
+			<name>Production_Server_Settings</name>
+			<expressiondetail>NOT Author_Notes AND NOT Chapter_CASE_CLOSURE AND NOT Chapter_COLLECTIONS AND NOT Chapter_ENFORCEMENT AND NOT Chapter_FINANCIAL_INVESTIGATION AND NOT Chapter_INTAKE AND NOT Chapter_PATERNITY_ESTAB AND NOT Chapter_PROCESSING_CENTER AND NOT Chapter_SUPPORT_ESTAB AND NOT DEVELOPMENT_SERVER_ONLY AND NOT Disclaimer_Test_Server AND NOT File_Name_in_Windows AND NOT KUG_Review_TEST_SERVER_OUTPUT AND NOT PROJECT_NOTES AND NOT SME_REVIEW AND NOT SOURCE_of_Information AND NOT THIEL_ONLY</expressiondetail>
+			<type>1</type>
+		</expression>
+	</expressions>
+</rhpml>

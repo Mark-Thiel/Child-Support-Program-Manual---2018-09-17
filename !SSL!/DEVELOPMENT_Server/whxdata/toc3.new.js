@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"book","name":"Introduction to Intake","key":"toc4"},{"type":"book","name":"Eligibility for Child Support Services","key":"toc5"},{"type":"book","name":"The Application Form","key":"toc6"},{"type":"book","name":"Cooperation Requirements","key":"toc7"},{"type":"book","name":"Safety Concerns -- Domestic Violence and Good Cause","key":"toc8"},{"type":"book","name":"TA Cases (Intake) - Introduction","key":"toc9"},{"type":"book","name":"TA Process  (Intake)","key":"toc10"},{"type":"book","name":"Non-TA Cases (Intake) - Introduction","key":"toc11"},{"type":"book","name":"Non-TA Process  (Intake)","key":"toc12"},{"type":"book","name":"Foster Care Cases","key":"toc13"},{"type":"book","name":"Case-Building","key":"toc14"},{"type":"book","name":"Troubleshooting - Intake","key":"toc15"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

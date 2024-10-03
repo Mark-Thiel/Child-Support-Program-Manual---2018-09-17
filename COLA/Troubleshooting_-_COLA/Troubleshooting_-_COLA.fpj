@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Proc_Ctr_Receives_an_Unsigned_Request_for_a_COLA.htm</name>
+			<comments>A signature is needed before request can be acted upon.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Cannot_clear_the_Objection_Date_Field.htm</name>
+			<comments>Cannot clear or edit the Objection Date field.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Cannot_edit_the__CEJ_State__field_in_ASSETS.htm</name>
+			<comments>Can't edit CEJ State field? What to do.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Review_Adjustment_Ind_field_Contains_Code__E_.htm</name>
+			<comments>Why Code "E" (error) appears, and what to do about it.</comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

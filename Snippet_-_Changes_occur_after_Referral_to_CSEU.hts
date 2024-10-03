@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="TA or MA is referred to CSEU, then found ineligible for TA or MA" />
+<meta name="generator" content="Adobe RoboHelp 2015" />
+<title>Snippet_-_Changes_occur_after_Referral_to_CSEU</title>
+<link rel="StyleSheet" href="Style_Sheets\default.css" type="text/css" />
+<style type="text/css">/*<![CDATA[*/
+body {
+	background-color: #ddffff;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-left-color: #00ff00;
+	border-right-color: #00ff00;
+	border-top-color: #00ff00;
+	border-bottom-color: #00ff00;
+}
+/*]]>*/</style>
+<!--This site designed and built by Mark Thiel-->
+</head>
+
+<body>
+<h2 class="Normal_Pre-Bullet_Pre-Numbers">If the requirement to cooperate 
+ <span style="font-style: italic;">changes</span> after a TA/MA referral 
+ to the CSEU</h2>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="color: #ff0000; font-size: 14pt; 
+	 font-weight: bold;">SNIPPET -- KEEP THIS SECTION IN???? Did Mary want 
+ to eliminate it?</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">In a TA case, if a customer:</p>
+<ul style="list-style: disc;">
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers">checks Box 2 in Section 
+	 C of the <span class="Notices_name"><a title="Application Form" href="http://otda.state.nyenet/assets/pages/HTML/Child_Support_Application-Referral.htm" 
+											 target="_blank">LDSS-4882</a>,</span></p></li>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;"><span 
+	 class="Notices_name" style="color: #000000;">AND</span></p>
+<ul style="list-style: disc;">
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers">is subsequently found 
+	 ineligible for TA or MA, </p></li>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; font-style: italic; 
+	 margin-left: 67px;">AND</p>
+<ul style="list-style: disc;">
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers">the customer stills seeks 
+	 child support services,</p></li>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers">an application for such services 
+ must be made pursuant to <span class="Legislation_Titles">SSL § 111-g</span>. 
+ &#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">However, if the TA or MA case 
+ was closed less than 30 days prior, rather than filling out a new <span 
+	 class="Notices_name"><a title="Application Form" href="http://otda.state.nyenet/assets/pages/HTML/Child_Support_Application-Referral.htm" 
+							 target="_blank">LDSS-4882</a></span>, the 
+ applicant may revise the previously submitted <span class="Notices_name"><a 
+	 title="Application Form" href="http://otda.state.nyenet/assets/pages/HTML/Child_Support_Application-Referral.htm" 
+	 target="_blank">LDSS-4882</a>.</span></p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px; text-decoration: underline; ">To 
+ do this, the applicant must:</p>
+<ol style="list-style: decimal;">
+	<ol style="list-style: decimal;">
+		<ol style="list-style: decimal;">
+			<li class="Numbered_List_-_Numbers"><p class="Normal_Pre-Bullet_Pre-Numbers">Check 
+			 Box 1 in <span style="font-style: italic; font-weight: bold;">Section 
+			 C – Application/Affirmation for Child Support Services;</span></p></li>
+			<li class="Numbered_List_-_Numbers"><p class="Normal_Pre-Bullet_Pre-Numbers">Complete 
+			 the associated signature area; and </p></li>
+			<li class="Numbered_List_-_Numbers"><p class="Normal_Pre-Bullet_Pre-Numbers">Initial 
+			 the changes to mark the <span class="Notices_name"><a title="Application Form" 
+			 href="http://otda.state.nyenet/assets/pages/HTML/Child_Support_Application-Referral.htm" 
+			 target="_blank">LDSS-4882</a></span> as having been amended</p></li>
+		</ol>
+	</ol>
+</ol>
+<?rh-region_start type="footer" style="width: 100%; position: relative;" ?>
+	<?rh-cbt_start condition="PageFileNameDisplay" ?>
+<p style="color: #ff0000; 
+														 font-size: 10pt; 
+														 text-align: right;"><?rh-variable_start 
+	 name="file" format="default" value="Snippet_-_Changes_occur_after_Referral_to_CSEU.hts" ?>Snippet_-_Changes_occur_after_Referral_to_CSEU.hts<?rh-variable_end ?></p><?rh-cbt_end ?>
+<?rh-region_end type="footer" ?>
+</body>
+</html>

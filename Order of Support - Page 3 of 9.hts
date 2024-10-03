@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Order of Support - p 3 of 9" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Order of Support - Page 3 of 9</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-top: 0pt; margin-bottom: 0pt; 
+	 line-height: Normal; text-align: center;"><img src="Order of Support - Page 3 of 9 - w BOXES HIGHLIGHTED.png" 
+													 alt="" usemap="#MAP641832491" 
+													 style="border: none;" 
+													 border="0" />
+<map id="MAP641832491" name="MAP641832491">
+<area shape="rect" coords="637, 307, 836, 337" title="Obligation Frequency Codes" 
+		 href="javascript:BSSCPopup('Codes/Obligation_Frequency_Codes.htm',800,1000);" 
+		 id="area2" alt="" />
+<area shape="rect" coords="91, 329, 443, 353" title="Obligation Frequency Codes" 
+		 href="javascript:BSSCPopup('Codes/Obligation_Frequency_Codes.htm',800,1000);" 
+		 id="area3" alt="" />
+<area shape="rect" coords="87, 413, 840, 504" title="Deviation Reason Codes" 
+		 href="javascript:BSSCPopup('Codes/Deviation_Reason_Codes.htm',800,1000);" 
+		 id="area6" alt="" />
+</map> &#160;</p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	FilePopupInit('area2');
+	FilePopupInit('area3');
+	FilePopupInit('area6');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

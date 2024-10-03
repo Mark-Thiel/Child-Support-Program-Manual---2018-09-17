@@ -1,0 +1,4 @@
+(function() {
+var index =  {"type":"index","chunkinfos":[{"type":"chunkinfo","first":"$0","last":"Cost of Living Adjustment Eligible Cases screen","num":"44","node":"idata1"},{"type":"chunkinfo","first":"Court","last":"Error","num":"30","node":"idata2"},{"type":"chunkinfo","first":"error code","last":"Objection Date field is locked","num":"37","node":"idata3"},{"type":"chunkinfo","first":"Objections","last":"Unlock Ledgers","num":"43","node":"idata4"},{"type":"chunkinfo","first":"Unsigned","last":"WRTS","num":"11","node":"idata5"}]};
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), index, { sync:true });
+})();

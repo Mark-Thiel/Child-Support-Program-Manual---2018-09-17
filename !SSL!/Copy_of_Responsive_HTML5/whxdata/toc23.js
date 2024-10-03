@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Legislation\"><item name=\"1989: Child Support Standards Act (&quot;CSSA&quot;)\" url=\"Demo_-_Examples_of_Pages/Legislation.htm#bc-1\" /></data>";

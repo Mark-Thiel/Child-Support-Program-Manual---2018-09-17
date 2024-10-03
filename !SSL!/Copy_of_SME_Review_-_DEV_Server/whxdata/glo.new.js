@@ -1,0 +1,4 @@
+(function() {
+var glossary =  {"type":"glossary","chunkinfos":[{"type":"chunkinfo","first":"03 ADM 05","last":"collection on arrears","num":"50","node":"gdata1"},{"type":"chunkinfo","first":"collections on current","last":"ERD","num":"54","node":"gdata2"},{"type":"chunkinfo","first":"ERS","last":"guardianship","num":"40","node":"gdata3"},{"type":"chunkinfo","first":"Guidelines - Child Support","last":"LEP","num":"47","node":"gdata4"},{"type":"chunkinfo","first":"Long-Arm Jurisdiction","last":"objection","num":"39","node":"gdata5"},{"type":"chunkinfo","first":"obligation frequency","last":"QW","num":"54","node":"gdata6"},{"type":"chunkinfo","first":"QW data","last":"TAMA","num":"47","node":"gdata7"},{"type":"chunkinfo","first":"TANF","last":"zzzz","num":"28","node":"gdata8"}]};
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), glossary, { sync:true });
+})();

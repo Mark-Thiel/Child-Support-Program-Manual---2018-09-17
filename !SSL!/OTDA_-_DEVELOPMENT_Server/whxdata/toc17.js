@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Financial Investigation\"><item name=\"Introduction to Financial Investigation\" url=\"FINANCIAL_INVESTIGATION/Introduction_to_Financial_Investigation.htm\" /></data>";

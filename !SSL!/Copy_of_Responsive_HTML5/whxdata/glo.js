@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><glossary>  <chunkinfo url=\"gdata2.js\" first=\"CEJ State\" last=\"Title 6A of Social Services Law\" num=\"16\" />  </glossary>";

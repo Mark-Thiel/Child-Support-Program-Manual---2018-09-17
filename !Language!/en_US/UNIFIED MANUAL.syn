@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Synonyms FormatVersion="2" FeatureVersion="2">
+<ExcludeWordList/>
+<DirectionalSynList>
+<DirectionalSyn AllForms="1"><From>client</From><To>customer</To></DirectionalSyn>
+<DirectionalSyn AllForms="1"><From>customer</From><To>client</To></DirectionalSyn>
+<DirectionalSyn AllForms="1"><From>Respondent</From><To>NCP</To></DirectionalSyn>
+<DirectionalSyn AllForms="1"><From></From><To></To></DirectionalSyn>
+</DirectionalSynList>
+<GroupSynList/>
+</Synonyms>

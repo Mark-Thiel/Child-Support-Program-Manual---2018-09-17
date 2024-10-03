@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Intro_to_Objections_in_COLA_Process.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>When_Should_the_DSS_Object_to_a_COLA_.htm</name>
+			<comments>When the DSS should file an objection to a COLA.</comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

@@ -1,0 +1,94 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="bsscright">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="basic child support obligation">
+    <param name="Name" value="Legislation">
+    <param name="Local" value="Demo_-_Examples_of_Pages/Legislation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="child support percentage">
+    <param name="Name" value="Legislation">
+    <param name="Local" value="Demo_-_Examples_of_Pages/Legislation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Child Support Standards Act (&quot;CSSA&quot;)">
+    <param name="Name" value="Legislation">
+    <param name="Local" value="Demo_-_Examples_of_Pages/Legislation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Code &quot;E&quot;">
+    <param name="Name" value="Review Adjustment Ind field Contains Code &quot;E&quot;">
+    <param name="Local" value="COLA/Troubleshooting_-_COLA/Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="conflicting dates in ledgers">
+    <param name="Name" value="Review Adjustment Ind field Contains Code &quot;E&quot;">
+    <param name="Local" value="COLA/Troubleshooting_-_COLA/Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CPI-U">
+    <param name="Name" value="To View the CPI-U Data From Any Page In ASSETS">
+    <param name="Local" value="COLA/Eligibility/To_View_the_CPI-U_Data_From_Any_Page_In_ASSETS.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Domestic Relations Law, s. 240(1-b)">
+    <param name="Name" value="Legislation">
+    <param name="Local" value="Demo_-_Examples_of_Pages/Legislation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Error">
+    <param name="Name" value="Review Adjustment Ind field Contains Code &quot;E&quot;">
+    <param name="Local" value="COLA/Troubleshooting_-_COLA/Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="error code">
+    <param name="Name" value="Review Adjustment Ind field Contains Code &quot;E&quot;">
+    <param name="Local" value="COLA/Troubleshooting_-_COLA/Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Family Court Act s. 413(1)(b)">
+    <param name="Name" value="Legislation">
+    <param name="Local" value="Demo_-_Examples_of_Pages/Legislation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Keyboard Shortcuts">
+    <param name="Name" value="Keyboard Shortcuts in RoboHelp">
+    <param name="Local" value="Keyboard_Shortcuts_in_RoboHelp.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="monthly">
+    <param name="Name" value="In the next third full weekend of the month, ASSETS runs COLA monthly process">
+    <param name="Local" value="COLA/Non-TA_Process/In_the_next_third_full_weekend_of_the_month,_ASSETS_runs_COLA_monthly_process.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Review Adjustment Ind">
+    <param name="Name" value="Review Adjustment Ind field Contains Code &quot;E&quot;">
+    <param name="Local" value="COLA/Troubleshooting_-_COLA/Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="self-support reserve">
+    <param name="Name" value="Legislation">
+    <param name="Local" value="Demo_-_Examples_of_Pages/Legislation.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Status 02">
+    <param name="Name" value="Ineligibility">
+    <param name="Local" value="COLA/Ineligibility/Ineligibility.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Status 05">
+    <param name="Name" value="Ineligibility">
+    <param name="Local" value="COLA/Ineligibility/Ineligibility.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Variables">
+    <param name="Name" value="Variables - To Be Created">
+    <param name="Local" value="Variables_-_To_Be_Created.htm">
+  </object>
+</ul>
+</html>

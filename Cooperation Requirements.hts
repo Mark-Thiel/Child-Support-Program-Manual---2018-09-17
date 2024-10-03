@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Cooperation Requirements" />
+<meta name="generator" content="Adobe RoboHelp 2015" />
+<title>Cooperation Requirements</title>
+<link rel="StyleSheet" href="Style_Sheets\default.css" type="text/css" />
+</head>
+
+<body>
+<h2 style="text-align: center;">Cooperation Requirements</h2>
+<table style="margin-right: 35px; border-top-style: Solid; border-bottom-style: Solid; 
+		 border-top-width: 2px; border-bottom-width: 2px; margin-left: 40px;" 
+		 cellspacing="0" width="700" align="center">
+	<col width="262" />
+	<col width="434" />
+	<tr>
+		<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080; 
+			 vertical-align: Top;" bgcolor="#0000FF"><p style="text-align: left; 
+														 margin-left: 15px; 
+														 margin-right: 15px; 
+														 margin-bottom: 10pt; 
+														 color: #ffffff;">Type 
+		 of Case</p></th>
+		<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080; 
+			 vertical-align: Top;" bgcolor="#0000FF"><p style="text-align: left; 
+														 margin-left: 15px; 
+														 margin-right: 15px; 
+														 margin-bottom: 10pt; 
+														 color: #ffffff;">Categories</p></th>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: Top;" 
+			 bgcolor="#FFDDDD"><p style="font-weight: bold; margin-left: 15px; 
+									 margin-right: 15px; margin-bottom: 10pt;">TA 
+		 (<?rh-glo_start class="glossterm"?>IV-A<?rh-glo_end ?>)</p>
+		<p style="font-weight: bold; margin-left: 15px; margin-right: 15px; 
+			 margin-bottom: 10pt;"><span style="font-weight: normal;">Temporary 
+		 Assistance for Needy Families (TANF)</span></p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: Top;" 
+			 bgcolor="#FFDDDD"><p style="font-weight: bold; margin-left: 15px; 
+									 margin-right: 15px; margin-bottom: 10pt;">Cooperation 
+		 Requirement? &#160;Yes.</p>
+		<p style="margin-left: 15px; margin-right: 15px; margin-bottom: 10pt;">TANF, 
+		 or &quot;TA&quot; applicants or receipients. TA clients are required 
+		 to cooperate with the child support program when there is an absent 
+		 parent, or paternity for a dependent child has not legally been 
+		 established.</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: Top;" 
+			 bgcolor="#D7FFFF"><p style="font-weight: bold; margin-left: 15px; 
+									 margin-right: 15px; margin-bottom: 10pt;">Title 
+		 <?rh-glo_start class="glossterm"?>IV-E<?rh-glo_end ?> Foster Care</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: Top;" 
+			 bgcolor="#D7FFFF"><p style="font-weight: bold; margin-left: 15px; 
+									 margin-right: 15px; margin-bottom: 10pt;">Cooperation 
+		 Requirement? &#160;Yes.</p>
+		<p style="margin-left: 15px; margin-right: 15px; margin-bottom: 10pt;">Appropriate 
+		 Title IV-E (Foster Care) cases are referred to the child support 
+		 program, as determined by the foster care unit.</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: Top;" 
+			 bgcolor="#D7FFFF"><p style="font-weight: bold; margin-left: 15px; 
+									 margin-right: 15px; margin-bottom: 10pt;">Non-IV-E 
+		 Foster Care</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: Top;" 
+			 bgcolor="#D7FFFF"><p style="font-weight: bold; margin-left: 15px; 
+									 margin-right: 15px; margin-bottom: 10pt;"><span 
+		 style="font-weight: bold;">Cooperation Requirement:? &#160;No.</span></p>
+		<p style="margin-left: 15px; margin-right: 15px; margin-bottom: 10pt;">Certain 
+		 foster care cases which are not eligible for Title IV-E Foster 
+		 Care payments are referred to the child support program.</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: Top;" 
+			 bgcolor="#D7FFFF"><p style="font-weight: bold; margin-left: 15px; 
+									 margin-right: 15px; margin-bottom: 10pt;">Non-TA 
+		 </p>
+		<p style="font-weight: bold; margin-left: 15px; margin-right: 15px; 
+			 margin-bottom: 10pt;">(Non-TANF)</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: Top;" 
+			 bgcolor="#D7FFFF"><p style="font-weight: bold; margin-left: 15px; 
+									 margin-right: 15px; margin-bottom: 10pt;">Cooperation 
+		 Requirement? &#160;No.</p>
+		<p style="margin-left: 15px; margin-right: 15px; margin-bottom: 10pt;">In 
+		 Non-TA (TANF) cases, the applicant might be a custodial parent, 
+		 a caretaker relative, a legal guardian, or a representative of 
+		 a private or public charitable institution.</p></td>
+	</tr>
+</table>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">&#160;</p>
+</body>
+</html>

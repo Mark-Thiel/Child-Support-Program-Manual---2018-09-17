@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"ASSETS Changes CP or NCP Address","url":"INTAKE/Troubleshooting_-_Intake/ASSETS_Changes_CP_or_NCP_Address.htm"},{"type":"item","name":"Hard Copy of Referral Never Arrived from TA","url":"INTAKE/Troubleshooting_-_Intake/Hard_Copy_of_Referral_Never_Arrived_from_TA.htm"},{"type":"item","name":"Worker cannot select IV-E Foster Care radio button","url":"INTAKE/Troubleshooting_-_Intake/Worker_cannot_select_IV-E_Foster_Care_radio_button.htm"},{"type":"item","name":"Worker is kicked out of online application form","url":"INTAKE/Troubleshooting_-_Intake/New_Topic.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

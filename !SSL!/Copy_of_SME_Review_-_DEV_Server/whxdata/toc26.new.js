@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Acronyms Used In the Paternity Establishment Chapter","url":"PATERNITY_ESTABLISHMENT/Introduction_to_Paternity_Establishment/Acronyms_Used_In_the_Paternity_Establishment_Chapter.htm"},{"type":"item","name":"Introduction to Paternity Establishment","url":"PATERNITY_ESTABLISHMENT/Introduction_to_Paternity_Establishment/Introduction_to_Paternity_Establishment.htm"},{"type":"item","name":"Benefits of Paternity Establishment","url":"PATERNITY_ESTABLISHMENT/Introduction_to_Paternity_Establishment/Benefits_of_Paternity_Establishment.htm"},{"type":"item","name":"Laws and Regulations Related to Paternity Establishment","url":"PATERNITY_ESTABLISHMENT/Introduction_to_Paternity_Establishment/Laws_and_Regulations_Pertaining_to_Paternity_Establishment.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

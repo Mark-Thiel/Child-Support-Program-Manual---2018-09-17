@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"What is a COLA?","url":"COLA/What_is_a_COLA_.htm"},{"type":"item","name":"TA Accounts versus Non-TA Accounts: Different COLA Processes","url":"TA_Accounts_versus_Non-TA_Accounts__Different_COLA_Processes.htm"},{"type":"book","name":"Eligibility","key":"toc3"},{"type":"book","name":"Ineligibility","key":"toc4"},{"type":"book","data-rhtags":"2","name":"TA Process","key":"toc5"},{"type":"book","data-rhtags":"3","name":"Non-TA Process","key":"toc6"},{"type":"book","name":"Objection Process","key":"toc7"},{"type":"book","name":"COLA Notices - Sent from Processing Center","key":"toc8"},{"type":"book","name":"Screens You'll Encounter","key":"toc9"},{"type":"book","name":"Troubleshooting","key":"toc10"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

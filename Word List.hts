@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Word List - Style guide for Program Manual" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Word List</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<table style="border-top-style: Solid; border-top-width: 2px; border-bottom-style: Solid; 
+		 border-bottom-width: 2px; margin-left: 35px; margin-right: 35px; 
+		 margin-top: 15px; margin-bottom: 15px;" cellspacing="0" width="700" 
+		 align="center">
+	<col width="173" />
+	<col width="383" />
+	<col width="139" />
+	<tr>
+		<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080;" 
+			 bgcolor="#FFD100"><p style="margin-left: 0px;">Use this</p></th>
+		<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080;" 
+			 bgcolor="#FFD100"><p style="text-align: left; margin-left: 10px;">Do 
+		 NOT use this</p></th>
+		<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080;" 
+			 bgcolor="#FFD100"><p style="text-align: left; margin-left: 10px;">Citation 
+		 (e.g. Strunk &amp; White)</p></th>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">AOP</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">AOP form</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">Customer</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Client</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">data exchange</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">batch processing</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;"><span style="font-weight: bold;">family 
+		 court</span></p>
+		<p>&#160;</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Family Court</p>
+		<p style="margin-left: 10px;">Capitalize Federal and State Courts 
+		 when used with a definite name. Do not capitalize city and county 
+		 courts. &#160;EOG</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">New York State</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">New York state</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Elements of Grammar</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">noncustodial</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Non-Custodial</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">Paternity Petition</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Petition for Paternity</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">PF/NCP</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Respondent</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">Order of Support</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Support Order</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">state prison</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">State prison</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Elements of Grammar</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">Support Petition</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">Petition for Support</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px; font-weight: bold;">Supreme Court</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">supreme court</p>
+		<p style="margin-left: 10px;">Capitalize Federal and State Courts 
+		 when used with a definite name. Do not capitalize city and county 
+		 courts. &#160;EOG</p></td>
+		<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+			 style="margin-left: 10px;">&#160;</p></td>
+	</tr>
+</table>
+<p>&#160;</p>
+<p style="font-weight: bold;">Courts</p>
+<p style="font-weight: normal;">Capitalize <span style="font-style: italic;">Federal</span> 
+ and <span style="font-style: italic;">State Courts</span> when used with 
+ a definite name. do not capitalize city and county courts. &#160;(Elements 
+ of Grammar) </p>
+<p style="font-weight: bold;">Federal</p>
+<p style="font-weight: normal;">Capitalize <span style="font-style: italic;">Federal</span> 
+ when referring to the U.S. Government. &#160;(Elements of Grammar)</p>
+<p style="font-weight: bold;">State</p>
+<p>Capitalize <span style="font-style: italic;">state</span> when used 
+ with a name or when used in place of a name, but lower-case when used 
+ as a general term. &#160;(Elements of Grammar)</p>
+<p>&#160;</p>
+</body>
+</html>

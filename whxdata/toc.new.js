@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Introduction to the Child Support Services Operations Manual","url":"Introduction_-_Child_Support_Operations_Manual.htm"},{"type":"item","name":"Features Already Implemented into Design","url":"Introduction_to_the_Child_Support_Operations_Manual/Features_Already_Implemented_into_Design.htm"},{"type":"book","name":"Demo - Examples of Pages","key":"toc1"},{"type":"book","name":"COLA","key":"toc2"},{"type":"book","name":"Legislation","key":"toc11"},{"type":"book","name":"Appendices","key":"toc12"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

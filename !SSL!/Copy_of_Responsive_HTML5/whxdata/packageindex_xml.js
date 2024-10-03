@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"utf-8\"?><cki><ck fm=\"!\" to=\"averag\"/><ck fm=\"b\" to=\"eligility\"/><ck fm=\"end\" to=\"level\"/><ck fm=\"lik\" to=\"receiv\"/><ck fm=\"receive\" to=\"u_and_cssa_screen\"/><ck fm=\"u_utility_screenshot\" to=\"•\"/></cki>";

@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data ><book name=\"Introduction to the Child Support Program Manual\" src=\"toc1.js\" /><book name=\"Features of the Manual\" src=\"toc2.js\" /><book name=\"COLA\" src=\"toc3.js\" /><book name=\"Appendices\" src=\"toc14.js\" /></data>";

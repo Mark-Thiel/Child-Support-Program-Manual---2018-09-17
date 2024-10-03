@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Bare minimum info needed by caseworker to begin building a case." />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Minimum_Required_Info</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+						 id="a1" dataid="POPUP579192448" ?>Minimum Information 
+ Needed to Build a Case<?rh-dropspot_end ?></h2>
+<?rh-droptext_start class="droptext" id="POPUP579192448" style="display: none;" ?>
+	<table style="border-top-style: Solid; border-top-width: 2px; border-bottom-style: Solid; 
+			 border-bottom-width: 2px; margin-left: 35px; margin-right: 35px; 
+			 margin-top: 15px; margin-bottom: 15px;" cellspacing="0" width="700" 
+			 align="center">
+		<col width="61" />
+		<col width="257" />
+		<col width="376" />
+		<tr>
+			<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080; 
+				 vertical-align: top;" bgcolor="#1D428A"><p style="text-align: left; 
+															 margin-left: 10px; 
+															 color: #ffffff;">&#160;</p></th>
+			<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080; 
+				 vertical-align: top;" bgcolor="#1D428A"><p style="text-align: left; 
+															 margin-left: 10px; 
+															 color: #ffffff;">Information 
+			 Needed</p></th>
+			<th style="border-top: Solid 1px #808080; border-bottom: Solid 1px #808080; 
+				 vertical-align: top;" bgcolor="#1D428A"><p style="text-align: left; 
+															 margin-left: 50px; 
+															 color: #ffffff;">Where 
+			 You Can Find It</p>
+			<p style="text-align: left; margin-left: 50px; color: #ffffff;">(Apart 
+			 from form LDSS-4882)</p></th>
+		</tr>
+		<tr>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">1</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="margin-left: 10px; font-weight: bold;"><?rh-dropspot_start 
+			 class="dropspot" href="javascript:TextPopup(this)" id="a12" 
+			 dataid="POPUP5726579441" ?>Worker Code<?rh-dropspot_end ?></p>
+			<?rh-droptext_start class="droptext" id="POPUP5726579441" style="display: none;" ?>
+				<p class="Normal_Pre-Bullet_Pre-Numbers">Worker Codes are 
+				 determined locally at the district level. (Technologically 
+				 speaking, ASSETS will accept any four (4) alpha-numeric 
+				 characters.)</p><?rh-droptext_end ?></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="margin-left: 10px;">(Determined by local districts)</p></td>
+		</tr>
+		<tr>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">2</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="margin-left: 10px; font-weight: bold;">CP Name</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><ol 
+					 style="list-style: upper-alpha;">
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;"><a 
+				 title="IVA-IVD Interface Report" href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/IVA_-_IVD_Interface_screen.htm',950,1000);" 
+				 id="a114">Worker Alerts &gt; IVA Mode &gt; -IVA - IVD</a> 
+				 tab </p></li>
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;">Electronic 
+				 referral from WMS/WRTS</p></li>
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;">Court 
+				 Interface</p></li>
+			</ol></td>
+		</tr>
+		<tr>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">3</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 class="MsoNormal" style="margin-left: 10px; font-weight: bold;">CP 
+			 mailing address</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 class="Normal_Pre-Bullet_Pre-Numbers">Electronic referral 
+			 from WMS/WRTS</p></td>
+		</tr>
+		<tr>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">4</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="margin-left: 10px; font-weight: bold;">NCP name</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><ol 
+					 style="list-style: upper-alpha;">
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;"><a 
+				 title="IVA-IVD Interface Report" href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/IVA_-_IVD_Interface_screen.htm',950,1000);" 
+				 id="a1144">Worker Alerts &gt; IVA Mode &gt; -IVA - IVD</a> 
+				 tab</p></li>
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;">Electronic 
+				 referral from WMS/WRTS</p></li>
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;">Court 
+				 Interface</p></li>
+			</ol></td>
+		</tr>
+		<tr>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">5</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 class="MsoNormal" style="margin-left: 10px; font-weight: bold;">NCP 
+			 mailing address</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><ol 
+					 style="list-style: upper-alpha;">
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;"><a 
+				 title="IVA-IVD Interface Report" href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/IVA_-_IVD_Interface_screen.htm',950,1000);" 
+				 id="a11441">Worker Alerts &gt; IVA Mode &gt; -IVA - IVD</a> 
+				 tab</p></li>
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;">Electronic 
+				 referral from WMS/WRTS</p></li>
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;">Court 
+				 Interface</p></li>
+			</ol></td>
+		</tr>
+		<tr>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">6</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="margin-left: 10px; font-weight: bold;">NCP gender</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><ol 
+					 style="list-style: upper-alpha;">
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;"><a 
+				 title="IVA-IVD Interface Report" href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/IVA_-_IVD_Interface_screen.htm',950,1000);" 
+				 id="a11442">Worker Alerts &gt; IVA Mode &gt; -IVA - IVD</a> 
+				 tab</p></li>
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;">Electronic 
+				 referral from WMS/WRTS</p></li>
+				<li class="Numbered_List_UPPER_ALPHA"><p style="margin-left: 10px;">Court 
+				 Interface</p></li>
+			</ol></td>
+		</tr>
+		<tr>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">7</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 class="MsoNormal" style="margin-left: 10px; font-weight: bold;">Child 
+			 name</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><ol 
+					 style="list-style: upper-alpha;">
+				<li style="margin-left: -20px;"><p class="Normal_Pre-Bullet_Pre-Numbers" 
+													 style="margin-top: 5pt; 
+													 margin-bottom: 0pt;">Electronic 
+				 referral from WMS/WRTS</p></li>
+				<li style="margin-left: -20px;"><p class="Normal_Pre-Bullet_Pre-Numbers" 
+													 style="margin-top: 5pt; 
+													 margin-bottom: 0pt;">Court 
+				 Interface</p></li>
+			</ol></td>
+		</tr>
+		<tr><?rh-cbt_start condition="DEVELOPMENT_SERVER_ONLY" ?>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">8</p></td><?rh-cbt_end ?>
+			<?rh-cbt_start condition="DEVELOPMENT_SERVER_ONLY" ?><td style="border-bottom: Solid 1px #808080; 
+				 vertical-align: top;"><p class="MsoNormal" style="margin-left: 10px; 
+											 font-weight: bold;">Child's 
+			 parents' marital status</p></td><?rh-cbt_end ?>
+			<?rh-cbt_start condition="DEVELOPMENT_SERVER_ONLY" ?><td style="border-bottom: Solid 1px #808080; 
+				 vertical-align: top;"><p style="margin-left: 10px;">&#160;</p></td><?rh-cbt_end ?>
+		</tr>
+		<tr><?rh-cbt_start condition="DEVELOPMENT_SERVER_ONLY" ?>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">9</p></td><?rh-cbt_end ?>
+			<?rh-cbt_start condition="DEVELOPMENT_SERVER_ONLY" ?><td style="border-bottom: Solid 1px #808080; 
+				 vertical-align: top;"><p class="MsoNormal" style="margin-left: 10px; 
+											 font-weight: bold;">Child 
+			 NCP/PF relationship </p></td><?rh-cbt_end ?>
+			<?rh-cbt_start condition="DEVELOPMENT_SERVER_ONLY" ?><td style="border-bottom: Solid 1px #808080; 
+				 vertical-align: top;"><p style="margin-left: 10px;">&#160;</p></td><?rh-cbt_end ?>
+		</tr>
+		<tr>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 style="text-align: center; font-weight: bold; margin-left: 0px;">10</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 class="MsoNormal" style="margin-left: 10px; font-weight: bold;">CSS 
+			 Application for Services Indicator</p></td>
+			<td style="border-bottom: Solid 1px #808080; vertical-align: top;"><p 
+				 class="Normal_Pre-Bullet_Pre-Numbers">This is a checkbox 
+			 located in Section C of the <span class="Notices_name"><a 
+			 title="LDSS-4882 - Information about Child Support Services and Application/Referral for Child Support Services" 
+			 href="http://otda.state.nyenet/assets/pages/PDFs/Child_Support_Application/LDSS-4882W.pdf?rhtocid=_10_1_6#bc-1" 
+			 target="_blank">LDSS-4882</a></span>.</p></td>
+		</tr>
+	</table><?rh-droptext_end ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers">&#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">&#160;</p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	TextPopupInit('a1', 'POPUP579192448');
+	TextPopupInit('a12', 'POPUP5726579441');
+	FilePopupInit('a114');
+	FilePopupInit('a1144');
+	FilePopupInit('a11441');
+	FilePopupInit('a11442');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

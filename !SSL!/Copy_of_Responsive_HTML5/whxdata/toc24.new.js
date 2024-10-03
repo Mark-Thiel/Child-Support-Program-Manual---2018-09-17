@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Style Sheet - Mark Thiel","url":"Mark_Thiel_Work_Files/Style_Sheet_-_Mark_Thiel.htm"},{"type":"item","name":"To Do List","url":"Mark_Thiel_Work_Files/To_Do_List.htm"},{"type":"item","name":"Snippets - to be created","url":"Snippets_-_to_be_created.htm"},{"type":"item","name":"Variables - To Be Created","url":"Variables_-_To_Be_Created.htm"},{"type":"item","name":"Added Features","url":"Added_Features.htm"},{"type":"item","name":"Keyboard Shortcuts in RoboHelp","url":"Keyboard_Shortcuts_in_RoboHelp.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

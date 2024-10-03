@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Worker begins building the case" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Worker begins building the case</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<h1 class="Process_Step_H1">Worker begins building the case</h1>
+<p class="Normal_Pre-Bullet_Pre-Numbers">Use the completed <span class="Notices_name"><a 
+	 title="LDSS-4882 - Information about Child Support Services and Application/Referral for Child Support Services" 
+	 href="http://otda.state.nyenet/assets/pages/PDFs/Child_Support_Application/LDSS-4882W.pdf?rhtocid=_10_1_6#bc-1" 
+	 target="_blank">LDSS-4882</a></span> to enter information into the 
+ <a title="application form on ASSETS" href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Application_Form_-_Intake_Module.htm',950,1000);" 
+	 id="a11">application form on ASSETS</a> <span style="color: #ff0000; 
+													 font-weight: bold;">within 
+ twenty (20) calendar days</span> of receiving an <a title="Application/Referral for Child Support Services" 
+													 href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Application_Form_-_Intake_Module.htm',950,1000);" 
+													 id="a2">Application/<span 
+	 class="glossterm">R</span>eferral for Child Support Services</a><span 
+	 style="font-weight: bold;"> [18 § NYCRR 347.18[a]]</span>. &#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">For information on how to access 
+ the <a title="application form on ASSETS" href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Application_Form_-_Intake_Module.htm',950,1000);" 
+		 id="a111">application form on ASSETS</a>, refer to the <span class="Notices_name"><a 
+	 title="ASSETS User Guide, on ERS" href="http://otda.state.nyenet/assets/pages/PDFs/ASSET%24 Thin Documentation/assets user guide.pdf" 
+	 target="_blank">ASSETS User Guide</a></span> on ERS.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">If the customer provides an ITIN 
+ instead of a SSN, enter the nine-digit number in the <span class="Field_Name">ITIN</span> 
+ field. &#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center;"><img 
+	 src="ITIN Number.png" title="ITIN Number" alt="ITIN Number" style="border: Solid 1px #000000;" 
+	 border="1" /></p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">The ITIN is a tax processing number 
+ issued by the Internal Revenue Service (IRS). The first digit of that 
+ number is nine (9). &#160;For more information on the ITIN, refer to the 
+ <span class="Notices_name">Dear Colleague letter dated April 12, 2005</span> 
+ regarding the entering of ITINs on CSMS.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">When a case has successfully been 
+ built, the worker is <?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+											 id="a1" dataid="POPUP608934776" ?>notified 
+ of this by a message at the top of the online application form<?rh-dropspot_end ?>.</p>
+<?rh-droptext_start class="droptext" id="POPUP608934776" style="display: none;" ?>
+	<p class="Normal_Pre-Bullet_Pre-Numbers"><img src="Case has been built in ASSETS - Notification - b.png" 
+													 title="Success! Case has been built" 
+													 alt="Success! Case has been built" 
+													 style="border: none;" 
+													 border="0" /></p><?rh-droptext_end ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers">The worker should fill in the 
+ <span style="font-style: italic;">New York Case Identifier</span> and 
+ <span style="font-style: italic;">Worker Code</span> on page A-8 of the 
+ <a title="LDSS-4882 - Information about Child Support Services and Application/Referral for Child Support Services" 
+	 href="http://otda.state.nyenet/assets/pages/PDFs/Child_Support_Application/LDSS-4882W.pdf?rhtocid=_10_1_6#bc-1" 
+	 target="_blank"><span class="Notices_name">LDSS-4882</span></a> under 
+ <span style="font-weight: bold; font-style: italic;">Agency Use Only</span>. 
+ &#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">The <a title="LDSS-4882 - Information about Child Support Services and Application/Referral for Child Support Services" 
+												 href="http://otda.state.nyenet/assets/pages/PDFs/Child_Support_Application/LDSS-4882W.pdf?rhtocid=_10_1_6#bc-1" 
+												 target="_blank"><span 
+	 class="Notices_name">LDSS-4882</span></a> must be kept on file as 
+ part of the case record.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">&#160;</p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	FilePopupInit('a11');
+	FilePopupInit('a2');
+	FilePopupInit('a111');
+	TextPopupInit('a1', 'POPUP608934776');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

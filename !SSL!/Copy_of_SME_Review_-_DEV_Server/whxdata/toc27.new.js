@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Roadmap Paternity Establishment","url":"PATERNITY_ESTABLISHMENT/Paternity_Establishment_Process/Roadmap_Paternity_Establishment.htm"},{"type":"item","name":"Signing an Acknowledgement of Paternity","url":"PATERNITY_ESTABLISHMENT/Paternity_Establishment_Process/Have_parents_signed_an_Acknowledgement_of_Paternity_form.htm"},{"type":"item","name":"Worker prepares a Paternity Petition","url":"PATERNITY_ESTABLISHMENT/Paternity_Establishment_Process/Worker_prepares_a_Paternity_Petition.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc4.js\"  name=\"Non-TA Cases (Intake) - Introduction\"><item name=\"$25 Annual Service Fee\" url=\"INTAKE/Non-TA_Cases_-_Introduction/$25_Annual_Service_Fee_--_Alternative_A.htm\" /></data>";

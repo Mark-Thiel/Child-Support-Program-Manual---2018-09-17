@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Paternity_Establishment_-_Cover_Page.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>DEV_Server_Only_-_For_Now</name>
+		</folder>
+		<folder>
+			<name>John_Doe_Interview</name>
+		</folder>
+		<folder>
+			<name>Introduction_to_Paternity_Establishment</name>
+		</folder>
+		<folder>
+			<name>Paternity_Petition_-_Preparing_a_Petition</name>
+		</folder>
+		<folder>
+			<name>Paternity_Establishment_Process</name>
+		</folder>
+		<folder>
+			<name>UNUSED_CONTENT_PATERNITY</name>
+		</folder>
+	</folders>
+</rhpml>

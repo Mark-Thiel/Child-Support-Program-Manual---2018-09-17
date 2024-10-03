@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"book","name":"Intro to COLA","key":"toc3"},{"type":"book","name":"Eligibility","key":"toc4"},{"type":"book","name":"Ineligibility","key":"toc5"},{"type":"book","data-rhtags":"2","name":"TA Process","key":"toc6"},{"type":"book","data-rhtags":"3","name":"Non-TA Process","key":"toc7"},{"type":"book","name":"COLA Notices - Sent from Processing Center","key":"toc8"},{"type":"book","name":"Troubleshooting","key":"toc9"},{"type":"book","name":"Screens You Will Encounter - COLA","key":"toc10"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

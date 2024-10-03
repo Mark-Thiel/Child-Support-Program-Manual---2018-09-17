@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Status and Reason Codes - an Overview" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Status and Reason Codes - an Overview</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<ol style="list-style: upper-alpha;">
+	<li><h2 class="Normal_Pre-Bullet_Pre-Numbers"><?rh-dropspot_start class="dropspot" 
+	 href="javascript:TextPopup(this)" id="a7" dataid="POPUP629711859" ?>Quickly 
+	 find the meaning of any <span style="font-style: italic;">individual</span> 
+	 Status Code<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP629711859" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">Type any individual <span 
+		 class="Code_Value" style="font-weight: normal;">Status Code</span> 
+		 into the <span class="Field_Name">Search</span> box of the online 
+		 <span style="color: #513077; font-weight: bold;">Child Support 
+		 Program Manua, </span>then hit the <span class="Buttons_and_Checkboxes">Enter 
+		 </span>key. &#160;<span style="font-size: 11pt;">&#160;</span></p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers"><span style="font-size: 11pt;">(Example: 
+		 </span><span class="Code_Value">P208</span><span style="font-size: 11pt;"> 
+		 + </span><span class="Buttons_and_Checkboxes">Enter</span><span 
+		 style="font-size: 11pt;">, or </span><span class="Code_Value">L778</span><span 
+		 style="font-size: 11pt;"> + </span><span class="Buttons_and_Checkboxes">Enter</span><span 
+		 style="font-size: 11pt;">)</span></p><?rh-droptext_end ?></li>
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a8" dataid="POPUP629735420" ?>Look 
+	 up the meaning of each <span style="font-style: italic;">group</span> 
+	 of Status Codes<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP629735420" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">Find the meaning of each 
+		 <span style="font-style: italic;">group</span> of Status Codes 
+		 in the Appendices &gt; Code Tables &gt; <a title="Group Codes and Their Meanings" 
+													 href="Codes/Group_Codes_and_their_Meanings.htm" 
+													 id="a1">Group Codes 
+		 and their Meanings</a> section of this manual.</p><?rh-droptext_end ?></li>
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a9" dataid="POPUP629775225" ?>Check 
+	 the current status of a case<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP629775225" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-size: 12pt;"><span 
+		 style="font-size: 12pt;">Check the current status of a case by 
+		 looking at the <a href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Case_Mode_-_Status_Information_screen.htm',1000,1000);" 
+							 id="a111" title="Case Mode - Status tab" style="font-size: 12pt;">Case 
+		 Mode &gt; Status tab</a>. &#160;</span></p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-size: 12pt;">(<span 
+		 style="font-weight: bold;">Important:</span> To get the <span 
+		 style="font-style: italic;">full picture</span> of a given case, 
+		 you must also <span style="font-style: italic; font-weight: bold;">review 
+		 case remarks and account remarks</span>.)</p><?rh-droptext_end ?></li>
+</ol>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-top: 5pt;">There 
+ are many different kinds of codes used in the ASSETS computer program. 
+ The Status and Reason Codes, though, are particularly important because 
+ they give (in great detail/granularity) <span style="font-weight: bold; 
+												 font-style: italic;">ongoing 
+ status reports/updates for any given case</span>. </p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">Many actions taken on a case, 
+ or affecting a case <?rh-symbol_start name="Em Dash" ?>—<?rh-symbol_end ?> 
+ whether they are fully automated actions, court actions, or actions performed 
+ by workers at the CSEU or the Processing Center <?rh-symbol_start name="Em Dash" ?>—<?rh-symbol_end ?> 
+ are reflected in and reported to the worker via Status Codes.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">By reviewing Status Codes (and 
+ their corresponding descriptions) on the <a href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Case_Mode_-_Status_Information_screen.htm',1000,1000);" 
+											 id="a11" title="Case Mode - Status tab">Case 
+ Mode &gt; Status tab</a>, workers can see a snapshot of the current status 
+ of a case, as well as a <span style="font-weight: bold; font-style: italic;">step-by-step, 
+ chronological, granular history of the case</span>. (Note: To see a <span 
+	 style="font-style: italic;">chronological</span> history, just sort 
+ by the <span class="Field_Name">Date Added </span>column heading.)</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">Some Status Codes are systematically 
+ entered into the case record by ASSETS, keeping the worker informed of 
+ developments on a case. Other Status Codes are entered manually by the 
+ worker <?rh-symbol_start name="Em Dash" ?>—<?rh-symbol_end ?> which informs 
+ ASSETS of developments in a case, and thereby facilitates <span style="font-style: italic;">automation</span> 
+ of case management.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">Status Codes are broken into groups 
+ that are divided according to the alphabetic value of the first character 
+ of the Status Code&#160;<?rh-symbol_start name="Em Dash" ?>—<?rh-symbol_end ?> 
+ such that we have the <a title="A Group - Status and Reason Codes" href="javascript:BSSCPopup('Codes/A_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+							 id="a2">A Group</a> (of codes); the <a title="B Group - Status and Reason Codes" 
+	 href="javascript:BSSCPopup('Codes/B_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+	 id="a3">B Group</a> (of codes); the <a title="C Group - Status and Reason Codes" 
+											 href="javascript:BSSCPopup('Codes/C_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+											 id="a4">C Group</a>, and so 
+ on. </p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">Each group pertains to a specific 
+ <span style="font-style: italic;">phase or aspect</span> of a case, whether 
+ it be location of the PF/NCP, or paternity establishment, or the issuance 
+ of an income withholding order, or what have you. </p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">You can:</p>
+<h2>&#160;</h2>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-size: 12pt;">&#160;</p>
+<hr width="50%" align="center" />
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-size: 12pt;">&#160;</p>
+<ol style="list-style: decimal;">
+	<li style="margin-left: -20px;"><p class="Normal_Pre-Bullet_Pre-Numbers" 
+										 style="font-size: 12pt;"><span 
+	 style="font-weight: bold;">See also:</span> &#160;<a title="Case Mode - Remarks tab" 
+															 href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Case_Mode_-_Remarks_tab.htm',950,1000);" 
+															 id="a5">Case 
+	 Mode &gt; Remarks tab</a></p></li>
+	<li style="margin-left: -20px;"><p class="Normal_Pre-Bullet_Pre-Numbers" 
+										 style="font-size: 12pt;"><span 
+	 style="font-weight: bold;">See also:</span> &#160;<a title="Account Mode &gt; Remarks tab" 
+															 href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Account_Mode_-_Remarks_tab.htm',950,1000);" 
+															 id="a6">Account 
+	 Mode &gt; Remarks tab</a></p></li>
+</ol>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; font-weight: bold; 
+	 font-size: 12pt;">Case Mode &gt; Status tab</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-size: 11pt; text-align: center;"><img 
+	 src="Case Mode - Status Information screen - annotated_B.png" alt="Status &amp; Reason Codes, and Their Definitions" 
+	 title="Status &amp; Reason Codes, and Their Definitions" style="border: Solid 1px #000000;" 
+	 border="1" /></p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	TextPopupInit('a7', 'POPUP629711859');
+	TextPopupInit('a8', 'POPUP629735420');
+	TextPopupInit('a9', 'POPUP629775225');
+	FilePopupInit('a111');
+	FilePopupInit('a11');
+	FilePopupInit('a2');
+	FilePopupInit('a3');
+	FilePopupInit('a4');
+	FilePopupInit('a5');
+	FilePopupInit('a6');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

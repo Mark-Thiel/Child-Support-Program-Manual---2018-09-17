@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<ScreenLayouts>
+		<ScreenLayout name="Azure_Blue">
+			<ScreenLayoutPages>
+				<ScreenLayoutPage default="1" name="Topic.slp" type="1"/>
+			</ScreenLayoutPages>
+		</ScreenLayout>
+		<ScreenLayout name="Azure_Blue_2">
+			<ScreenLayoutPages>
+				<ScreenLayoutPage default="1" name="Topic.slp" type="1"/>
+			</ScreenLayoutPages>
+		</ScreenLayout>
+		<ScreenLayout name="OTDA">
+			<ScreenLayoutPages>
+				<ScreenLayoutPage default="1" name="Topic.slp" type="1"/>
+			</ScreenLayoutPages>
+		</ScreenLayout>
+		<ScreenLayout name="2017_01_20_A">
+			<ScreenLayoutPages>
+				<ScreenLayoutPage default="1" name="Topic.slp" type="1"/>
+			</ScreenLayoutPages>
+		</ScreenLayout>
+		<ScreenLayout name="CSS_Ops_Man_2017-05-12">
+			<ScreenLayoutPages>
+				<ScreenLayoutPage default="1" name="Topic.slp" type="1"/>
+			</ScreenLayoutPages>
+		</ScreenLayout>
+	</ScreenLayouts>
+</rhpml>

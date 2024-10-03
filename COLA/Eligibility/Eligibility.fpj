@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Orders_Subject_to_COLA.htm</name>
+			<comments>Orders subjects to COLA increases.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>General_Eligibility_Criteria_for_a_COLA.htm</name>
+			<comments>General eligibility critieria for a COLA.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Decision_Tree.htm</name>
+			<comments>Decision Tree: Is this case eligible for a COLA?</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Quick_Reference__General_Eligility.htm</name>
+			<comments>Quick Reference Chart</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Eligible_Ledgers.htm</name>
+			<comments>Eligible Ledgers, Payment Frequencies, Normalization of Ledgers</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Eligible_Ledgers__Syntax_of_Ledger_Codes.htm</name>
+			<comments>Ledger codes explained. Syntax and meaning.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Multiple_Ledgers,_Different_Payment_Frequencies.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

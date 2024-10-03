@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Processing Center - Cover Page","url":"PROCESSING_CENTER/Processing_Center_-_Cover_Page.htm"},{"type":"item","name":"NOTES re Processing Center","url":"PROCESSING_CENTER/NOTES_re_Processing_Center.htm"},{"type":"item","name":"How Data Is Captured at the Processing Center","url":"PROCESSING_CENTER/How_Data_Is_Captured_at_the_Processing_Center.htm"},{"type":"item","name":"ECS - Documents Available Via Electronic Communication System","url":"PROCESSING_CENTER/ECS_-_Docs_Available_Via_Electronic_Communication_System.htm"},{"type":"item","name":"Originals of Documents Forwarded from the Processing Center to the CSEU","url":"PROCESSING_CENTER/Original_Documents_Forwarded_from_the_Processing_Center_to_the_CSEU.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>If_the_TA_Unit_Denies_Temporary_Assistance.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>The_IVA-IVD_Interface_Report.htm</name>
+			<comments>Introduction to the IV-A - IV-D (Daily) Interface Report</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Workarounds_We_ve_Encountered_in_Intake_Procedures.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Cooperation_Requirements_for_TA_Cases.htm</name>
+			<comments>Cooperation Requirements for TA Cases</comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

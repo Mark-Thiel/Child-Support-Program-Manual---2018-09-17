@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"book","name":"Introduction to the Child Support Program Manual","key":"toc1"},{"type":"book","name":"Features of the Manual","key":"toc2"},{"type":"book","name":"Intake","key":"toc3"},{"type":"book","name":"Location","key":"toc15"},{"type":"book","name":"Paternity Establishment","key":"toc16"},{"type":"book","name":"Financial Investigation","key":"toc17"},{"type":"book","name":"Support Establishment","key":"toc18"},{"type":"book","name":"Collection","key":"toc19"},{"type":"book","name":"COLA","key":"toc20"},{"type":"book","name":"Enforcement","key":"toc32"},{"type":"book","name":"Case Closure","key":"toc33"},{"type":"book","name":"Processing Center","key":"toc34"},{"type":"book","name":"Appendices","key":"toc35"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

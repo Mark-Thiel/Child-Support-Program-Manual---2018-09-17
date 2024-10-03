@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Location_-_Cover_Page.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>New_Hire_Reporting</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>SMEs_for_Location_Chapter.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Screenshots_and_Documents_Needed_for_Location_Chapter.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>DEV_Server_Only_-_for_now</name>
+		</folder>
+		<folder>
+			<name>Databases_Used_for_Location_Searches</name>
+		</folder>
+		<folder>
+			<name>Automated_Location_Searches</name>
+		</folder>
+		<folder>
+			<name>Manual_-_Non-Automated_Location_Searches</name>
+		</folder>
+		<folder>
+			<name>Verification_of_Address_or_Employment</name>
+		</folder>
+		<folder>
+			<name>Introduction_to_Location</name>
+		</folder>
+	</folders>
+</rhpml>

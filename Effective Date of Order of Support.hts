@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Effective Date of Order of Support" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Effective Date of Order of Support</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers">If the <a title="Order of Support" 
+													 href="https://www.nycourts.gov/forms/familycourt/pdfs/4-7.pdf" 
+													 target="_blank">Order 
+ of Support</a> contains no effective date, and:</p>
+<ol style="list-style: upper-alpha;">
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a1" dataid="POPUP640445632" ?>There 
+	 is a Separation Agreement or Oral Stipulation<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP640445632" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">The effective date of 
+		 the order is understood to be the latest date in the Separation 
+		 Agreement or Oral Stipulation where the amount of support was 
+		 decided/agreed upon.</p><?rh-droptext_end ?></li>
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a2" dataid="POPUP640634607" ?>There 
+	 is no Separation Agreement or Oral Stipulation<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP640634607" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">The effective date of 
+		 the order is understood to be:</p>
+		<ul style="list-style: disc;">
+			<ul style="list-style: disc;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The date of 
+				 the hearing (Family Court)</p></li>
+			</ul>
+		</ul>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; 
+			 font-style: italic; margin-left: 147px;">OR</p>
+		<ul style="list-style: disc;">
+			<ul style="list-style: disc;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The date of 
+				 the Supreme Court judge's signature for judgment of divorces 
+				 (Supreme Court)</p></li>
+			</ul>
+		</ul><?rh-droptext_end ?></li>
+</ol>
+<!--Manual designed and built by Mark Thiel, Professional Development Program, Research Foundation of SUNY, 
+Rockefeller College of Public Affairs and Policy, The University at Albany, State University of New York
+PLEASE REPORT ANY BROKEN LINKS OR OTHER ISSUES VIA THE FEEDBACK LINK ON THE BOTTOM OF EVERY PAGE OF THE MANUAL.
+THANK YOU-->
+
+
+<!--Manual designed and built by Mark Thiel, Professional Development Program, Research Foundation of SUNY, 
+Rockefeller College of Public Affairs and Policy, The University at Albany, State University of New York
+PLEASE REPORT ANY BROKEN LINKS OR OTHER ISSUES VIA THE FEEDBACK LINK ON THE BOTTOM OF EVERY PAGE OF THE MANUAL.
+THANK YOU-->
+
+
+
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	TextPopupInit('a1', 'POPUP640445632');
+	TextPopupInit('a2', 'POPUP640634607');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

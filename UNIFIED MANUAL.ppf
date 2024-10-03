@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE polprojfile>
+<ppfml version="2.00" project="">
+ <windowlist defaultwindow="NewWindow">
+  <window name="NewWindow" x="5%" y="5%" width="90%" height="90%" viewtype="doublepane" workspacestyle="DEFAULT" toolbar="off" locationbar="off" menu="off" resizable="yes" statusbar="off" usecurrentwindowsettings="yes" caption="NewWindow">
+   <elements><element name="BrowseSequence" Present="no" /><element name="SearchInput" Present="no" />
+   </elements>
+   <agents defaultagent="toc">
+    <agent>toc
+    </agent>
+    <agent>ndx
+    </agent>
+    <agent>nls
+    </agent>
+   </agents>
+  </window>
+ </windowlist>
+ <contextmap>
+ </contextmap>
+ <topiclist defaulttopic="MyCompany_Savings_and_Loan_Guide.htm">
+  <topic>MyCompany_Savings_and_Loan_Guide.htm
+  </topic>
+  <topic>Granting_a_mortgage.htm
+  </topic>
+  <topic>Procedure_for_accepting_a_mortgage_application.htm
+  </topic>
+  <topic>Policy__Fair_lending_guidelines.htm
+  </topic>
+ </topiclist>
+ <projectincludes>
+ </projectincludes>
+ <filenamemap>
+ </filenamemap>
+</ppfml>

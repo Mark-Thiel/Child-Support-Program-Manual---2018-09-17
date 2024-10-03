@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Eligible_Cases.htm</name>
+			<comments>Where do clients from? Referrals, walk-ins, and more.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Policies_Regarding_Intake.htm</name>
+			<comments>Non-TA and TA clients are entitled to the same range of services.</comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

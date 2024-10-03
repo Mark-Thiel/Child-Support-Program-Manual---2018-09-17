@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version='1.0' encoding='utf-8' ?>  <glossary>  <chunkinfo url=\"whgdata0.xml\" first=\"98 ADM-14\" last=\"SEP\" num=\"71\" />  <chunkinfo url=\"whgdata1.xml\" first=\"Siebel\" last=\"WRTS\" num=\"18\" />    </glossary>";

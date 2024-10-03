@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<files>
+		<file>
+			<name>Summary_Mode_Obligation_Tab.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>Codes - Look up meanings of Codes.hts</name>
+			<comments></comments>
+			<category>General</category>
+		</file>
+		<file>
+			<name>Modules - Inquiry.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>What is a De Novo Hearing.hts</name>
+			<comments></comments>
+			<category>X - MISC</category>
+		</file>
+		<file>
+			<name>Dismissal of Petition.hts</name>
+			<comments></comments>
+			<category>Paternity Establishment</category>
+		</file>
+		<file>
+			<name>Does customer claim safety concerns.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>Worker begins building the case.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>E-Filing Petitions - Video.hts</name>
+			<comments></comments>
+			<category>General</category>
+		</file>
+		<file>
+			<name>Copy of Copy of Modules - Inquiry.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Linking Cases - Whether or not to do it.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>Status and Reason Codes - an Overview.hts</name>
+			<comments></comments>
+			<category>General</category>
+		</file>
+		<file>
+			<name>Word List.hts</name>
+			<comments></comments>
+			<category>Program Manual Style Guide</category>
+		</file>
+		<file>
+			<name>How and when do automated location searches begin.hts</name>
+			<comments></comments>
+			<category>Location Chapter</category>
+		</file>
+		<file>
+			<name>Family Court Interface.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>ACS Doc - Page 1 of 3.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>Group Codes aka Status Codes.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Document Log screen.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>PCL - How to generate a PCL.hts</name>
+			<comments></comments>
+			<category>Location Chapter</category>
+		</file>
+		<file>
+			<name>Effective Date of Order of Support.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>CP or NCP Requests Legal Services.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>Home - Modules - Inquiry.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>Update Each Year.hts</name>
+			<comments></comments>
+			<category>Program Manual Style Guide</category>
+		</file>
+		<file>
+			<name>Worker examines supporting documentation.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>CSSA - Child Support Standards Act.hts</name>
+			<comments></comments>
+			<category>Support Establishment</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 3 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Standards Act Codes - MEANING and SYNTAX.hts</name>
+			<comments></comments>
+			<category>Codes</category>
+		</file>
+		<file>
+			<name>CPI-U Table.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>Worker logs receipt of 4882, reviews it for completeness.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>Worker interview the customer (Optional).hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>Case_Processing_Timelines.hts</name>
+			<comments></comments>
+			<category>General</category>
+		</file>
+		<file>
+			<name>Basic Search Screen.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>Ways in which data enters case records.hts</name>
+			<comments></comments>
+			<category>Location Chapter</category>
+		</file>
+		<file>
+			<name>Worker sends customer to DVL.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>Minimum Info Required to Locate a Respondent.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>Copy of Modules - Inquiry.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>CP or NCP completes and returns LDSS-4882.hts</name>
+			<comments></comments>
+			<category>Intake</category>
+		</file>
+		<file>
+			<name>DSS-3117.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Information Needed to Build an Account.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Family Court Interface - Reports tab.hts</name>
+			<comments></comments>
+			<category>Screenshots</category>
+		</file>
+		<file>
+			<name>Worker provides customer with legal rates.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>ACS_info_provided.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>DSS-3117 - Interactive.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 1 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 2 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 4 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 5 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 6 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 7 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 8 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+		<file>
+			<name>Order of Support - Page 9 of 9.hts</name>
+			<comments></comments>
+			<category>Account Creation</category>
+		</file>
+	</files>
+</rhpml>

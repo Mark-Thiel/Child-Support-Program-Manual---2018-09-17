@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Location - Cover Page","url":"LOCATION/Location_-_Cover_Page.htm"},{"type":"item","name":"SMEs for Location Chapter","url":"LOCATION/SMEs_for_Location_Chapter.htm"},{"type":"book","name":"Introduction to Location","key":"toc19"},{"type":"book","name":"New Hire Reporting (Fully Automated)","key":"toc20"},{"type":"book","name":"Automated Location Searches","key":"toc21"},{"type":"book","name":"Manual Location Searches","key":"toc22"},{"type":"book","name":"Manually Entering Respondent Address or Employer Into Case Record","key":"toc23"},{"type":"book","name":"Verification of Address or Employment","key":"toc24"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

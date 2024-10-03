@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Codes - Look up meanings of Codes" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Codes - Look up meanings of Codes</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers">You can look up the meanings of 
+ <span style="font-style: italic;">some</span> codes by simply typing them 
+ into the search box of this manual, and hitting <span style="font-weight: bold;">Enter</span>.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">Codes that you can look up this 
+ way include:</p>
+<ul style="list-style: disc;">
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers"><a title="Account Transaction History Codes and Types" 
+													 href="javascript:BSSCPopup('Codes/Account_Transaction_History_Codes.htm',800,1000);" 
+													 id="a1">Account Transaction 
+	 History Codes and Types</a> &#160;(Example: &#160;SADU, DAMT)</p></li>
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers"><a title="Address Source Codes" 
+													 href="javascript:BSSCPopup('Codes/Address_Source_Codes.htm',800,1000);" 
+													 id="a2">Address Source 
+	 Codes</a> &#160;(Example: &#160;CLEC, DMVL)</p></li>
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers"><a title="Frequency Codes" 
+													 href="javascript:BSSCPopup('Codes/Frequency_Codes.htm',800,1000);" 
+													 id="a4">Frequency 
+	 Codes</a> &#160;(Example: D07, M11)</p></li>
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers"><a title="Status and Reason Codes" 
+													 href="javascript:BSSCPopup('Codes/Group_Codes_and_their_Meanings.htm',950,1000);" 
+													 id="a3">Status and 
+	 Reason Codes</a> &#160;(Example: &#160;Q776, B001)</p></li>
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers"><a title="Transaction Type Codes" 
+													 href="javascript:BSSCPopup('Codes/Transaction_Type_Codes.htm',850,1000);" 
+													 id="a5">Transaction 
+	 Type Codes</a> &#160;(Example: &#160;TXCI, UNAP)</p></li>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers">&#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">&#160;</p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	FilePopupInit('a1');
+	FilePopupInit('a2');
+	FilePopupInit('a4');
+	FilePopupInit('a3');
+	FilePopupInit('a5');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

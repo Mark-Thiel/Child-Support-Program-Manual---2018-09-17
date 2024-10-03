@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc12.js\"  name=\"Codes - Code Tables\"><item name=\"COLA Request Indicator codes\" url=\"COLA/Appendices/Codes/COLA_Request_Indicator_codes.htm\" /></data>";

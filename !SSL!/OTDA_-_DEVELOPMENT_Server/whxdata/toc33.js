@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Case Closure\"><item name=\"Introduction to Automated Case Closure\" url=\"CASE_CLOSURE/Introduction_to_Automated_Case_Closure.htm\" /><item name=\"CP requests continuation of services\" url=\"INTAKE/Referrals_-_Intro_to_Referrals_/CP_requests_continuation_of_services.htm#bc-2\" /></data>";

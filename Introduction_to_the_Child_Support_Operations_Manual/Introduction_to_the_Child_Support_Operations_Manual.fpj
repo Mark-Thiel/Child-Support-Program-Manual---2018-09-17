@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Introduction_-_Child_Support_Operations_Manual.htm</name>
+			<comments>Intro to the Child Services Program Manual</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Scope__What_This_Chapter_Covers.htm</name>
+			<comments>What the manual covers and what it doesn't cover.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Introduction_to_the_Child_Support_Program_Manual_-_cover_page.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Servers_-_Development,_Test,_Production.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Title_Page_-_Produced_by_PDP.htm</name>
+			<comments>This manual is provided by the Professional Development Program (PDP) through the Research Foundation for SUNY.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Acknowledgements.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Release_Notes.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Demo_-_Brief_Video_Demo_of_Features.htm</name>
+			<comments>Video: A Brief Demo of the Operations Manual</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Search_Box.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Roadmaps.htm</name>
+			<comments>Roadmaps are interactive process diagrams (i.e. clickable maps).</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Glossary.htm</name>
+			<comments>Features of the Glossary</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Index.htm</name>
+			<comments>Features of the Index</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Known_Issues.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>About_the_Child_Support_Program_Manual.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Tips_for_Using_the_Program_Manual.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Video_-_Overview_of_Child_Support_Program_Manual.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Terminology_-_Standardization_of_Child_Support_Language_in_Publications.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Updated_Each_Year_-_Figures_and_Screenshots.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Download_PDFs_of_Individual_Chapters_of_this_Manual.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Look_Up_the_Meanings_of_Codes.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>SMEs.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

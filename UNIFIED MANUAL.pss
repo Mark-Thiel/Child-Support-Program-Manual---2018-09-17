@@ -1,0 +1,274 @@
+﻿[MAS SUPPORT]
+SupportMas_Prj=1
+[Target:WebHelp]
+SupportMas_Prj=1
+ResultFileName=C:\Users\fo8292\Documents\1...TEMP FOLDER\ADA-Compliant 02\index.htm
+SSLayoutType=2
+CreateProjectTime=10:03, September 14, 2017
+CreateProjectUser=fo8292
+SupportMas_MPJ=1
+ActionID For Generation=1001
+Remove Folder with prompt=1
+ViewFileName=C:\Users\fo8292\Documents\1...TEMP FOLDER\ADA-Compliant 02\index.htm
+ResultStatus=4
+BuildTimeHi=30591207
+BuildTimeLow=-381088621
+[Target:WebHelp Pro]
+SupportMas_Prj=1
+ResultFileName=!SSL!\WebHelp_Pro\01OPSMANUAL.htm
+SSLayoutType=32
+ServerProjectName=01OPSMANUAL
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+ActionID For Generation=1001
+Remove Folder with prompt=1
+MindReader Server=
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\01OPSMANUAL.chm
+SSLayoutType=1
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+ActionID For Generation=1001
+Remove Folder with prompt=1
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\01OPSMANUAL.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=C:\Users\fo8292\Documents\COLA - PDF Output\COLA_Chapter_PDF_-_20170714F.doc
+SSLayoutType=7
+ActionID For Generation=1001
+Remove Folder with prompt=1
+ResultStatus=0
+CreateProjectTime=14:10, April 14, 2017
+CreateProjectUser=fo8292
+SupportMas_MPJ=1
+ViewFileName=C:\Users\fo8292\Documents\COLA - PDF Output\COLA_Chapter_PDF_-_20170714F.doc
+BuildTimeHi=30604476
+BuildTimeLow=1146011604
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\01OPSMANUAL.xml
+SSLayoutType=8129
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\01OPSMANUAL.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Adobe AIR]
+ResultFileName=!SSL!\Adobe_AIR\01OPSMANUAL.air
+SSLayoutType=512
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Multiscreen HTML5]
+ResultFileName=!SSL!\Multiscreen_HTML5\01OPSMANUAL.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+ActionID For Generation=1001
+Remove Folder with prompt=1
+[Target:eBook]
+ResultFileName=!SSL!\eBook\01OPSMANUAL.epub
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Responsive HTML5]
+ResultFileName=C:\02_CURRENT_OUTPUT\COLA\index.htm
+SSLayoutType=2
+CreateProjectTime=14:47, May 17, 2018
+CreateProjectUser=FO8292
+SupportMas_MPJ=1
+MindReader Server=
+ActionID For Generation=1001
+Remove Folder with prompt=1
+ViewFileName=C:\02_CURRENT_OUTPUT\COLA\index.htm
+ResultStatus=3
+BuildTimeHi=30646142
+BuildTimeLow=425309580
+Enable Result Dialog=1
+ResultStatusSharePoint=3
+[Target:Mobile App]
+ResultFileName=!SSL!\Mobile_App\01OPSMANUAL.htm
+SSLayoutType=3
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+ActionID For Generation=1003
+Remove Folder with prompt=1
+[PreSingleSource]
+Html Help Project=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.hhp
+Table Of Content=c:\00_OPSMAN_2018-09-17\Child_Support_OPS_MAN.hhc
+Index=c:\00_OPSMAN_2018-09-17\Child Support Operations Manual.hhk
+Topic Index=c:\00_OPSMAN_2018-09-17\RHTopicKeyword$.hhk
+See Also Index=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.hha
+Browse Sequence=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.brs
+Glossary=c:\00_OPSMAN_2018-09-17\Child_Support_Operations_Manual.glo
+Topic Properties=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trs
+Active Folders=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trf
+Baggage Files=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trb
+Skin List=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trk
+Active Layout Names=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trl
+Template Files=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trt
+Project TOC List=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trtocl
+Project Index List=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.tridxl
+Project Glossary List=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trglol
+Project CSS List=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trcss
+Project Variable Set List=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.trvset
+External URL Settings=c:\00_OPSMAN_2018-09-17\SearchOptions.xml
+Screen Template File Details=c:\00_OPSMAN_2018-09-17\UNIFIED MANUAL.sctfdl
+CPSwfToHTML5Map=c:\00_OPSMAN_2018-09-17\__cpSwf2HTML5ZipMap
+Default Topic=c:\00_OPSMAN_2018-09-17\Introduction_to_the_Child_Support_Operations_Manual\Introduction_to_the_Child_Support_Program_Manual_-_cover_page.htm
+Build Tags0=24548;Author_Notes | Chapter_CASE_CLOSURE | Chapter_COLA | Chapter_COLLECTIONS | Chapter_ENFORCEMENT | Chapter_FINANCIAL_INVESTIGATION | Chapter_INTAKE | Chapter_LOCATION | Chapter_PATERNITY_ESTAB | Chapter_PROCESSING_CENTER | Chapter_SUPPORT_ESTAB
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=en_US
+Language=c:\00_OPSMAN_2018-09-17\!Language!\en_US\RoboHHRE.lng
+Stop List=c:\00_OPSMAN_2018-09-17\!Language!\en_US\UNIFIED MANUAL.stp
+Build Tags1=24548;DEVELOPMENT_SERVER_ONLY | Disclaimer_Test_Server | Exclude_from_PDF_output | Excluded_by_SMEs | File_Name_in_Windows | Front_Matter | KUG_Review_TEST_SERVER_OUTPUT | Legal_Citation | Online | PageFileNameDisplay | PRODUCTION_Server_ONLY | PROJECT_NOTES
+Build Tags2=24548;SME_REVIEW | SOURCE_of_Information | TEST_SERVER_OUTPUT | THIEL_ONLY
+[Target:OTDA PRINT - Program Manual]
+SSLayoutType=7
+ResultFileName=E:\02_COLA_CURRENT_PDF_OUTPUT\COLA_Chapter_PDF_-_20170721A.doc
+ResultStatus=0
+ViewFileName=E:\02_COLA_CURRENT_PDF_OUTPUT\COLA_Chapter_PDF_-_20170721A.doc
+BuildTimeLow=1446394746
+Remove Folder with prompt=1
+ActionID For Generation=1001
+CreateProjectUser=fo8292
+BuildTimeHi=30605880
+ResultStatusSharePoint=1
+CreateProjectTime=14:10, April 14, 2017
+SupportMas_MPJ=1
+[Server:PRODUCTION Server]
+Time Stamp=1509027387
+[Target:OTDA PRINT - Intake Chapter Only]
+SSLayoutType=7
+ResultStatus=0
+ResultFileName=!SSL!\OTDA_PRINT_-_Intake_Chapter_Only\COLA_Chapter_PDF_-_20170721A.docx
+BuildTimeLow=-222559643
+ViewFileName=!SSL!\OTDA_PRINT_-_Intake_Chapter_Only\COLA_Chapter_PDF_-_20170721A.docx
+Remove Folder with prompt=1
+BuildTimeHi=30655153
+CreateProjectUser=FO8292
+ActionID For Generation=1001
+ResultStatusSharePoint=1
+CreateProjectTime=12:37, September 11, 2018
+SupportMas_MPJ=1
+[Target:OTDA PRINT - COLA Chapter only]
+SSLayoutType=7
+ResultStatus=0
+ResultFileName=!SSL!\OTDA_PRINT_-_COLA_Chapter_only\COLA_Chapter_PDF_-_20170721A.docx
+BuildTimeLow=1523858646
+ViewFileName=!SSL!\OTDA_PRINT_-_COLA_Chapter_only\COLA_Chapter_PDF_-_20170721A.docx
+Remove Folder with prompt=1
+BuildTimeHi=30632045
+CreateProjectUser=FO8292
+ActionID For Generation=1001
+ResultStatusSharePoint=1
+CreateProjectTime=12:37, September 11, 2018
+SupportMas_MPJ=1
+[Target:OTDA PRINT - Location Chapter only]
+SSLayoutType=7
+ResultStatus=0
+ResultFileName=!SSL!\OTDA_PRINT_-_Location_Chapter_only\Location_Chapter_PDF.doc
+BuildTimeLow=-2068406032
+ViewFileName=!SSL!\OTDA_PRINT_-_Location_Chapter_only\Location_Chapter_PDF.doc
+Remove Folder with prompt=1
+BuildTimeHi=30690157
+CreateProjectUser=FO8292
+ActionID For Generation=1001
+ResultStatusSharePoint=1
+CreateProjectTime=10:24, September 13, 2018
+SupportMas_MPJ=1
+[Target:OTDA PRINT - Paternity Chapter only]
+SSLayoutType=7
+ResultStatus=1
+ResultFileName=!SSL!\OTDA_PRINT_-_Paternity_Chapter_only\UNIFIED_MANUAL.doc
+BuildTimeLow=1446394746
+ViewFileName=E:\02_COLA_CURRENT_PDF_OUTPUT\COLA_Chapter_PDF_-_20170721A.doc
+Remove Folder with prompt=1
+BuildTimeHi=30605880
+CreateProjectUser=fo8292
+ActionID For Generation=1001
+ResultStatusSharePoint=1
+CreateProjectTime=14:10, April 14, 2017
+SupportMas_MPJ=1
+[Server:KUG Review - TEST Server]
+Time Stamp=1512156561
+[Server:SME Review - DEV Server]
+Time Stamp=1512156528
+[Target:KUG Review - Test Server]
+LastPublishTimeHi=30690373
+SSLayoutType=2
+ResultStatus=0
+ResultFileName=C:\02_OUTPUT_Current\index.htm
+BuildTimeLow=-1311354841
+ViewFileName=C:\02_OUTPUT_Current\index.htm
+Remove Folder with prompt=1
+BuildTimeHi=30690955
+ActionID For Generation=1001
+CreateProjectUser=FO8292
+LastPublishTimeLow=-1162277064
+MindReader Server=
+ResultStatusSharePoint=3
+CreateProjectTime=12:11, September 14, 2018
+PublishResultStatus=4
+Enable Result Dialog=1
+SupportMas_MPJ=1
+[Target:PRODUCTION Server - Program Manual]
+SSLayoutType=2
+LastPublishTimeHi=30688983
+ResultStatus=0
+ResultFileName=C:\02_OUTPUT_Current\PRODUCTION Server -- CURRENT OUTPUT\index.htm
+BuildTimeLow=-1415908952
+ViewFileName=C:\02_OUTPUT_Current\PRODUCTION Server -- CURRENT OUTPUT\index.htm
+Remove Folder with prompt=1
+BuildTimeHi=30690376
+ActionID For Generation=1001
+CreateProjectUser=FO8292
+LastPublishTimeLow=-721358693
+MindReader Server=
+ResultStatusSharePoint=3
+CreateProjectTime=12:27, September 14, 2018
+PublishResultStatus=4
+Enable Result Dialog=1
+SupportMas_MPJ=1
+[Target:GLOSSARY ONLY]
+SSLayoutType=7
+ResultFileName=C:\Users\FO8292\Documents\00_TEMP_FOLDER\Glossary_Only_Output.docx
+ResultStatus=0
+ViewFileName=C:\Users\FO8292\Documents\00_TEMP_FOLDER\Glossary_Only_Output.docx
+BuildTimeLow=1256422261
+Remove Folder with prompt=1
+ActionID For Generation=1001
+CreateProjectUser=FO8292
+BuildTimeHi=30643307
+ResultStatusSharePoint=1
+CreateProjectTime=11:57, January 23, 2018
+SupportMas_MPJ=1
+[Target:MARK'S ROUGH NOTES - Development Server]
+SSLayoutType=2
+LastPublishTimeHi=30683316
+ResultFileName=C:\02_OUTPUT_Current\SME_Review\index.htm
+ResultStatus=4
+ViewFileName=C:\02_OUTPUT_Current\SME_Review\index.htm
+BuildTimeLow=999793226
+Remove Folder with prompt=1
+CreateProjectUser=FO8292
+ActionID For Generation=1001
+BuildTimeHi=30683316
+LastPublishTimeLow=980283226
+ResultStatusSharePoint=1
+MindReader Server=
+CreateProjectTime=12:54, August 31, 2018
+PublishResultStatus=0
+SupportMas_MPJ=1
+Enable Result Dialog=1

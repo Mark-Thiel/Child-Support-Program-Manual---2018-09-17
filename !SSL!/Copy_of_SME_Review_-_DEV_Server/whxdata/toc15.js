@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc4.js\"  name=\"Safety Net Cases\"><item name=\"Safety Net Cases\" url=\"INTAKE/Safety_Net_Cases/Safety_Net_Cases.htm\" /></data>";

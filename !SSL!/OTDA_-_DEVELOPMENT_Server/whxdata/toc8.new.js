@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"What Clients Are Required to Cooperate?","url":"INTAKE/Cooperation_Requirements/What_Clients_Are_Required_to_Cooperate_.htm"},{"type":"item","name":"Define \"Cooperation\"","url":"INTAKE/Cooperation_Requirements/Define__Cooperation_.htm"},{"type":"item","name":"Define Non-Cooperation","url":"INTAKE/Cooperation_Requirements/Define_Non-Cooperation.htm"},{"type":"item","name":"Good Cause versus Domestic Violence Waivers","url":"INTAKE/Referrals_-_Intro_to_Referrals_/Good_Cause_versus_Domestic_Violence_Waivers.htm#bc-1"},{"type":"item","name":"Results of Non-Cooperation","url":"INTAKE/Cooperation_Requirements/Results_of_Non-Cooperation.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

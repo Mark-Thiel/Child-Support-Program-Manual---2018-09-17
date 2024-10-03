@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0">
+	<properties>
+	</properties>
+	<item name="CPI-U">
+		<section name="To View the CPI-U Data From Any Page In ASSETS" link="Screens_You_Will_Encounter_-_Master_List\To_View_the_CPI-U_Data_From_Any_Page_In_ASSETS.htm">
+		</section>
+		<section name="How Is a COLA Calculated?" link="COLA\Intro_to_COLA\How_Is_a_COLA_Calculated_.htm">
+		</section>
+		<section name="Child Support Standards Act (CSSA) Information Tab" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Information_Tab.htm">
+		</section>
+	</item>
+	<item name="Status 02">
+	</item>
+	<item name="Status 05">
+	</item>
+	<item name="Child Support Standards Act (&quot;CSSA&quot;)">
+		<section name="Legislation" link="Legislation\Legislation.htm">
+		</section>
+	</item>
+	<item name="Family Court Act s. 413(1)(b)">
+		<section name="Legislation" link="Legislation\Legislation.htm">
+		</section>
+	</item>
+	<item name="Domestic Relations Law, s. 240(1-b)">
+		<section name="Legislation" link="Legislation\Legislation.htm">
+		</section>
+	</item>
+	<item name="child support percentage">
+		<section name="Legislation" link="Legislation\Legislation.htm">
+		</section>
+	</item>
+	<item name="basic child support obligation">
+		<section name="Legislation" link="Legislation\Legislation.htm">
+		</section>
+	</item>
+	<item name="self-support reserve">
+		<section name="Legislation" link="Legislation\Legislation.htm">
+		</section>
+	</item>
+	<item name="Code &quot;E&quot;">
+		<section name="Review Adjustment Ind field Contains Code &quot;E&quot;" link="COLA\Troubleshooting_-_COLA\Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+		</section>
+		<section name="Caseworker reviews Eligible Cases screen, looks for any accounts with an &quot;E&quot; (Error) code" link="COLA\Non-TA_Process\Caseworker_reviews_Eligible_Cases_screen,_looks_for_any_accounts_with_an__E__(Error)_code.htm">
+		</section>
+		<section name="Roadmap: Non-TA Process Diagram" link="COLA\Non-TA_Process\Roadmap__Non-TA_Process.htm">
+		</section>
+		<section name="Roadmap: TA Process" link="COLA\TA_Process\Roadmap__TA_Process.htm">
+		</section>
+	</item>
+	<item name="error code">
+		<section name="Caseworker reviews Eligible Cases screen, looks for any accounts with an &quot;E&quot; (Error) code" link="COLA\Non-TA_Process\Caseworker_reviews_Eligible_Cases_screen,_looks_for_any_accounts_with_an__E__(Error)_code.htm">
+		</section>
+		<section name="Review Adjustment Ind field Contains Code &quot;E&quot;" link="COLA\Troubleshooting_-_COLA\Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+		</section>
+	</item>
+	<item name="Review Adjustment Ind">
+		<section name="Review Adjustment Ind field Contains Code &quot;E&quot;" link="COLA\Troubleshooting_-_COLA\Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+		</section>
+	</item>
+	<item name="filter">
+	</item>
+	<item name="WRTS">
+		<section name="Summary Tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Tab.htm">
+		</section>
+	</item>
+	<item name="de novo">
+		<section name="Roadmap: After a Court Hearing" link="COLA\After_a_Court_Hearing\Roadmap__After_a_Court_Hearing.htm">
+		</section>
+	</item>
+	<item name="normalization">
+		<section name="Eligible Ledgers" link="COLA\Eligibility\Eligible_Ledgers.htm">
+		</section>
+	</item>
+	<item name="payment frequencies">
+		<section name="Eligible Ledgers" link="COLA\Eligibility\Eligible_Ledgers.htm">
+		</section>
+		<section name="Multiple Ledgers, Different Payment Frequencies" link="COLA\Eligibility\Multiple_Ledgers,_Different_Payment_Frequencies.htm">
+		</section>
+	</item>
+	<item name="Delinquency Switch 19">
+		<section name="What is a COLA?" link="COLA\Intro_to_COLA\What_is_a_COLA_.htm">
+		</section>
+	</item>
+	<item name="SA Ind">
+		<section name="Child Support Standards Act (CSSA) Information Tab" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Information_Tab.htm">
+		</section>
+	</item>
+	<item name="process diagram">
+		<section name="Roadmap: After a Court Hearing" link="COLA\After_a_Court_Hearing\Roadmap__After_a_Court_Hearing.htm">
+		</section>
+		<section name="Roadmap: Objecting to a COLA" link="COLA\Objection_Process\Roadmap__Objecting_to_a_COLA.htm">
+		</section>
+	</item>
+	<item name="Code &quot;R&quot;">
+	</item>
+	<item name="Code &quot;W&quot;">
+	</item>
+	<item name="worker alerts">
+		<section name="Cost of Living Adjustment Eligible Cases Screen" link="Screens_You_Will_Encounter_-_Master_List\COLA_Eligible_Cases_Screen.htm">
+		</section>
+		<section name="Eligible cases appear on &quot;Cost of Living Adjustment Eligible Cases&quot; screen" link="COLA\TA_Process\Step_02.htm">
+		</section>
+		<section name="Introduction to Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Introduction_to_Paternity_Establishment\Introduction_to_Paternity_Establishment.htm">
+		</section>
+	</item>
+	<item name="normalize">
+		<section name="Multiple Ledgers, Different Payment Frequencies" link="COLA\Eligibility\Multiple_Ledgers,_Different_Payment_Frequencies.htm">
+		</section>
+		<section name="ASSETS runs its COLA monthly process (on the third full weekend of each month)" link="COLA\Non-TA_Process\ASSETS_runs_its_COLA_monthly_process_(on_the_third_full_weekend_of_each_month).htm">
+		</section>
+	</item>
+	<item name="Adj Order Objection Date field">
+		<section name="Worker enters Objection Date into Adj Order Objection Date field" link="COLA\Objection_Process\Worker_enters_Objection_Date_into_Adj_Order_Objection_Date_field.htm">
+		</section>
+	</item>
+	<item name="ledgers are locked">
+		<section name="Worker enters Objection Date into Adj Order Objection Date field" link="COLA\Objection_Process\Worker_enters_Objection_Date_into_Adj_Order_Objection_Date_field.htm">
+		</section>
+		<section name="ASSETS locks ledgers so that no COLA goes into effect pending de novo hearing" link="COLA\Objection_Process\ASSETS_locks_ledgers_so_that_no_COLA_goes_into_effect_pending_de_novo_hearing.htm">
+		</section>
+		<section name="CEJ State field is locked" link="COLA\Troubleshooting_-_COLA\Cannot_edit_the__CEJ_State__field_in_ASSETS.htm">
+		</section>
+	</item>
+	<item name="CEJ State field is locked">
+		<section name="Ineligibility" link="COLA\Ineligibility\Ineligibility.htm">
+		</section>
+		<section name="CEJ State field is locked" link="COLA\Troubleshooting_-_COLA\Cannot_edit_the__CEJ_State__field_in_ASSETS.htm">
+		</section>
+	</item>
+	<item name="locked">
+		<section name="Roadmap: After a Court Hearing" link="COLA\After_a_Court_Hearing\Roadmap__After_a_Court_Hearing.htm">
+		</section>
+	</item>
+	<item name="unsigned form">
+		<section name="Proc Ctr Receives an Unsigned Request for a COLA" link="COLA\Troubleshooting_-_COLA\Proc_Ctr_Receives_an_Unsigned_Request_for_a_COLA.htm">
+		</section>
+		<section name="Processing Center captures request for COLA" link="COLA\Non-TA_Process\Processing_Center_enters_request_code_into_system.htm">
+		</section>
+	</item>
+	<item name="COLA Request Form">
+		<section name="Proc Ctr Receives an Unsigned Request for a COLA" link="COLA\Troubleshooting_-_COLA\Proc_Ctr_Receives_an_Unsigned_Request_for_a_COLA.htm">
+		</section>
+		<section name="TA Accounts versus Non-TA Accounts: Different COLA Processes" link="COLA\Intro_to_COLA\TA_Accounts_versus_Non-TA_Accounts__Different_COLA_Processes.htm">
+		</section>
+		<section name="CP or NCP mails request to Processing Center" link="COLA\Non-TA_Process\CP_or_NCP_mails_request_to_Processing_Center.htm">
+		</section>
+	</item>
+	<item name="video">
+		<section name="Demo - Brief Video Demo of Features" link="Introduction_to_the_Child_Support_Operations_Manual\Demo_-_Brief_Video_Demo_of_Features.htm">
+		</section>
+		<section name="Roadmaps" link="Introduction_to_the_Child_Support_Operations_Manual\Roadmaps.htm">
+		</section>
+		<section name="Index" link="Introduction_to_the_Child_Support_Operations_Manual\Index.htm">
+		</section>
+		<section name="Glossary" link="Introduction_to_the_Child_Support_Operations_Manual\Glossary.htm">
+		</section>
+		<section name="Search Box" link="Introduction_to_the_Child_Support_Operations_Manual\Search_Box.htm">
+		</section>
+		<section name="Webinar - Acknowledgement of Paternity - April 25, 2018" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_Process\Webinar_-_Acknowledgement_of_Paternity_-_April_25,_2018.htm">
+		</section>
+		<section name="Worker prepares a Paternity Petition" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_Process\Worker_prepares_a_Paternity_Petition.htm">
+		</section>
+		<section name="$25 Annual Service Fee -- Alternative A" link="INTAKE\Non-TA_Cases_-_Introduction\$25_Annual_Service_Fee_--_Alternative_A.htm">
+		</section>
+		<section name="Video - Overview of Child Support Program Manual" link="Introduction_to_the_Child_Support_Operations_Manual\Video_-_Overview_of_Child_Support_Program_Manual.htm">
+		</section>
+		<section name="Video - Passport Denial - " link="ENFORCEMENT\Video_-_Passport_Denial_-.htm">
+		</section>
+	</item>
+	<item name="features of this manual">
+		<section name="Demo - Brief Video Demo of Features" link="Introduction_to_the_Child_Support_Operations_Manual\Demo_-_Brief_Video_Demo_of_Features.htm">
+		</section>
+	</item>
+	<item name="demonstration">
+		<section name="Demo - Brief Video Demo of Features" link="Introduction_to_the_Child_Support_Operations_Manual\Demo_-_Brief_Video_Demo_of_Features.htm">
+		</section>
+		<section name="Roadmaps" link="Introduction_to_the_Child_Support_Operations_Manual\Roadmaps.htm">
+		</section>
+		<section name="Index" link="Introduction_to_the_Child_Support_Operations_Manual\Index.htm">
+		</section>
+		<section name="Glossary" link="Introduction_to_the_Child_Support_Operations_Manual\Glossary.htm">
+		</section>
+		<section name="Search Box" link="Introduction_to_the_Child_Support_Operations_Manual\Search_Box.htm">
+		</section>
+	</item>
+	<item name="search">
+	</item>
+	<item name="Roadmap">
+		<section name="Roadmaps" link="Introduction_to_the_Child_Support_Operations_Manual\Roadmaps.htm">
+		</section>
+		<section name="Roadmap: TA Process" link="COLA\TA_Process\Roadmap__TA_Process.htm">
+		</section>
+		<section name="Roadmap: Non-TA Process Diagram" link="COLA\Non-TA_Process\Roadmap__Non-TA_Process.htm">
+		</section>
+		<section name="Roadmap: Objecting to a COLA" link="COLA\Objection_Process\Roadmap__Objecting_to_a_COLA.htm">
+		</section>
+		<section name="Roadmap: After a Court Hearing" link="COLA\After_a_Court_Hearing\Roadmap__After_a_Court_Hearing.htm">
+		</section>
+		<section name="Roadmap -  Non-TA Process - Intake" link="INTAKE\Non-TA_Process_-_Intake\Roadmap_-__Non-TA_Process_-_Intake.htm">
+		</section>
+		<section name="Roadmap: TA Process for Intake" link="INTAKE\TA_Process\Roadmap__TA_Process_for_Intake.htm">
+		</section>
+		<section name="Roadmap Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_Process\Roadmap_Paternity_Establishment.htm">
+		</section>
+		<section name="Roadmap_New_Hire_Reporting" link="LOCATION\New_Hire_Reporting\Roadmap_New_Hire_Reporting.htm">
+		</section>
+		<section name="Roadmap - TA Process for Support Establishment" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Roadmap_-_TA_Process_for_Support_Establishment.htm">
+		</section>
+		<section name="Roadmap - Account Creation" link="ACCOUNT_CREATION\Account_Creation_Process\Roadmap_-_Account_Creation.htm">
+		</section>
+	</item>
+	<item name="manual">
+		<section name="Demo - Brief Video Demo of Features" link="Introduction_to_the_Child_Support_Operations_Manual\Demo_-_Brief_Video_Demo_of_Features.htm">
+		</section>
+	</item>
+	<item name="Cost of Living Adjustment Eligible Cases screen">
+		<section name="COLA-Eligible cases appear on &quot;Cost of Living Adjustment Eligible Cases&quot; screen" link="COLA\Non-TA_Process\COLA-Eligible_cases_appear_on__Cost_of_Living_Adjustment_Eligible_Cases__screen.htm">
+		</section>
+		<section name="Eligible cases appear on &quot;Cost of Living Adjustment Eligible Cases&quot; screen" link="COLA\TA_Process\Step_02.htm">
+		</section>
+		<section name="Cost of Living Adjustment Eligible Cases Screen" link="Screens_You_Will_Encounter_-_Master_List\COLA_Eligible_Cases_Screen.htm">
+		</section>
+	</item>
+	<item name="eligibility">
+		<section name="General Eligibility Criteria for a COLA" link="COLA\Eligibility\General_Eligibility_Criteria_for_a_COLA.htm">
+		</section>
+	</item>
+	<item name="ledgers">
+		<section name="Multiple Ledgers, Different Payment Frequencies" link="COLA\Eligibility\Multiple_Ledgers,_Different_Payment_Frequencies.htm">
+		</section>
+		<section name="Roadmap: After a Court Hearing" link="COLA\After_a_Court_Hearing\Roadmap__After_a_Court_Hearing.htm">
+		</section>
+	</item>
+	<item name="Consumer Price Index Tables">
+		<section name="Screens You'll Encounter in COLA" link="Screens_You_Will_Encounter_-_Master_List\Screens_You_ll_Encounter_in_COLA.htm">
+		</section>
+		<section name="To View the CPI-U Data From Any Page In ASSETS" link="Screens_You_Will_Encounter_-_Master_List\To_View_the_CPI-U_Data_From_Any_Page_In_ASSETS.htm">
+		</section>
+	</item>
+	<item name="CSSA">
+		<section name="Screens You'll Encounter in COLA" link="Screens_You_Will_Encounter_-_Master_List\Screens_You_ll_Encounter_in_COLA.htm">
+		</section>
+		<section name="CSSA and CPI-U Screen" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Data_and_Consumer_Price_Index_utility_screen.htm">
+		</section>
+		<section name="Child Support Standards Act (CSSA) Information Tab" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Information_Tab.htm">
+		</section>
+	</item>
+	<item name="Objection Date">
+		<section name="Court receives objection and notifies SCU" link="COLA\Objection_Process\Court_receives_objection.htm">
+		</section>
+	</item>
+	<item name="COLA Order">
+	</item>
+	<item name="ineligibility">
+	</item>
+	<item name="COLA Request Indicator">
+		<section name="Processing Center captures request for COLA" link="COLA\Non-TA_Process\Processing_Center_enters_request_code_into_system.htm">
+		</section>
+	</item>
+	<item name="deadline">
+		<section name="TA Accounts versus Non-TA Accounts: Different COLA Processes" link="COLA\Intro_to_COLA\TA_Accounts_versus_Non-TA_Accounts__Different_COLA_Processes.htm">
+		</section>
+		<section name="Cover Letter accompanying Mailed LDSS-4882 form" link="Notices_and_Correspondence\Cover_Letter_accompanying_Mailed_LDSS-4882_form.htm">
+		</section>
+		<section name="Affidavit of Prior Application" link="Notices_and_Correspondence\Affidavit_of_Prior_Application.htm">
+		</section>
+	</item>
+	<item name="objections">
+		<section name="Intro to Objections in COLA Process" link="COLA\Intro_to_Objections\Intro_to_Objections_in_COLA_Process.htm">
+		</section>
+		<section name="CP or NCP mails Objection to Court" link="COLA\Non-TA_Process\CP_or_NCP_mails_Objection_to_Court.htm">
+		</section>
+		<section name="When Should the DSS Object to a COLA?" link="COLA\Intro_to_Objections\When_Should_the_DSS_Object_to_a_COLA_.htm">
+		</section>
+		<section name="Roadmap: Objecting to a COLA" link="COLA\Objection_Process\Roadmap__Objecting_to_a_COLA.htm">
+		</section>
+		<section name="Worker enters Objection Date into Adj Order Objection Date field" link="COLA\Objection_Process\Worker_enters_Objection_Date_into_Adj_Order_Objection_Date_field.htm">
+		</section>
+	</item>
+	<item name="diagram">
+		<section name="Roadmap: After a Court Hearing" link="COLA\After_a_Court_Hearing\Roadmap__After_a_Court_Hearing.htm">
+		</section>
+	</item>
+	<item name="decision tree">
+		<section name="Decision Tree" link="COLA\Eligibility\Decision_Tree.htm">
+		</section>
+	</item>
+	<item name="CPI">
+		<section name="CSSA and CPI-U Screen" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Data_and_Consumer_Price_Index_utility_screen.htm">
+		</section>
+	</item>
+	<item name="Bureau of Labor Statistics">
+		<section name="To View the CPI-U Data From Any Page In ASSETS" link="Screens_You_Will_Encounter_-_Master_List\To_View_the_CPI-U_Data_From_Any_Page_In_ASSETS.htm">
+		</section>
+	</item>
+	<item name="Adjusted Order of Support">
+	</item>
+	<item name="court address">
+	</item>
+	<item name="potential problem">
+		<section name="Eligible cases appear on &quot;Cost of Living Adjustment Eligible Cases&quot; screen" link="COLA\TA_Process\Step_02.htm">
+		</section>
+	</item>
+	<item name="Obligation Tab">
+		<section name="Obligation Tab screen" link="Screens_You_Will_Encounter_-_Master_List\Obligation_Tab_screen.htm">
+		</section>
+	</item>
+	<item name="Operations Manual">
+		<section name="Demo - Brief Video Demo of Features" link="Introduction_to_the_Child_Support_Operations_Manual\Demo_-_Brief_Video_Demo_of_Features.htm">
+		</section>
+		<item name="Features">
+			<section name="Demo - Brief Video Demo of Features" link="Introduction_to_the_Child_Support_Operations_Manual\Demo_-_Brief_Video_Demo_of_Features.htm">
+			</section>
+		</item>
+	</item>
+	<item name="Cost of Living Adjustment (COLA) Information Edit screen">
+		<section name="Cost of Living Adjustment (COLA) Information Edit" link="Screens_You_Will_Encounter_-_Master_List\Cost_of_Living_Adjustment_(COLA)_Information_Edit.htm">
+		</section>
+	</item>
+	<item name="update COLA">
+		<section name="Cost of Living Adjustment (COLA) Information Edit" link="Screens_You_Will_Encounter_-_Master_List\Cost_of_Living_Adjustment_(COLA)_Information_Edit.htm">
+		</section>
+	</item>
+	<item name="Affidavit of Service">
+		<section name="When Should the DSS Object to a COLA?" link="COLA\Intro_to_Objections\When_Should_the_DSS_Object_to_a_COLA_.htm">
+		</section>
+	</item>
+	<item name="multiple ledgers">
+		<section name="Multiple Ledgers, Different Payment Frequencies" link="COLA\Eligibility\Multiple_Ledgers,_Different_Payment_Frequencies.htm">
+		</section>
+	</item>
+	<item name="Child Support Standards Act">
+		<section name="Child Support Standards Act (CSSA) Information Tab" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Information_Tab.htm">
+		</section>
+	</item>
+	<item name="location status">
+		<section name="Processing Center prints and mails Notice of Your Right to Request" link="COLA\Non-TA_Process\PROC_CENTER_PRINT.htm">
+		</section>
+	</item>
+	<item name="no address">
+		<section name="Processing Center prints and mails Notice of Your Right to Request" link="COLA\Non-TA_Process\PROC_CENTER_PRINT.htm">
+		</section>
+	</item>
+	<item name="unlock">
+		<section name="Roadmap: After a Court Hearing" link="COLA\After_a_Court_Hearing\Roadmap__After_a_Court_Hearing.htm">
+		</section>
+	</item>
+	<item name="Welfare Reporting and Tracking System">
+		<section name="Advanced Search screen" link="Screens_You_Will_Encounter_-_Master_List\Summary_Tab.htm">
+		</section>
+	</item>
+	<item name="screenshot">
+		<section name="Advanced Search screen" link="Screens_You_Will_Encounter_-_Master_List\Summary_Tab.htm">
+		</section>
+		<section name="Obligation Tab screen" link="Screens_You_Will_Encounter_-_Master_List\Obligation_Tab_screen.htm">
+		</section>
+		<section name="Cost of Living Adjustment (COLA) Information Edit" link="Screens_You_Will_Encounter_-_Master_List\Cost_of_Living_Adjustment_(COLA)_Information_Edit.htm">
+		</section>
+		<section name="Cost of Living Adjustment Eligible Cases Screen" link="Screens_You_Will_Encounter_-_Master_List\COLA_Eligible_Cases_Screen.htm">
+		</section>
+		<section name="Child Support Standards Act (CSSA) Information Tab" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Information_Tab.htm">
+		</section>
+		<section name="Screens You'll Encounter in COLA" link="Screens_You_Will_Encounter_-_Master_List\Screens_You_ll_Encounter_in_COLA.htm">
+		</section>
+	</item>
+	<item name="SSN">
+		<section name="Advanced Search screen" link="Screens_You_Will_Encounter_-_Master_List\Summary_Tab.htm">
+		</section>
+	</item>
+	<item name="Advanced Search">
+		<section name="Advanced Search screen" link="Screens_You_Will_Encounter_-_Master_List\Summary_Tab.htm">
+		</section>
+	</item>
+	<item name="navigation">
+	</item>
+	<item name="adjust ledgers">
+		<section name="Roadmap: After a Court Hearing" link="COLA\After_a_Court_Hearing\Roadmap__After_a_Court_Hearing.htm">
+		</section>
+	</item>
+	<item name="$0 Amount Obligation">
+		<section name="Decision Tree" link="COLA\Eligibility\Decision_Tree.htm">
+		</section>
+	</item>
+	<item name="ledger codes">
+		<section name="Eligible Ledgers" link="COLA\Eligibility\Eligible_Ledgers.htm">
+		</section>
+		<section name="Ledger Codes: Meaning and Syntax" link="COLA\Eligibility\Eligible_Ledgers__Syntax_of_Ledger_Codes.htm">
+		</section>
+	</item>
+	<item name="$0 obligation amount orders">
+		<section name="Ineligibility" link="COLA\Ineligibility\Ineligibility.htm">
+		</section>
+	</item>
+	<item name="conflicting dates">
+		<section name="Worker reviews Eligible Cases screen, resolves any cases with Error codes" link="COLA\TA_Process\02.htm">
+		</section>
+		<section name="Review Adjustment Ind field Contains Code &quot;E&quot;" link="COLA\Troubleshooting_-_COLA\Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+		</section>
+	</item>
+	<item name="Code &quot;S&quot;">
+	</item>
+	<item name="Code &quot;F&quot;">
+	</item>
+	<item name="Code &quot;2&quot;">
+	</item>
+	<item name="Code &quot;3&quot;">
+	</item>
+	<item name="financial investigation">
+		<section name="Worker preps for court, conducts financial investigation" link="COLA\Objection_Process\Workers_conducts_financial_investigation.htm">
+		</section>
+	</item>
+	<item name="Objection Date field is locked">
+		<section name="Cannot clear the Objection Date Field" link="COLA\Troubleshooting_-_COLA\Cannot_clear_the_Objection_Date_Field.htm">
+		</section>
+	</item>
+	<item name="SA Ind field">
+		<section name="Child Support Standards Act (CSSA) Information Tab" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Information_Tab.htm">
+		</section>
+	</item>
+	<item name="ERS">
+		<section name="COLA Process Page on ERS" link="COLA\COLA_Process_Page_on_ERS.htm">
+		</section>
+	</item>
+	<item name="forms">
+		<section name="COLA Process Page on ERS" link="COLA\COLA_Process_Page_on_ERS.htm">
+		</section>
+	</item>
+	<item name="policy directives">
+		<section name="COLA Process Page on ERS" link="COLA\COLA_Process_Page_on_ERS.htm">
+		</section>
+	</item>
+	<item name="training">
+		<section name="COLA Process Page on ERS" link="COLA\COLA_Process_Page_on_ERS.htm">
+		</section>
+	</item>
+	<item name="lump sum payments">
+		<section name="Lump Sum Payments" link="COLLECTION\Lump_Sum_Payments.htm">
+		</section>
+	</item>
+	<item name="DVL">
+		<section name="Full Waiver (of Cooperation Requirement)" link="CASE_MANAGEMENT_-_DRAFT\Full_Waiver_(of_Cooperation_Requirement).htm">
+		</section>
+		<section name="Partial Waiver (of cooperation requirement)" link="CASE_MANAGEMENT_-_DRAFT\Partial_Waiver_(of_cooperation_requirement).htm">
+		</section>
+	</item>
+	<item name="domestic violence">
+		<section name="Good Cause versus Domestic Violence Waivers" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Good_Cause_versus_Domestic_Violence_Waivers.htm">
+		</section>
+		<section name="Referral to Domestic Violence Liaison" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Referral_to_Domestic_Violence_Liaison.htm">
+		</section>
+		<section name="Domestic Violence Liaison: What They Do" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Domestic_Violence_Liaison__What_They_Do.htm">
+		</section>
+		<section name="After a Determination by a DVL - Required Actions" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\After_a_Determination_by_a_DVL_-_Required_Actions.htm">
+		</section>
+		<section name="Suppression of Address and Employment Information" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Suppression_of_Address_and_Employment_Information.htm">
+		</section>
+		<section name="To the Customer in TA Cases Involving Domestic Violence" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\To_the_Customer_in_TA_Cases_Involving_Domestic_Violence.htm">
+		</section>
+	</item>
+	<item name="good cause">
+		<section name="Good Cause versus Domestic Violence Waivers" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Good_Cause_versus_Domestic_Violence_Waivers.htm">
+		</section>
+		<section name="Suppression of Address and Employment Information" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Suppression_of_Address_and_Employment_Information.htm">
+		</section>
+		<section name="Continuation of Service When There's a Waiver In Effect" link="CASE_AND_ACCOUNT_MANAGEMENT\Continuation_of_Service_When_There_s_a_Waiver_In_Effect.htm">
+		</section>
+	</item>
+	<item name="full waiver">
+		<section name="Good Cause versus Domestic Violence Waivers" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Good_Cause_versus_Domestic_Violence_Waivers.htm">
+		</section>
+		<section name="Full Waiver (of Cooperation Requirement)" link="CASE_MANAGEMENT_-_DRAFT\Full_Waiver_(of_Cooperation_Requirement).htm">
+		</section>
+		<section name="After a Determination by a DVL - Required Actions" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\After_a_Determination_by_a_DVL_-_Required_Actions.htm">
+		</section>
+		<section name="Continuation of Service When There's a Waiver In Effect" link="CASE_AND_ACCOUNT_MANAGEMENT\Continuation_of_Service_When_There_s_a_Waiver_In_Effect.htm">
+		</section>
+	</item>
+	<item name="partial waiver">
+		<section name="Good Cause versus Domestic Violence Waivers" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Good_Cause_versus_Domestic_Violence_Waivers.htm">
+		</section>
+		<section name="Partial Waiver (of cooperation requirement)" link="CASE_MANAGEMENT_-_DRAFT\Partial_Waiver_(of_cooperation_requirement).htm">
+		</section>
+		<section name="Suppression of Address and Employment Information" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Suppression_of_Address_and_Employment_Information.htm">
+		</section>
+		<section name="After a Determination by a DVL - Required Actions" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\After_a_Determination_by_a_DVL_-_Required_Actions.htm">
+		</section>
+		<section name="Continuation of Service When There's a Waiver In Effect" link="CASE_AND_ACCOUNT_MANAGEMENT\Continuation_of_Service_When_There_s_a_Waiver_In_Effect.htm">
+		</section>
+	</item>
+	<item name="15 days">
+		<section name="Affidavit of Prior Application" link="Notices_and_Correspondence\Affidavit_of_Prior_Application.htm">
+		</section>
+		<section name="Cover Letter accompanying Mailed LDSS-4882 form" link="Notices_and_Correspondence\Cover_Letter_accompanying_Mailed_LDSS-4882_form.htm">
+		</section>
+	</item>
+	<item name="court documents">
+		<section name="Account Creation Summary" link="Notices_and_Correspondence\Account_Creation_Summary.htm">
+		</section>
+	</item>
+	<item name="TA application form">
+		<section name="Forms - Numerical Order" link="Appendices\Forms_-_Numerical_Order.htm">
+		</section>
+	</item>
+	<item name="desk reference">
+		<section name="Timelines for Case Processing" link="INTAKE\Case_Processing_Timelines.htm">
+		</section>
+		<section name="Forms -- Intake Forms" link="INTAKE\The_Application_Referral_Form_LDSS-4882\Forms_--_Intake_Forms.htm">
+		</section>
+		<section name="Timelines_for_Case_Processing" link="Appendices\Timelines_for_Case_Processing.htm">
+		</section>
+		<section name="Social Security Number - Sources For Finding It" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Social_Security_Number_-_Sources_For_Finding_It.htm">
+		</section>
+		<section name="Information Needed to Create an Account" link="ACCOUNT_CREATION\Intro_to_Account_Creation\Information_Needed_to_Create_an_Account.htm">
+		</section>
+	</item>
+	<item name="modification">
+		<section name="If a new or modified order is issued" link="COLA\Objection_Process\If_a_new_or_modified_order_is_issued.htm">
+		</section>
+		<section name="NYS Family Court Tab - Document Generation Utillty" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+		</section>
+	</item>
+	<item name="modified order">
+		<section name="If a new or modified order is issued" link="COLA\Objection_Process\If_a_new_or_modified_order_is_issued.htm">
+		</section>
+	</item>
+	<item name="address confidentiality">
+		<section name="Has customer indicated any safety concerns?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_indicated_any_safety_concerns_.htm">
+		</section>
+	</item>
+	<item name="safety concerns">
+		<section name="Has customer indicated any safety concerns?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_indicated_any_safety_concerns_.htm">
+		</section>
+		<section name="Does customer claim safety concerns?" link="INTAKE\TA_Process\Does_customer_claim_safety_concerns_.htm">
+		</section>
+	</item>
+	<item name="suppression of personally identifying information">
+		<section name="Has customer indicated any safety concerns?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_indicated_any_safety_concerns_.htm">
+		</section>
+	</item>
+	<item name="FVI">
+		<section name="Has customer indicated any safety concerns?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_indicated_any_safety_concerns_.htm">
+		</section>
+		<section name="Family Violence Indicator (FVI) in Non-TA Cases" link="INTAKE\Non-TA_Cases_-_Introduction\Family_Violence_Indicator_(FVI)_in_Non-TA_Cases.htm">
+		</section>
+	</item>
+	<item name="Family Violence Indicator">
+		<section name="Has customer indicated any safety concerns?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_indicated_any_safety_concerns_.htm">
+		</section>
+		<section name="Family Violence Indicator (FVI) in Non-TA Cases" link="INTAKE\Non-TA_Cases_-_Introduction\Family_Violence_Indicator_(FVI)_in_Non-TA_Cases.htm">
+		</section>
+	</item>
+	<item name="order of protection">
+		<section name="Has customer indicated any safety concerns?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_indicated_any_safety_concerns_.htm">
+		</section>
+	</item>
+	<item name="Espanol">
+		<section name="Interview Questions Useful for Paternity Establishment" link="PATERNITY_ESTABLISHMENT\John_Doe_Interview\Interview_Questions_Useful_for_Paternity_Establishment.htm">
+		</section>
+		<section name="Worker provides customer with legal rates" link="INTAKE\Non-TA_Process_-_Intake\Worker_provides_customer_with_legal_rates.htm">
+		</section>
+	</item>
+	<item name="Spanish">
+		<section name="Interview Questions Useful for Paternity Establishment" link="PATERNITY_ESTABLISHMENT\John_Doe_Interview\Interview_Questions_Useful_for_Paternity_Establishment.htm">
+		</section>
+	</item>
+	<item name="troubleshooting">
+		<section name="Cannot clear the Objection Date Field" link="COLA\Troubleshooting_-_COLA\Cannot_clear_the_Objection_Date_Field.htm">
+		</section>
+		<section name="CEJ State field is locked" link="COLA\Troubleshooting_-_COLA\Cannot_edit_the__CEJ_State__field_in_ASSETS.htm">
+		</section>
+		<section name="Review Adjustment Ind field Contains Code &quot;E&quot;" link="COLA\Troubleshooting_-_COLA\Review_Adjustment_Ind_field_Contains_Code__E_.htm">
+		</section>
+		<section name="Proc Ctr Receives an Unsigned Request for a COLA" link="COLA\Troubleshooting_-_COLA\Proc_Ctr_Receives_an_Unsigned_Request_for_a_COLA.htm">
+		</section>
+	</item>
+	<item name="eligible ledgers (for COLA)">
+		<section name="Eligible Ledgers" link="COLA\Eligibility\Eligible_Ledgers.htm">
+		</section>
+	</item>
+	<item name="ineligibility (for COLA)">
+	</item>
+	<item name="de novo hearing">
+		<section name="Intro to Objections in COLA Process" link="COLA\Intro_to_Objections\Intro_to_Objections_in_COLA_Process.htm">
+		</section>
+		<section name="Roadmap: Objecting to a COLA" link="COLA\Objection_Process\Roadmap__Objecting_to_a_COLA.htm">
+		</section>
+		<section name="ASSETS locks ledgers so that no COLA goes into effect pending de novo hearing" link="COLA\Objection_Process\ASSETS_locks_ledgers_so_that_no_COLA_goes_into_effect_pending_de_novo_hearing.htm">
+		</section>
+	</item>
+	<item name="rescinding an order">
+	</item>
+	<item name="Domestic Violence Liaison">
+		<section name="Full Waiver (of Cooperation Requirement)" link="CASE_MANAGEMENT_-_DRAFT\Full_Waiver_(of_Cooperation_Requirement).htm">
+		</section>
+		<section name="Partial Waiver (of cooperation requirement)" link="CASE_MANAGEMENT_-_DRAFT\Partial_Waiver_(of_cooperation_requirement).htm">
+		</section>
+		<section name="Does customer claim safety concerns?" link="INTAKE\TA_Process\Does_customer_claim_safety_concerns_.htm">
+		</section>
+		<section name="Worker sends customer to DVL" link="INTAKE\TA_Process\Worker_sends_customer_to_DVL.htm">
+		</section>
+		<section name="Domestic Violence Liaison: What They Do" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Domestic_Violence_Liaison__What_They_Do.htm">
+		</section>
+		<section name="After a Determination by a DVL - Required Actions" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\After_a_Determination_by_a_DVL_-_Required_Actions.htm">
+		</section>
+		<section name="Referral to Domestic Violence Liaison" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Referral_to_Domestic_Violence_Liaison.htm">
+		</section>
+	</item>
+	<item name="suppression of address">
+		<section name="Suppression of Address and Employment Information" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Suppression_of_Address_and_Employment_Information.htm">
+		</section>
+	</item>
+	<item name="LDSS-4281">
+		<section name="Cooperation Requirements for TA Cases" link="INTAKE\TA_Cases_Intake_Introduction\Cooperation_Requirements_for_TA_Cases.htm">
+		</section>
+	</item>
+	<item name="LDSS-4882B">
+		<section name="CP or NCP completes and returns LDSS-4882" link="INTAKE\TA_Process\CP_or_NCP_completes_and_returns_LDSS-4882.htm">
+		</section>
+	</item>
+	<item name="LDSS-4882C">
+		<section name="CP or NCP completes and returns LDSS-4882" link="INTAKE\TA_Process\CP_or_NCP_completes_and_returns_LDSS-4882.htm">
+		</section>
+	</item>
+	<item name="supporting documentation">
+		<section name="CP or NCP completes and returns LDSS-4882" link="INTAKE\TA_Process\CP_or_NCP_completes_and_returns_LDSS-4882.htm">
+		</section>
+		<section name="Worker examines supporting documentation" link="INTAKE\Non-TA_Process_-_Intake\Worker_examines_supporting_documentation.htm">
+		</section>
+	</item>
+	<item name="Attestation to Lack of Information">
+		<section name="CP signs Attestation to Lack of Information form" link="INTAKE\TA_Process\CP_signs_Attestation_to_Lack_of_Information_form.htm">
+		</section>
+	</item>
+	<item name="customer service">
+		<section name="Worker interviews the customer (Optional)" link="INTAKE\TA_Process\Worker_interviews_the_customer_(Optional).htm">
+		</section>
+		<section name="Worker interviews the customer (Optional)" link="INTAKE\Non-TA_Process_-_Intake\Worker_interviews_the_customer_(Optional).htm">
+		</section>
+	</item>
+	<item name="interpersonal relations">
+		<section name="Worker interviews the customer (Optional)" link="INTAKE\TA_Process\Worker_interviews_the_customer_(Optional).htm">
+		</section>
+		<section name="Interview - Paternity Establishment Interview" link="PATERNITY_ESTABLISHMENT\John_Doe_Interview\Interview_-_Paternity_Establishment_Interview.htm">
+		</section>
+	</item>
+	<item name="suppression of personal identifying information">
+		<section name="Ability to Suppress Personally Idenifying Information" link="INTAKE\Non-TA_Cases_-_Introduction\Ability_to_Suppress_Personally_Idenifying_Information.htm">
+		</section>
+	</item>
+	<item name="legal services">
+		<section name="Has customer requested legal services?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_requested_legal_services_.htm">
+		</section>
+	</item>
+	<item name="fees charged to customers">
+		<section name="Has customer requested legal services?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_requested_legal_services_.htm">
+		</section>
+	</item>
+	<item name="troubleshooting (Intake)">
+		<section name="Worker is kicked out of online application form" link="INTAKE\Troubleshooting_-_Intake\New_Topic.htm">
+		</section>
+		<section name="ASSETS Changes CP or NCP Address" link="INTAKE\Troubleshooting_-_Intake\ASSETS_Changes_CP_or_NCP_Address.htm">
+		</section>
+		<section name="Hard Copy of Referral Never Arrived from TA" link="INTAKE\Troubleshooting_-_Intake\Hard_Copy_of_Referral_Never_Arrived_from_TA.htm">
+		</section>
+	</item>
+	<item name="quick reference guide">
+		<section name="Databases - Respondent Info Needed for Automated Location Search" link="LOCATION\Automated_Location_Searches\Databases_-_Respondent_Info_Needed_for_Automated_Location_Search.htm">
+		</section>
+		<section name="Databases - What Info They Will Yield" link="DO_NOT_PUBLISH\Databases_-_What_Info_They_Will_Yield.htm">
+		</section>
+		<section name="Timelines for Case Processing" link="INTAKE\Case_Processing_Timelines.htm">
+		</section>
+		<section name="Decision Tree" link="COLA\Eligibility\Decision_Tree.htm">
+		</section>
+		<section name="Local Resources for Location Investigation - a Checklist" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Local_Resources_for_Location_Investigation_-_a_Checklist.htm">
+		</section>
+		<section name="Case Processing Timelines" link="INTAKE\Introduction_to_Intake\Case_Processing_Timelines.htm">
+		</section>
+		<section name="Good Cause versus Domestic Violence Waivers" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Good_Cause_versus_Domestic_Violence_Waivers.htm">
+		</section>
+		<section name="Information Needed to Create an Account" link="ACCOUNT_CREATION\Intro_to_Account_Creation\Information_Needed_to_Create_an_Account.htm">
+		</section>
+	</item>
+	<item name="interview">
+		<section name="Interview - Paternity Establishment Interview" link="PATERNITY_ESTABLISHMENT\John_Doe_Interview\Interview_-_Paternity_Establishment_Interview.htm">
+		</section>
+		<section name="Possible Questions for a Paternity Interview" link="PATERNITY_ESTABLISHMENT\John_Doe_Interview\Possible_Questions_for_a_Paternity_Interview.htm">
+		</section>
+	</item>
+	<item name="sensitive questions">
+		<section name="Possible Questions for a Paternity Interview" link="PATERNITY_ESTABLISHMENT\John_Doe_Interview\Possible_Questions_for_a_Paternity_Interview.htm">
+		</section>
+	</item>
+	<item name="Y Group">
+		<section name="Worker cannot select IV-E Foster Care radio button" link="INTAKE\Troubleshooting_-_Intake\Worker_cannot_select_IV-E_Foster_Care_radio_button.htm">
+		</section>
+	</item>
+	<item name="C Group">
+		<section name="Worker cannot select IV-E Foster Care radio button" link="INTAKE\Troubleshooting_-_Intake\Worker_cannot_select_IV-E_Foster_Care_radio_button.htm">
+		</section>
+	</item>
+	<item name="reimbursable by the federal government">
+		<section name="Introduction to Foster Care Cases" link="INTAKE\Foster_Care_Cases\Introduction_to_Foster_Care_Cases.htm">
+		</section>
+	</item>
+	<item name="checklist">
+		<section name="Local Resources for Location Investigation - a Checklist" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Local_Resources_for_Location_Investigation_-_a_Checklist.htm">
+		</section>
+		<section name="Social Security Number - Sources For Finding It" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Social_Security_Number_-_Sources_For_Finding_It.htm">
+		</section>
+	</item>
+	<item name="WMS updates ASSETS datafields">
+		<section name="Referral Search - Building a Case from a Referral Search" link="INTAKE\Case-Building\Referral_Search_-_Building_a_Case_from_a_Referral_Search.htm">
+		</section>
+	</item>
+	<item name="03-ADM-05">
+		<section name="To the Customer in TA Cases Involving Domestic Violence" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\To_the_Customer_in_TA_Cases_Involving_Domestic_Violence.htm">
+		</section>
+	</item>
+	<item name="best practices">
+		<section name="Case-Building - Overview" link="INTAKE\Case-Building\Case-Building_-_An_Introduction.htm">
+		</section>
+		<section name="The IVA-IVD Interface Report" link="INTAKE\TA_Cases_Intake_Introduction\The_IVA-IVD_Interface_Report.htm">
+		</section>
+		<section name="IMPORTANT: Setting FVI Codes" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\IMPORTANT__Setting_FVI_Codes.htm">
+		</section>
+		<section name="Linking Cases -- Should You Do It?" link="INTAKE\Introduction_to_Intake\Linking_Cases_--_Should_You_Do_It_.htm">
+		</section>
+	</item>
+	<item name="federal reimbursement">
+		<section name="Introduction to Foster Care Cases" link="INTAKE\Foster_Care_Cases\Introduction_to_Foster_Care_Cases.htm">
+		</section>
+	</item>
+	<item name="Spanish - Forms &amp; notices available in Spanish">
+		<section name="Worker provides customer with legal rates" link="INTAKE\Non-TA_Process_-_Intake\Worker_provides_customer_with_legal_rates.htm">
+		</section>
+		<section name="Forms - Alphabetical Order" link="Appendices\Forms_-_Alphabetical_Order.htm">
+		</section>
+		<section name="Forms - Numerical Order" link="Appendices\Forms_-_Numerical_Order.htm">
+		</section>
+	</item>
+	<item name="Medical Support Petition">
+		<section name="NYS Family Court Tab - Document Generation Utillty" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+		</section>
+	</item>
+	<item name="Modification Petition">
+		<section name="NYS Family Court Tab - Document Generation Utillty" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+		</section>
+	</item>
+	<item name="Paternity Petition">
+		<section name="NYS Family Court Tab - Document Generation Utillty" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+		</section>
+	</item>
+	<item name="Support Petition">
+		<section name="NYS Family Court Tab - Document Generation Utillty" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+		</section>
+	</item>
+	<item name="Violation Petition">
+		<section name="NYS Family Court Tab - Document Generation Utillty" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+		</section>
+	</item>
+	<item name="Personal Information Form">
+		<section name="NYS Family Court Tab - Document Generation Utillty" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+		</section>
+	</item>
+	<item name="Address Confidentiality Affidavit">
+		<section name="NYS Family Court Tab - Document Generation Utillty" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+		</section>
+	</item>
+	<item name="ASSETS - Under the hood">
+	</item>
+	<item name="Information for the Non-Custodial Parent">
+		<section name="Benefits of Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Introduction_to_Paternity_Establishment\Benefits_of_Paternity_Establishment.htm">
+		</section>
+	</item>
+	<item name="Information for the Custodial Parent">
+		<section name="Benefits of Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Introduction_to_Paternity_Establishment\Benefits_of_Paternity_Establishment.htm">
+		</section>
+	</item>
+	<item name="SCREENSHOTS - NEED BETTER SCREENSHOT">
+		<section name="Worker Alerts - Management Mode - Overage Statuses" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_-_Management_Mode_-_Overage_Statuses.htm">
+		</section>
+		<section name="Worker Alerts - FCR tab" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_-_FCR_tab.htm">
+		</section>
+		<section name="Summary Mode - Respondent Employer Summary" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Respondent_Employer_Summary.htm">
+		</section>
+		<section name="Case Mode - Status Information screen" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Status_Information_screen.htm">
+		</section>
+		<section name="Administrative Subpoena" link="Screens_You_Will_Encounter_-_Master_List\Administrative_Subpoena.htm">
+		</section>
+		<section name="Worker Alerts - Warnings tab" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_-_Warnings_tab.htm">
+		</section>
+		<section name="Enforcement Mode - Respondent Assets Information tab" link="Screens_You_Will_Encounter_-_Master_List\Enforcement_Mode_-_Respondent_Assets_Information_tab.htm">
+		</section>
+		<section name="Case Mode - Respondent Financial tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Respondent_Financial_tab.htm">
+		</section>
+	</item>
+	<item name="Layout Customization - RoboHelp 2015">
+		<section name="Function Bar disappears in Tablet View" link="PROJECT_NOTES\Style_Guide_for_Manual\Function_Bar_disappears_in_Tablet_View.htm">
+		</section>
+		<section name="NYS Logo - Size and Placement" link="PROJECT_NOTES\Style_Guide_for_Manual\NYS_Logo_-_Size_and_Placement.htm">
+		</section>
+	</item>
+	<item name="Layout.CSS file">
+		<section name="Left Sidebar - Navigation Pane" link="PROJECT_NOTES\Style_Guide_for_Manual\Left_Sidebar_-_Navigation_Pane.htm">
+		</section>
+		<section name="NYS Logo - Size and Placement" link="PROJECT_NOTES\Style_Guide_for_Manual\NYS_Logo_-_Size_and_Placement.htm">
+		</section>
+	</item>
+	<item name="Code tables">
+		<section name="Employer_Verification_Indicator" link="Codes\Employer_Verification_Indicator.htm">
+		</section>
+		<section name="Address_Verification_Indicator_Codes" link="Codes\Address_Verification_Indicator_Codes.htm">
+		</section>
+	</item>
+	<item name="Internet Explorer">
+		<section name="Known_Issues" link="Introduction_to_the_Child_Support_Operations_Manual\Known_Issues.htm">
+		</section>
+	</item>
+	<item name="Chrome">
+		<section name="Known_Issues" link="Introduction_to_the_Child_Support_Operations_Manual\Known_Issues.htm">
+		</section>
+	</item>
+	<item name="Firefox">
+		<section name="Known_Issues" link="Introduction_to_the_Child_Support_Operations_Manual\Known_Issues.htm">
+		</section>
+	</item>
+	<item name="rebuttable presumption">
+	</item>
+	<item name="diagrams (other than Roadmaps)">
+	</item>
+	<item name="deceased NCP">
+		<section name="Deceased PF/NCP" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Deceased_PF_NCP.htm">
+		</section>
+	</item>
+	<item name="lists - bullet lists and numbered lists">
+		<section name="Bullet Lists" link="Program_Manual_STYLE_GUIDE\Bullet_Lists_and_Numbered_Lists\Bullet_Lists.htm">
+		</section>
+		<section name="Numbered Lists" link="Program_Manual_STYLE_GUIDE\Bullet_Lists_and_Numbered_Lists\Numbered_Lists.htm">
+		</section>
+	</item>
+	<item name="punctuation">
+		<section name="Bullet Lists" link="Program_Manual_STYLE_GUIDE\Bullet_Lists_and_Numbered_Lists\Bullet_Lists.htm">
+		</section>
+		<section name="Numbered Lists" link="Program_Manual_STYLE_GUIDE\Bullet_Lists_and_Numbered_Lists\Numbered_Lists.htm">
+		</section>
+	</item>
+	<item name="webinar (recording)">
+		<section name="Webinar - Acknowledgement of Paternity - April 25, 2018" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_Process\Webinar_-_Acknowledgement_of_Paternity_-_April_25,_2018.htm">
+		</section>
+	</item>
+	<item name="using reports for effective caseload management">
+		<section name="Introduction to Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Introduction_to_Paternity_Establishment\Introduction_to_Paternity_Establishment.htm">
+		</section>
+		<section name="Case appears on Overage Statuses tab" link="LOCATION\New_Hire_Reporting\Case_appears_on_Overage_Statuses_tab.htm">
+		</section>
+		<section name="Automated Location Searches - Introduction" link="LOCATION\Automated_Location_Searches\Automated_Location_Searches_-_Introduction.htm">
+		</section>
+		<section name="Case-Building - Overview" link="INTAKE\Case-Building\Case-Building_-_An_Introduction.htm">
+		</section>
+		<section name="The IVA-IVD Interface Report" link="INTAKE\TA_Cases_Intake_Introduction\The_IVA-IVD_Interface_Report.htm">
+		</section>
+		<section name="Deceased PF/NCP" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Deceased_PF_NCP.htm">
+		</section>
+		<section name="Essential Screens in the Location Process" link="LOCATION\Introduction_to_Location\Essential_Screens_in_the_Location_Process.htm">
+		</section>
+		<section name="Caseworker reviews Eligible Cases screen, looks for any accounts with an &quot;E&quot; (Error) code" link="COLA\Non-TA_Process\Caseworker_reviews_Eligible_Cases_screen,_looks_for_any_accounts_with_an__E__(Error)_code.htm">
+		</section>
+	</item>
+	<item name="laws and regulations">
+		<section name="Laws and Regulations Pertaining to Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Introduction_to_Paternity_Establishment\Laws_and_Regulations_Pertaining_to_Paternity_Establishment.htm">
+		</section>
+		<section name="Laws and Regulations Related to Support Establishment" link="SUPPORT_ESTABLISHMENT\Laws_and_Regulations_Related_to_Support_Establishment.htm">
+		</section>
+		<section name="Laws and Regulations Related to Collection and Disbursement" link="ACCOUNT_CREATION\Laws_and_Regulations_Related_to_Collection_and_Disbursement.htm">
+		</section>
+	</item>
+	<item name="UCMS">
+		<section name="Introduction to Account Creation" link="ACCOUNT_CREATION\Introduction_to_Account_Creation.htm">
+		</section>
+	</item>
+	<item name="Universal Court Management System">
+		<section name="Introduction to Account Creation" link="ACCOUNT_CREATION\Introduction_to_Account_Creation.htm">
+		</section>
+	</item>
+	<item name="rescind">
+		<section name="Worker rescinds &quot;Adjusted Order of Support&quot;" link="COLA\Objection_Process\Worker_rescinds__Adjusted_Order_of_Support_.htm">
+		</section>
+	</item>
+	<item name="figures updated each year">
+	</item>
+	<item name="updated each year">
+		<section name="CSSA and CPI-U Screen" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Data_and_Consumer_Price_Index_utility_screen.htm">
+		</section>
+	</item>
+	<item name="Final Rule">
+	</item>
+	<item name="admissibility of evidence">
+	</item>
+	<item name="legislation">
+		<section name="CSSA - the Child Support Standards Act" link="Introduction_to_Child_Support\CSSA_-_the_Child_Support_Standards_Act.htm">
+		</section>
+		<section name="Case Processing Timelines" link="INTAKE\Introduction_to_Intake\Case_Processing_Timelines.htm">
+		</section>
+		<section name="Laws and Regulations Related to Support Establishment" link="SUPPORT_ESTABLISHMENT\Laws_and_Regulations_Related_to_Support_Establishment.htm">
+		</section>
+		<section name="Laws and Regulations Related to Collection and Disbursement" link="ACCOUNT_CREATION\Laws_and_Regulations_Related_to_Collection_and_Disbursement.htm">
+		</section>
+	</item>
+	<item name="evidence">
+		<section name="Admissible Evidence - What Is Admissible?" link="FINANCIAL_INVESTIGATION\Admissible_Evidence_-_What_Is_Admissible_.htm">
+		</section>
+		<section name="Discovery of Financial Evidence" link="FINANCIAL_INVESTIGATION\Discovery_of_Financial_Evidence.htm">
+		</section>
+		<section name="Discovery and Investigative Tools" link="FINANCIAL_INVESTIGATION\Discovery_and_Investigative_Tools.htm">
+		</section>
+	</item>
+	<item name="admissibility">
+		<section name="Admissible Evidence - What Is Admissible?" link="FINANCIAL_INVESTIGATION\Admissible_Evidence_-_What_Is_Admissible_.htm">
+		</section>
+	</item>
+	<item name="Final Rule - implications">
+		<section name="Laws and Regulations Governing Financial Investigations" link="FINANCIAL_INVESTIGATION\Laws_and_Regulations_Governing_Financial_Investigations.htm">
+		</section>
+		<section name="Discovery of Financial Evidence" link="FINANCIAL_INVESTIGATION\Discovery_of_Financial_Evidence.htm">
+		</section>
+		<section name="Discovery and Investigative Tools" link="FINANCIAL_INVESTIGATION\Discovery_and_Investigative_Tools.htm">
+		</section>
+		<section name="Admissible Evidence - What Is Admissible?" link="FINANCIAL_INVESTIGATION\Admissible_Evidence_-_What_Is_Admissible_.htm">
+		</section>
+		<section name="Webinar - Financial Investigation Requirements Under the Amended State and Federal Regulations" link="FINANCIAL_INVESTIGATION\Webinar_-_Financial_Investigation_Requirements_Under_the_Amended_State_and_Federal_Regulations.htm">
+		</section>
+		<section name="Financial Investigations - Discovery and Admissibility - Laws and Regs" link="FINANCIAL_INVESTIGATION\Financial_Investigations_-_Discovery_and_Admissibility_-_Laws_and_Regs.htm">
+		</section>
+	</item>
+	<item name="self-employed">
+		<section name="Self-Employed PF/NCP" link="FINANCIAL_INVESTIGATION\Self-Employed_PF_NCP.htm">
+		</section>
+	</item>
+	<item name="off-the-books income">
+		<section name="Self-Employed PF/NCP" link="FINANCIAL_INVESTIGATION\Self-Employed_PF_NCP.htm">
+		</section>
+	</item>
+	<item name="calculator">
+	</item>
+	<item name="default order">
+		<section name="Support hearing is convened" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_hearing_is_convened.htm">
+		</section>
+	</item>
+	<item name="no show">
+		<section name="Support hearing is convened" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_hearing_is_convened.htm">
+		</section>
+	</item>
+	<item name="failure to appear">
+		<section name="Support hearing is convened" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_hearing_is_convened.htm">
+		</section>
+	</item>
+	<item name="medical support">
+		<section name="Support Magistrate issues Order of Support" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_Magistrate_issues_Order_of_Support.htm">
+		</section>
+	</item>
+	<item name="summons">
+		<section name="Support hearing is convened" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_hearing_is_convened.htm">
+		</section>
+	</item>
+	<item name="effective date of order">
+		<section name="Change of Payee - TA Cases" link="SUPPORT_ESTABLISHMENT\Change_of_Payee\Change_of_Payee_-_TA_Cases.htm">
+		</section>
+	</item>
+	<item name="court histories">
+		<section name="Change of Payee - TA Cases" link="SUPPORT_ESTABLISHMENT\Change_of_Payee\Change_of_Payee_-_TA_Cases.htm">
+		</section>
+	</item>
+	<item name="graphics">
+		<section name="Video - Overview of Child Support Program Manual" link="Introduction_to_the_Child_Support_Operations_Manual\Video_-_Overview_of_Child_Support_Program_Manual.htm">
+		</section>
+		<section name="Roadmaps (Video demonstration)" link="Introduction_to_the_Child_Support_Operations_Manual\Roadmaps.htm">
+		</section>
+		<section name="Search Box" link="Introduction_to_the_Child_Support_Operations_Manual\Search_Box.htm">
+		</section>
+		<section name="Index" link="Introduction_to_the_Child_Support_Operations_Manual\Index.htm">
+		</section>
+		<section name="Ways In Which Data Enters Case Records In ASSETS" link="Introduction_to_Child_Support\Ways_In_Which_Data_Enters_Case_Records_In_ASSETS.htm">
+		</section>
+		<section name="Roadmaps and Diagrams" link="Introduction_to_Child_Support\Roadmaps_and_Diagrams.htm">
+		</section>
+		<section name="Applications versus Referrals" link="INTAKE\Introduction_to_Intake\Applications_versus_Referrals.htm">
+		</section>
+		<section name="ASSETS Changes CP or NCP Address" link="INTAKE\Troubleshooting_-_Intake\ASSETS_Changes_CP_or_NCP_Address.htm">
+		</section>
+		<section name="Introduction to Location" link="LOCATION\Introduction_to_Location\Introduction_to_Location.htm">
+		</section>
+		<section name="Ways In Which Data Enters ASSETS" link="LOCATION\Introduction_to_Location\Ways_In_Which_Data_Enters_ASSETS.htm">
+		</section>
+		<section name="Intro to New Hire Reporting" link="LOCATION\New_Hire_Reporting\Intro_to_New_Hire_Reporting.htm">
+		</section>
+		<section name="Roadmap_New_Hire_Reporting" link="LOCATION\New_Hire_Reporting\Roadmap_New_Hire_Reporting.htm">
+		</section>
+		<section name="Roadmap: TA Process for Intake" link="INTAKE\TA_Process\Roadmap__TA_Process_for_Intake.htm">
+		</section>
+		<section name="Roadmap - Non-TA Process - Intake" link="INTAKE\Non-TA_Process_-_Intake\Roadmap_-__Non-TA_Process_-_Intake.htm">
+		</section>
+		<section name="Roadmap - TA Process for Support Establishment" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Roadmap_-_TA_Process_for_Support_Establishment.htm">
+		</section>
+		<section name="Support Magistrate calculates support obligation amount" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_Magistrate_calculates_support_obligation_amount.htm">
+		</section>
+		<section name="Roadmap - Account Creation" link="ACCOUNT_CREATION\Account_Creation_Process\Roadmap_-_Account_Creation.htm">
+		</section>
+	</item>
+</index>

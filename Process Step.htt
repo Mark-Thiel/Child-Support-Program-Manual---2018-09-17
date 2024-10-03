@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Steps in a process get this heading" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Process Step</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+<!--Manual designed and built by Mark Thiel, Professional Development Program, Research Foundation of SUNY, 
+Rockefeller College of Public Affairs and Policy, The University at Albany, State University of New York
+PLEASE REPORT ANY BROKEN LINKS OR OTHER ISSUES VIA THE FEEDBACK LINK ON THE BOTTOM OF EVERY PAGE OF THE MANUAL.
+THANK YOU-->
+</head>
+
+<body>
+<?rh-placeholder type="breadcrumbs" ph-align="0" usetopicformat="0" home="Home" 
+ sep-char=" &gt; " ph-style="font-family:Arial;font-size:10pt;font-weight: normal;font-style: normal;text-decoration: none;" ?>
+<?rh-region_start type="body" ?>
+	<h1 class="Process_Step_H1">Process Step</h1>
+	<p class="Normal_Pre-Bullet_Pre-Numbers">This is Body Placeholder text 
+	 for your Master Page. </p>
+<?rh-region_end type="body" ?>
+<p>&#160;</p>
+<?rh-region_start type="footer" style="width: 100%; position: relative;" ?>
+	<?rh-cbt_start condition="TEST_SERVER_OUTPUT, Exclude_from_PDF_output" ?>
+<p 
+		 class="Normal_Pre-Bullet_Pre-Numbers" style="text-align: center; 
+		 font-size: 11pt; font-family: Calibri, sans-serif; font-weight: bold; 
+		 margin-top: 70pt; color: #513077;">* <?rh-cbt_start condition="Exclude_from_PDF_output, TEST_SERVER_OUTPUT" ?><a 
+	 href="mailto:PDP-CSTOP@LISTSERV.ALBANY.EDU?subject=Feedback%20about%20the%20Child%20Support%20Program%20Manual&amp;body=Thanks%20for%20providing%20feedback%20about%20the%20manual!%0AWhat%20page%20of%20the%20manual%20are%20you%20writing%20to%20us%20about%3F%0A(Please%20paste%20the%20URL%20of%20the%20page%20below.)" 
+	 style="color: #513077;">Contact the Child Support Program Manual &#160;(We 
+	 love feedback!)*</a><?rh-cbt_end ?><?rh-cbt_start condition="Exclude_from_PDF_output, TEST_SERVER_OUTPUT" ?> 
+	 <?rh-cbt_end ?></p><?rh-cbt_end ?>
+	<?rh-cbt_start condition="KUG_Review_TEST_SERVER_OUTPUT" ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers" 
+		 style="text-align: center; font-size: 10pt; margin-top: 20pt; 
+		 font-family: Arial, sans-serif; color: #513077;">- &#160;Last 
+	 updated on <?rh-variable_start name="date" format="MMMM dd,yyyy" value="43348.562697" ?>September 06,2018<?rh-variable_end ?> 
+	 at <?rh-variable_start name="time" format="h:mm AM/PM" value="43348.562697" ?>1:30 PM<?rh-variable_end ?> 
+	 -</p><?rh-cbt_end ?>
+	<p class="Normal_Pre-Bullet_Pre-Numbers">&#160;</p>
+	<p class="Normal_Pre-Bullet_Pre-Numbers">&#160;</p>
+	<?rh-cbt_start condition="Exclude_from_PDF_output, File_Name_in_Windows" ?>
+ <p 
+		 class="Normal_Pre-Bullet_Pre-Numbers" style="margin-bottom: 0pt; 
+		 line-height: Normal; font-family: Calibri, sans-serif; text-align: right; 
+		 font-size: 11pt; color: #513077; font-weight: bold;"><?rh-variable_start 
+	 name="file" format="default" value="ACS_and-or_Order_of_Support_appear_on_Family_Court_Interface.htm" ?>ACS_and-or_Order_of_Support_appear_on_Family_Court_Interface.htm<?rh-variable_end ?></p><?rh-cbt_end ?>
+<?rh-region_end type="footer" ?>
+</body>
+</html>

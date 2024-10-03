@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc20.js\"  name=\"Style Guide for Program Manual\"><item name=\"Style Guide -- Spellings\" url=\"Style_Guide_for_Manual/Style_Guide_--_Spellings.htm\" data-rhtags=\"1\" /></data>";

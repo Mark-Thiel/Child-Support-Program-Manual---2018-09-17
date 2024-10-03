@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>COLA_-_Cover_page_for_COLA_chapter.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>COLA_Process_Page_on_ERS.htm</name>
+			<comments>ERS has COLA resources.</comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>Intro_to_COLA</name>
+		</folder>
+		<folder>
+			<name>Eligibility</name>
+		</folder>
+		<folder>
+			<name>Ineligibility</name>
+		</folder>
+		<folder>
+			<name>TA_Process</name>
+		</folder>
+		<folder>
+			<name>Non-TA_Process</name>
+		</folder>
+		<folder>
+			<name>Intro_to_Objections</name>
+		</folder>
+		<folder>
+			<name>Objection_Process</name>
+		</folder>
+		<folder>
+			<name>After_a_Court_Hearing</name>
+		</folder>
+		<folder>
+			<name>Graphics_for_COLA</name>
+		</folder>
+		<folder>
+			<name>Troubleshooting_-_COLA</name>
+		</folder>
+		<folder>
+			<name>Notices_Documents_and_Correspondence</name>
+		</folder>
+		<folder>
+			<name>Appendices</name>
+		</folder>
+	</folders>
+</rhpml>

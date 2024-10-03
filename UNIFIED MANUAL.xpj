@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<projectproperties>
+		<projecttitle>Child Support Program Manual</projecttitle>
+		<homepage>First_Topic.htm</homepage>
+		<primarylayout>Responsive HTML5</primarylayout>
+		<Flags>92</Flags>
+		<language>1033</language>
+	</projectproperties>
+	<TOCFileNames>
+		<TOC>
+			<file>UNIFIED MANUAL.hhc</file>
+		</TOC>
+		<TOC>
+			<file>Child_Support_OPS_MAN.hhc</file>
+			<default>default</default>
+		</TOC>
+		<TOC>
+			<file>TA_Unit_closes_TA_case_but,_CP_requests_continuation_of_services.hhc</file>
+		</TOC>
+		<TOC>
+			<file>Timelines_for_Case_Processing.hhc</file>
+		</TOC>
+		<TOC>
+			<file>Proc Ctr mails ADJUSTED ORDER OF SUPPORT to parties.hhc</file>
+		</TOC>
+		<TOC>
+			<file>Full Waiver.hhc</file>
+		</TOC>
+		<TOC>
+			<file>Good Cause versus Domestic Violence Waivers.hhc</file>
+		</TOC>
+		<TOC>
+			<file>Databases Used for Searches and Location.hhc</file>
+		</TOC>
+		<TOC>
+			<file>Define Good Cause.hhc</file>
+		</TOC>
+	</TOCFileNames>
+	<IndexFileNames>
+		<Index>
+			<file>UNIFIED MANUAL.hhk</file>
+		</Index>
+		<Index>
+			<file>COLA.hhk</file>
+		</Index>
+		<Index>
+			<file>Child Support Operations Manual.hhk</file>
+			<default>default</default>
+		</Index>
+	</IndexFileNames>
+	<GlossaryFileNames>
+		<Glossary>
+			<file>UNIFIED MANUAL.glo</file>
+		</Glossary>
+		<Glossary>
+			<file>Child_Support_Operations_Manual.glo</file>
+			<default>default</default>
+		</Glossary>
+	</GlossaryFileNames>
+	<ignoredwords>
+		<word>Intro</word>
+	</ignoredwords>
+	<TODOList>
+		<TODOItem>First Draft</TODOItem>
+		<TODOItem>Added To TOC</TODOItem>
+		<TODOItem>Links - All built in topic</TODOItem>
+		<TODOItem>Index words in topic?</TODOItem>
+		<TODOItem>See Also keywords</TODOItem>
+		<TODOItem>Images</TODOItem>
+		<TODOItem>Browse Sequences</TODOItem>
+		<TODOItem>Tested</TODOItem>
+		<TODOItem>Finalized</TODOItem>
+		<TODOItem>Reviewed</TODOItem>
+		<TODOItem>Filters - Role Applied to Topic</TODOItem>
+		<TODOItem>Glossary - global update</TODOItem>
+		<TODOItem>Resource Manager - global update</TODOItem>
+		<TODOItem>Ran Smart Index</TODOItem>
+	</TODOList>
+	<miscproperties/>
+	<CompileOptions>
+		<Flags>12</Flags>
+	</CompileOptions>
+	<Collections>
+		<FolderCollectionFilename>root.fpj</FolderCollectionFilename>
+		<SkinCollectionFilename>rhskins.apj</SkinCollectionFilename>
+		<BaggageCollectionFilename>rhbag.apj</BaggageCollectionFilename>
+		<WindowCollectionFilename>rhwnd.apj</WindowCollectionFilename>
+		<TemplateCollectionFilename>rhtemplate.apj</TemplateCollectionFilename>
+		<BuildTagCollectionFilename>rhbuildtag.apj</BuildTagCollectionFilename>
+		<MapFileCollectionFilename>rhmapfile.apj</MapFileCollectionFilename>
+		<ColorCollectionFilename>rhcolor.apj</ColorCollectionFilename>
+		<sresCollectionFilename>rhsharedresource.apj</sresCollectionFilename>
+		<FontSetCollectionFilename>rhfontset.apj</FontSetCollectionFilename>
+		<ExternalFileCollectionFilename>rhextern.apj</ExternalFileCollectionFilename>
+		<LayoutCollectionFilename>rhlayout.apj</LayoutCollectionFilename>
+		<AKeywordCollectionFilename>rhakeyword.apj</AKeywordCollectionFilename>
+		<KKeywordCollectionFilename>rhkkeyword.apj</KKeywordCollectionFilename>
+		<PopupTopicCollectionFilename>rhpopup.apj</PopupTopicCollectionFilename>
+		<FramesetCollectionFilename>rhframeset.apj</FramesetCollectionFilename>
+		<MergedHelpCollectionFilename>rhmhelp.apj</MergedHelpCollectionFilename>
+		<InfoTypeCollectionFilename>rhinfotype.apj</InfoTypeCollectionFilename>
+		<VariableCollectionFilename>rhvariable.apj</VariableCollectionFilename>
+		<SnippetCollectionFilename>rhsnippet.apj</SnippetCollectionFilename>
+		<RHFrameDocsCollectionFileName>RHFrameDocs.apj</RHFrameDocsCollectionFileName>
+		<RHWordDocsCollectionFileName>RHWordDocs.apj</RHWordDocsCollectionFileName>
+		<RHCpDocsCollectionFileName>RHCpDocs.apj</RHCpDocsCollectionFileName>
+		<ScreenCollectionFilename>rhscreens.apj</ScreenCollectionFilename>
+	</Collections>
+	<mergedhelpfiles/>
+</rhpml>

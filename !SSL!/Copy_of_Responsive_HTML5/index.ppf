@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE polprojfile>
+<ppfml version="2.00" project="Child Support Operations Manual" type="4">
+ <windowlist defaultwindow="NewWindow">
+  <window name="NewWindow" x="5%" y="5%" width="90%" height="90%" viewtype="doublepane" workspacestyle="DEFAULT" toolbar="off" locationbar="off" menu="off" resizable="yes" statusbar="off" usecurrentwindowsettings="yes" caption="NewWindow">
+   <elements><element name="BrowseSequence" Present="no" /><element name="SearchInput" Present="no" />
+   </elements>
+   <agents defaultagent="toc">
+    <agent>toc
+    </agent>
+    <agent>ndx
+    </agent>
+    <agent>nls
+    </agent>
+   </agents>
+  </window>
+ </windowlist>
+ <contextmap>
+ </contextmap>
+ <topiclist defaulttopic="COLA\What_is_a_COLA_.htm">
+  <topic>COLA\Non-TA_Process\ASSETS_enters_request_into__COLA_Request_Indicator__field.htm
+  </topic>
+  <topic>Child_Support_Operations_Manual\Intro_-_Child_Support_Operations_Manual.htm
+  </topic>
+  <topic>COLA\Objections\Caseworker_or_DSS_worker_attends_court_hearing.htm
+  </topic>
+  <topic>COLA\Ineligibility\Ineligibility.htm
+  </topic>
+  <topic>Demo_-_Examples_of_Pages\Legislation.htm
+  </topic>
+  <topic>COLA\Eligibility\Ledger_Codes_-_Syntax.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\Caseworker_resolves_any_accounts_with__E__(Error)_codes.htm
+  </topic>
+  <topic>Added_Features.htm
+  </topic>
+  <topic>COLA\Eligibility\Eligible_Ledgers.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\COLA-Eligible_cases_appear_on__Cost_of_Living_Adjustment_Eligible_Cases__screen.htm
+  </topic>
+  <topic>Mark_Thiel_Work_Files\To_Do_List.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\ASSETS_calculates_COLAs_for_eligible_cases,_generates_data_files.htm
+  </topic>
+  <topic>COLA\TA_-_First_Topic.htm
+  </topic>
+  <topic>COLA\Objections\Court_sends_copy_of_new_court_order_to_all_parties.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\COLA_Requested_by_CP_or_NCP_.htm
+  </topic>
+  <topic>Demo_-_Examples_of_Pages\Caseworker_Step_in_a_Process.htm
+  </topic>
+  <topic>COLA\Screen_You_Will_Encounter\Child_Support_Standards_Act_(CSSA)_Data_and_Consumer_Price_Index_utility_screen.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\Caseworker_reviews_Eligible_Cases_screen,_looks_for_any_accounts_with_an__E__(Error)_code.htm
+  </topic>
+  <topic>COLA\Troubleshooting_-_COLA\Cannot_clear_the_Objection_Date_Field.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\ASSETS_identifies_cases.htm
+  </topic>
+  <topic>Mark_Thiel_Work_Files\Meeting_Topics.htm
+  </topic>
+  <topic>COLA\Eligibility\Master_Page_MT_Topic.htm
+  </topic>
+  <topic>COLA\TA_Accounts_versus_Non-TA_Accounts__Different_COLA_Processes.htm
+  </topic>
+  <topic>Delete_this_-_Test_Create_Book_from_Page.htm
+  </topic>
+  <topic>COLA\Objections\Procedures_for_Objections.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\CP_or_NCP_mails_request_to_Processing_Center.htm
+  </topic>
+  <topic>Demo_-_Examples_of_Pages\Automated_(ASSETS)_Step_in_a_Process.htm
+  </topic>
+  <topic>COLA\Eligibility\General_Eligibility_Criteria_for_a_COLA.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\Data_files_are_sent_to_Processing_Center.htm
+  </topic>
+  <topic>Variables_-_To_Be_Created.htm
+  </topic>
+  <topic>COLA\Troubleshooting_-_COLA\Cannot_edit_the__CEJ_State__field_in_ASSETS.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\On_the_third_full_weekend_of_each_month,_ASSETS_runs_its_COLA_monthly_process.htm
+  </topic>
+  <topic>Mark_Thiel_Work_Files\Style_Sheet_-_Mark_Thiel.htm
+  </topic>
+  <topic>COLA\What_is_a_COLA_.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\In_the_next_third_full_weekend_of_the_month,_ASSETS_runs_COLA_monthly_process.htm
+  </topic>
+  <topic>COLA\Eligibility\Quick_Reference__General_Eligility.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\ASSETS_identifies_accounts_receiving_notices_this_month.htm
+  </topic>
+  <topic>COLA_Notices_-_Sent_from_Processing_Center.htm
+  </topic>
+  <topic>Snippets_-_to_be_created.htm
+  </topic>
+  <topic>COLA\Troubleshooting_-_COLA\Review_Adjustment_Ind_field_Contains_Code__E_.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\Processing_Center_receives_COLA_request.htm
+  </topic>
+  <topic>Child_Support_Operations_Manual\Introduction_-_Child_Support_Operations_Manual.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\Processing_Center_prints_and_mails__Notice_of_Your_Right_to_Request...__to_CP___NCP.htm
+  </topic>
+  <topic>COLA\Ineligibility\Ineligible_Ledgers.htm
+  </topic>
+  <topic>Demo_-_Examples_of_Pages\CP_or_NCP_Step_in_a_Process.htm
+  </topic>
+  <topic>COLA\Eligibility\To_View_the_CPI-U_Data_From_Any_Page_In_ASSETS.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\Processing_Center_sends_request_to_ASSETS.htm
+  </topic>
+  <topic>Keyboard_Shortcuts_in_RoboHelp.htm
+  </topic>
+  <topic>COLA\Eligibility\Eligible_Ledgers__Syntax_of_Ledger_Codes.htm
+  </topic>
+  <topic>COLA\Non-TA_Process\ASSETS_sends_data_files_to_Processing_Center.htm
+  </topic>
+ </topiclist>
+ <projectincludes>
+ </projectincludes>
+ <filenamemap>
+  <filenameentry moniker="wh_languagetype">
+   <filename>en_US
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="toc">
+   <filename>index.hhc
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="ndx">
+   <filename>index.hhk
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="nls">
+   <filename>index.nla
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="gls">
+   <filename>index.glo
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="wh_lngfile">
+   <filename>index.lng
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="wh_stoplist">
+   <filename>index.stp
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="startpage">
+   <filename>index.htm
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="keywordinfo">
+   <filename>SearchOptions.xml
+   </filename>
+  </filenameentry>
+ </filenamemap>
+</ppfml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Linking Cases - Whether or not to do it" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Linking Cases - Whether or not to do it</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<h2 class="Normal_Pre-Bullet_Pre-Numbers">When should you link cases?</h2>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">Please 
+ exercise caution when considering whether to link cases. </p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;"><span 
+	 style="font-weight: bold; font-size: 12pt;">Once linked, cases can 
+ never be unlinked.</span></p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; font-size: 12pt; 
+	 color: #ff0000; margin-left: 67px;">Cases should be linked when <?rh-symbol_start 
+	 name="Em Dash" ?>—<?rh-symbol_end ?> and <span style="font-style: italic;">ONLY</span> 
+ when <?rh-symbol_start name="Em Dash" ?>—<?rh-symbol_end ?> all parties 
+ in both cases are the same and the worker is building a sub-account.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px; font-weight: bold; 
+	 text-decoration: underline; ">Example:</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">A single 
+ account can contain a maximum of 18 ledgers. When an account has reached 
+ the maximum number of ledgers, but <span style="font-style: italic;">more 
+ ledgers need to be added</span> to the account, the CSEU worker must build 
+ a whole new case to contain the new ledgers. &#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">In 
+ this instance, all parties in the new case will be the same as on the 
+ older case, and the two cases can be linked. &#160;Implications? When 
+ information (like address of CP, for example) is updated in one case, 
+ the information will be automatically updated in any and all cases to 
+ which it is linked.</p>
+<h2>Potential adverse effects of linking cases</h2>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">When 
+ cases are linked, any case remarks entered in the <span class="Screen_Name">Case 
+ Remarks</span> or <span class="Screen_Name">Respondent Remarks</span> 
+ tab in one case record will appear in the case records of <span style="font-weight: bold; 
+	 font-style: italic;">all</span> cases linked to it. &#160;NCPs can 
+ be linked up to nine times; CPs can be linked almost infinitely.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">This 
+ can make it difficult for a CSEU worker viewing these remarks to know 
+ which case (or party) the remarks are referring to.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; margin-left: 147px;"><span 
+	 style="text-decoration: underline; ">Example #1</span>:</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 147px;">If 
+ there are cases regarding multiple NCPs linked to a single CP, remarks 
+ referring to &quot;the NCP&quot; will be confusing, since the worker would 
+ not know which NCP the remarks are referring to.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; margin-left: 147px; 
+	 text-decoration: underline; ">Example #2:</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 147px;">A 
+ CP has two different cases with two different NCPs.</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 147px;">One 
+ NCP has violence issues, and <span style="font-weight: bold; font-style: italic;">the 
+ other doesn't.</span></p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 147px;">If 
+ a worker client-links these cases, the FVI code will appear in the case 
+ records of <span style="font-weight: bold; font-style: italic;">BOTH</span> 
+ NCPs. This will make locating these NCPs difficult or impossible. &#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">For 
+ more information, see the section of the Intake chapter entitled: &#160;&quot;<a 
+	 title="Important information regarding setting FVI codes" href="INTAKE/Safety_Concerns_-_Good_Cause_and_Domestic_Violence/IMPORTANT__Setting_FVI_Codes.htm">IMPORTANT: 
+ &#160;Setting FVI Codes</a>.&quot;</p>
+</body>
+</html>

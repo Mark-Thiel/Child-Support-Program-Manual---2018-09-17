@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="Minimum Info Required to Locate a Respondent" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>Minimum Info Required to Locate a Respondent</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<p class="Normal_Pre-Bullet_Pre-Numbers">The applicant/recipient must provide 
+ the following information on the <span class="Notices_name"><a title="LDSS-4882 - Information about Child Support Services and Application/Referral for Child Support Services" 
+	 href="http://otda.state.nyenet/assets/pages/PDFs/Child_Support_Application/LDSS-4882W.pdf?rhtocid=_10_1_6#bc-1" 
+	 target="_blank">LDSS-4882</a></span> to help the CSEU identify and 
+ locate the PF/NCP:</p>
+<ul style="list-style: disc;">
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers">The full name and SSN 
+	 of the PF/NCP</p></li>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; margin-left: 147px;">OR</p>
+<ul style="list-style: disc;">
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers" style="font-size: 12pt; 
+			 mso-bidi-font-size: 12.0pt;"><span style="mso-fareast-font-family: 'Times New Roman'; 
+												 mso-bidi-font-family: 'Times New Roman'; 
+												 mso-ansi-language: EN-US; 
+												 mso-fareast-language: EN-US; 
+												 mso-bidi-language: AR-SA;">The 
+	 full name of the PF/NCP and </span><span style="mso-fareast-font-family: 'Times New Roman'; 
+												 mso-bidi-font-family: 'Times New Roman'; 
+												 mso-ansi-language: EN-US; 
+												 mso-fareast-language: EN-US; 
+												 mso-bidi-language: AR-SA;">the 
+	 following concerning such parent or father:</span></p></li>
+	<ol style="list-style: decimal;">
+		<li style="list-style: none; display: inline;"><p class="Normal_Pre-Bullet_Pre-Numbers"><input 
+		 type="checkbox" name="check13" />&#160;NCP's date of birth</p></li>
+		<li style="list-style: none; display: inline;"><p class="Normal_Pre-Bullet_Pre-Numbers"><input 
+		 type="checkbox" name="check133" />CP's SSN</p></li>
+		<ol style="list-style: decimal;">
+			<li style="list-style: none; display: inline;"><p class="Normal_Pre-Bullet_Pre-Numbers"><span 
+			 style="font-weight: bold;">OR</span></p></li>
+		</ol>
+	</ol>
+</ul>
+<ul style="list-style: disc;">
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers">At least three of the 
+	 following pieces of information:</p></li>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;"><input 
+	 type="checkbox" name="check1311" />Mother's maiden name</p>
+<ul style="list-style: disc;">
+	<ol style="list-style: decimal;">
+		<li style="list-style: none; display: inline;"><p class="Normal_Pre-Bullet_Pre-Numbers"><input 
+		 type="checkbox" name="check131" />&#160;NCP's father's name</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="line-height: Normal; 
+			 background-color: Transparent;"><input type="checkbox" name="check1321" />NCP's 
+		 city</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="line-height: Normal; 
+			 background-color: Transparent;"><input type="checkbox" name="check132" />&#160;NCP's 
+		 state</p></li>
+	</ol>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="font-weight: bold; margin-left: 147px;">OR</p>
+<ul style="list-style: disc;">
+	<li><p class="Normal_Pre-Bullet_Pre-Numbers">The full name of the PF/NCP 
+	 and any additional information equivalent to that above that leads 
+	 to the establishment of the PF/NCP’s identity and location.</p></li>
+</ul>
+<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 27px;"><span 
+	 style="mso-bidi-font-size: 12.0pt;">If the customer is unable to provide 
+ the required information, the customer must attest, under penalty of perjury, 
+ to the lack of information by completing and signing the</span> <span 
+	 class="Notices_name"><a title="Go to form LDSS-4281" href="http://otda.state.nyenet/ldss_eforms/eforms/4281.pdf" 
+							 target="_blank">LDSS-4281 (Attestation to 
+ Lack of Information)</a> <a title="Atestiguación de Falta de Información" 
+							 href="http://otda.state.nyenet/ldss_eforms/eforms/4281-SP.pdf" 
+							 target="_blank">(Spanish: &#160;LDSS-4281-S 
+ - Atestiguación de Falta de Información)</a></span><i style="mso-bidi-font-style: normal;"><span 
+	 style="mso-bidi-font-size: 12.0pt;">.</span></i></p>
+</body>
+</html>

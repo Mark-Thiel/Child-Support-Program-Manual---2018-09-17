@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Roadmap__Non-TA_Process.htm</name>
+			<comments>This process diagram is a clickable map.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>COLA-Eligible_cases_appear_on__Cost_of_Living_Adjustment_Eligible_Cases__screen.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Caseworker_reviews_Eligible_Cases_screen,_looks_for_any_accounts_with_an__E__(Error)_code.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>ASSETS_runs_its_COLA_monthly_process_(on_the_third_full_weekend_of_each_month).htm</name>
+			<comments>ASSETS runs its COLA Monthly Process</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>PROC_CENTER_PRINT.htm</name>
+			<comments>Processing Center sends out monthly notices.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>No_COLA_requested._No_further_action..htm</name>
+			<comments>No COLA requested? No further action required.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>CP_or_NCP_mails_request_to_Processing_Center.htm</name>
+			<comments>Either party can request a COLA.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Processing_Center_enters_request_code_into_system.htm</name>
+			<comments>Proc Ctr enters request for COLA into system.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>On_the_next_third_weekend_of_the_month,_ASSETS_runs_COLA_monthly_process..htm</name>
+			<comments>ASSETS now recognizes COLA request made by CP or NCP.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Proc_Ctr_sends__Adjusted_Order_of_Support__to_all_parties.htm</name>
+			<comments>Proc Ctr sends notice to all parties</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>No_objection__COLA_takes_effect_in_60_days.htm</name>
+			<comments>No objection? COLA will automatically take effect.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>CP_or_NCP_mails_Objection_to_Court.htm</name>
+			<comments>CP or NCP mails objection to court.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Does_any_party_object_to_the_COLA_.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

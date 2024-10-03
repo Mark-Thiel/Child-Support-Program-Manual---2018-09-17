@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<variablesets/>
+	<variables>
+		<variable>
+			<name>Caseworker</name>
+			<value>worker</value>
+		</variable>
+		<variable>
+			<name>Child_Support_Operations_Manual</name>
+			<value>Child Support Program Manual</value>
+		</variable>
+		<variable>
+			<name>Poverty_Level_Amount</name>
+			<value>$12,140</value>
+		</variable>
+		<variable>
+			<name>Division_of_Child_Support_Services</name>
+			<value>Child Support Services</value>
+		</variable>
+		<variable>
+			<name>Notice_of_Your_Right_to_Request_a_COLA</name>
+			<value>Notice of Your Right to Request</value>
+		</variable>
+		<variable>
+			<name>COLA_De_Novo_Hearing</name>
+			<value>de novo hearing</value>
+		</variable>
+		<variable>
+			<name>Self-Support_Reserve</name>
+			<value>$16,389</value>
+		</variable>
+	</variables>
+</rhpml>

@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc3.js\"  name=\"Foster Care Cases\"><item name=\"Introduction to Foster Care Cases\" url=\"Foster_Care_Cases/Introduction_to_Foster_Care_Cases.htm\" /></data>";

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<skins>
+		<skin>
+			<filename>!SkinSubFolder!\Beautiful_Vista_Flash\Beautiful_Vista_Flash.fhs</filename>
+		</skin>
+		<skin>
+			<filename>!SkinSubFolder!\Default\Default.skn</filename>
+		</skin>
+		<skin>
+			<filename>!SkinSubFolder!\Delete_MT_TEST01\Delete_MT_TEST01.skn</filename>
+		</skin>
+		<skin>
+			<filename>!SkinSubFolder!\Big_World\Big_World.skn</filename>
+		</skin>
+	</skins>
+</rhpml>

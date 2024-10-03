@@ -1,0 +1,15 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="deadline">
+    <param name="Name" value="Court sends copy of new court order to all parties">
+    <param name="Local" value="COLA/Objections/Court_sends_copy_of_new_court_order_to_all_parties.htm">
+    <param name="Name" value="Processing Center prints and mails &quot;Notice of Your Right to Request...&quot; to CP &amp; NCP">
+    <param name="Local" value="COLA/Non-TA_Process/Processing_Center_prints_and_mails__Notice_of_Your_Right_to_Request...__to_CP___NCP.htm">
+  </object>
+</ul>
+</html>

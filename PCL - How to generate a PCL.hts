@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="How to generate a PCL" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>PCL - How to generate a PCL</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<ol style="list-style: upper-alpha;">
+	<li><h2 style="margin-top: 5pt;"><?rh-dropspot_start class="dropspot" 
+														 href="javascript:TextPopup(this)" 
+														 id="a8" dataid="POPUP606842989" ?>Summary<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP606842989" style="display: none;" ?>
+		<ol style="list-style: decimal;">
+			<ol style="list-style: decimal;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The worker 
+				 needs to verify an address.</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The worker 
+				 generates an <a title="Address Information Request form" 
+								 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+								 target="_blank">PCL</a> via ASSETS. </p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">ASSETS sends 
+				 data files to the Processing Center during&#160;nightly 
+				 batch processing.</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The Processing 
+				 Center prints the <a title="Address Information Request form" 
+										 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+										 target="_blank">PCL</a> and mails 
+				 it to the Postmaster who serves the address needing verification.</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The Postmaster 
+				 fills out the <a title="Address Information Request form" 
+									 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+									 target="_blank">PCL</a> and mails 
+				 it back to the Processing Center.</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">Upon arrival 
+				 at the Processing Center, the <a title="Address Information Request form" 
+													 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+													 target="_blank">PCL</a> 
+				 is automatically scanned and imaged, and the data in the 
+				 form is captured.</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The captured 
+				 data is fed into the computer system run by the Processing 
+				 Center.</p></li>
+			</ol>
+		</ol>
+		<ol style="list-style: decimal;">
+			<ol start="8" style="list-style: decimal;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The Processing 
+				 Center sends data files to ASSETS.</p></li>
+			</ol>
+		</ol>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">* 
+		 &#160;If the worker checks the box for <span class="Field_Name">Do 
+		 you want a copy of the completed document returned to your district?</span> 
+		 an image of the actual <a title="Address Information Request form" 
+									 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+									 target="_blank">PCL</a> completed 
+		 by the Postmaster is made available to the CSEU worker via ECS, 
+		 accessible from the ASSETS homepage.</p><?rh-droptext_end ?></li>
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a1" dataid="POPUP606616222" ?>What 
+	 is a PCL?<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP606616222" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">The 
+		 <a title="Address Information Request form" href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+			 target="_blank">PCL</a> is used to ask a Postmaster to confirm 
+		 or deny that a certain person (i.e. a PF/NCP in a case) receives 
+		 mail at a certain address, and/or to provide additional information, 
+		 such as a forwarding address, if applicable.</p><?rh-droptext_end ?></li>
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a2" dataid="POPUP606677210" ?>When 
+	 to use a PCL<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP606677210" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">When 
+		 you have an address for a PF/NCP, but are unsure whether it is 
+		 current or valid, you need to verify the address via an <a title="Address Information Request form" 
+		 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+		 target="_blank">PCL</a>. </p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">You 
+		 generate the <a title="Address Information Request form" href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+						 target="_blank">PCL</a> through ASSETS.</p><?rh-droptext_end ?></li>
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a3" dataid="POPUP606687574" ?>How 
+	 to generate a PCL in ASSETS<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP606687574" style="display: none;" ?>
+		<ol style="list-style: decimal;">
+			<ol style="list-style: decimal;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">In ASSETS, 
+				 open a case, then go to: &#160;<span class="Screen_Name"><a 
+				 title="Summary Mode - Respondent Address tab" href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Summary_Mode___Respondent_Address_Tab_screen.htm',950,1000);" 
+				 id="a121">Summary Mode &gt; Resp Addr</a></span> &#160;tab.</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">On the Respondent 
+				 Addresses table, click on <span class="Buttons_and_Checkboxes">UPD</span> 
+				 in the row containing the address you want to verify.</p></li>
+			</ol>
+		</ol>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;">The 
+		 <span class="Screen_Name">Respondent Address Details</span> screen 
+		 appears. Click the <span class="Buttons_and_Checkboxes">Yes</span> 
+		 radio button if you want a copy of the <a title="Postal Clearance Letter/Address Information Request" 
+													 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+													 target="_blank">PCL</a> 
+		 returned to your district.</p>
+		<ol style="list-style: decimal;">
+			<ol start="3" style="list-style: decimal;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">Click <span 
+				 class="Buttons_and_Checkboxes">Submit</span>.</p></li>
+			</ol>
+		</ol>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">A 
+		 <a title="Postal Clearance Letter/Address Information Request" 
+			 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+			 target="_blank">PCL</a> will be mailed to the Postmaster.</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">* 
+		 Note: A <a title="Postal Clearance Letter/Address Information Request" 
+					 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+					 target="_blank">PCL</a>&#160;can also be initiated 
+		 by opening a <span class="Code_Value"><a title="V Group - Status and Reason Codes" 
+													 href="javascript:BSSCPopup('Codes/V_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+													 id="a13" style="font-weight: normal;">V 
+		 Group</a></span> on the <a title="Case Mode &gt; Status tab" href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Case_Mode_-_Status_Information_screen.htm',950,1000);" 
+									 id="a12">Case Mode &gt; Status Information 
+		 tab</a>.</p><?rh-droptext_end ?></li>
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a4" dataid="POPUP606716408" ?>When 
+	 the Postmaster receives a PCL<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP606716408" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">When 
+		 the Postmaster receives the <a title="Address Information Request form" 
+										 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+										 target="_blank">PCL</a>, he or 
+		 she will indicate one of the following on the form:</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;"><input 
+		 type="checkbox" name="check13141" />&#160;&#160;Mail is delivered 
+		 to the address given</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;"><input 
+		 type="checkbox" name="check131411" />&#160;&#160;Mail is forwarded 
+		 to a new address</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;"><input 
+		 type="checkbox" name="check131412" />&#160;&#160;[PF/NCP is] Not 
+		 Known at address given</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;"><input 
+		 type="checkbox" name="check131413" />&#160;&#160;[PF/NCP] Moved, 
+		 left no forwarding address</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;"><input 
+		 type="checkbox" name="check131414" />&#160;&#160;No such address</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;"><input 
+		 type="checkbox" name="check131415" />&#160;&#160;Other (Specify)</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">The 
+		 Postmaster will also provide a street address, if available, for 
+		 a PF/NCP who has a PO Box, and a new address, if the PF/NCP has 
+		 moved and provided one.</p><?rh-droptext_end ?></li>
+	<?rh-cbt_start condition="Author_Notes" ?><li><?rh-cbt_start condition="Author_Notes" ?><h2><?rh-cbt_start condition="Author_Notes" ?><?rh-dropspot_start 
+	 class="dropspot" href="javascript:TextPopup(this)" id="a5" dataid="POPUP606771165" ?>When 
+	 the completed PCL arrives back at the Processing Center<?rh-dropspot_end ?><?rh-cbt_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP606771165" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">When the completed <a 
+		 title="Address Information Request form" href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+		 target="_blank">Postal Clearance Letter/Address Information Request</a> 
+		 arrives at the Processing Center:</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers"><a title="How data is captured at the Processing Center" 
+													 href="javascript:BSSCPopup('PROCESSING_CENTER/How_Data_Is_Captured_at_the_Processing_Center.htm',800,1000);" 
+													 id="a9"><img src="Graphics_Global/Learn more button - green 25 percent.png" 
+		 alt="" style="border: none;" border="0" /></a></p>
+		<ol style="list-style: decimal;">
+			<ol style="list-style: decimal;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">The form is 
+				 automatically scanned upon arrival. &#160;(All pieces 
+				 of the mail are scanned, including the envelope.)</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">An image of 
+				 the completed <a title="Address Information Request form" 
+									 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+									 target="_blank">Postal Clearance Letter/Address 
+				 Information Request</a> is captured and saved by the Processing 
+				 Center.</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">Data in the 
+				 <a title="Address Information Request form" href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+					 target="_blank">Postal Clearance Letter/Address Information 
+				 Request</a> is captured via optical character recognition 
+				 (OCR) and other automated means.</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">Captured data 
+				 is fed into the computer system, called &quot;Siebel&quot;, 
+				 used at the Processing Center.</p></li>
+			</ol>
+		</ol>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;">Datafields 
+		 in Siebel are mapped to corresponding datafields in ASSETS.)</p>
+		<ol style="list-style: decimal;">
+			<ol start="5" style="list-style: decimal;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">Siebel updates 
+				 the <a title="Address Verification Indicator codes" href="javascript:BSSCPopup('Codes/Address_Verification_Indicator_Codes.htm');" 
+						 id="a10"><span class="Field_Name">Address Verification 
+				 Indicator</span> (Ver Ind) code</a>. &#160;(See codes 
+				 and their meanings, below.)</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">During the 
+				 next batch processing data exchange between Siebel and 
+				 ASSETS, Siebel sends data regarding the address information 
+				 request to ASSETS.</p></li>
+			</ol>
+			<ol start="6" style="list-style: decimal;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">ASSETS receives 
+				 the data file from Siebel, and updates the <a title="Address Verification Indicator codes" 
+				 href="javascript:BSSCPopup('Codes/Address_Verification_Indicator_Codes.htm');" 
+				 id="a11"><span class="Field_Name">Address Verification 
+				 Indicator</span> (Ver Ind) code</a> in ASSETS<span class="Field_Name"> 
+				 , </span>on the XXXX screen).</p></li>
+			</ol>
+		</ol>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">The Processing Center 
+		 will notify the CSEU of the results of the Address Information 
+		 Request via ECS, and the notification will include an image of 
+		 the returned <a title="Address Information Request form" href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+						 target="_blank">Postal Clearance Letter/Address 
+		 Information Request</a>.</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">To access the <a title="ECS - Electronic Communication System" 
+		 href="http://10.49.77.25/esales_enu/start.swe" target="_blank">ECS</a>, 
+		 in ASSETS, go to: &#160;<span class="Path_in_ASSETS">Home &gt; 
+		 Help &gt; Quick Links &gt; <a title="ECS - the Electronic Communication System" 
+										 href="http://10.49.77.25/esales_enu/start.swe" 
+										 target="_blank">Electronic Communication</a></span>.</p><?rh-droptext_end ?><?rh-cbt_end ?></li><?rh-cbt_end ?>
+	<li><h2><?rh-dropspot_start class="dropspot" href="javascript:TextPopup(this)" 
+								 id="a6" dataid="POPUP606794843" ?>To view 
+	 the status of PCL queries<?rh-dropspot_end ?></h2>
+	<?rh-droptext_start class="droptext" id="POPUP606794843" style="display: none;" ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 67px;">You 
+		 can view the <span class="Field_Name">Address Verification Indicator</span> 
+		 (Ver Ind) code on the <a title="Summary Mode - Respoondent Addresses tab" 
+									 href="javascript:BSSCPopup('Screens_You_Will_Encounter_-_Master_List/Summary_Mode___Respondent_Address_Tab_screen.htm',950,1000);" 
+									 id="a31">Summary Mode &gt; Resp Addr</a> 
+		 tab. This will tell you the status of the <a title="Address Information Request form" 
+														 href="http://otda.state.nyenet/assets/pages/PDFs/Location/Address_Information_Request.pdf" 
+														 target="_blank">PCL</a>.</p><?rh-droptext_end ?></li>
+	<li><h2><a title="Address Verification Indicator Codes" href="javascript:BSSCPopup('Codes/Address_Verification_Indicator_Codes.htm',800,1000);" 
+				 id="a7" style="font-style: italic; color: #513077;">Address 
+	 Verification Indicator (Ver Ind) codes and their meanings</a></h2></li>
+</ol>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	TextPopupInit('a8', 'POPUP606842989');
+	TextPopupInit('a1', 'POPUP606616222');
+	TextPopupInit('a2', 'POPUP606677210');
+	TextPopupInit('a3', 'POPUP606687574');
+	FilePopupInit('a121');
+	FilePopupInit('a13');
+	FilePopupInit('a12');
+	TextPopupInit('a4', 'POPUP606716408');
+	TextPopupInit('a5', 'POPUP606771165');
+	FilePopupInit('a9');
+	FilePopupInit('a10');
+	FilePopupInit('a11');
+	TextPopupInit('a6', 'POPUP606794843');
+	FilePopupInit('a31');
+	FilePopupInit('a7');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

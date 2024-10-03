@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!--Printed Documentation Layout-->
+<printdoclayout version="3">
+  <temphistory/>
+ <stylemapping>
+   <templatefile type="msword" filename="Style Mapping.dot"/>
+   <maps/>
+ </stylemapping>
+ <tocstructure>
+  <chapter name="Intake">
+    <page name="Download a PDF of the Intake chapter" topic="INTAKE\Download_a_PDF_of_the_Intake_chapter.htm" flags="0" topicid="-1"/>
+   <chapter name="Introduction to Intake">
+     <page name="Introduction to Intake" topic="INTAKE\Introduction_to_Intake\Definition_of_Intake.htm" flags="0" topicid="-1"/>
+     <page name="Case Processing Timelines" topic="INTAKE\Introduction_to_Intake\Case_Processing_Timelines.htm" flags="0" topicid="-1"/>
+     <page name="Applications versus Referrals" topic="INTAKE\Introduction_to_Intake\Applications_versus_Referrals.htm" flags="0" topicid="-1"/>
+     <page name="Do all clients need to fill out an LDSS-4882?" topic="INTAKE\Introduction_to_Intake\Do_all_clients_need_to_fill_out_an_LDSS-4882_.htm" flags="0" topicid="-1"/>
+     <page name="Linking Cases -- Should You Do It?" topic="INTAKE\Introduction_to_Intake\Linking_Cases_--_Should_You_Do_It_.htm" flags="0" topicid="-1"/>
+     <page name="Retention of Paper Records" topic="INTAKE\Introduction_to_Intake\Retention_of_Paper_Records.htm" flags="0" topicid="-1"/>
+     <page name="Safety Concerns: Safety of the Applicant" topic="INTAKE\Introduction_to_Intake\Safety_Concerns__Safety_of_the_Applicant.htm" flags="0" topicid="-1"/>
+     <page name="Who is the Client? Who is the Petitioner?" topic="INTAKE\Introduction_to_Intake\Who_is_the_Client__Who_is_the_Petitioner_.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Eligibility for Child Support Services">
+     <page name="Who Is Eligible" topic="INTAKE\Eligibility_for_Child_Support_Services\Eligible_Cases.htm" flags="0" topicid="-1"/>
+     <page name="Equal Access to Services" topic="INTAKE\Eligibility_for_Child_Support_Services\Policies_Regarding_Intake.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="The Application Form">
+     <page name="The Application: Form DSS-2860" topic="INTAKE\The_Application_Referral_Form_LDSS-4882\The_Application__Form_DSS-2860.htm" flags="0" topicid="-1"/>
+     <page name="Section C -- Checking Box 1 or Box 2" topic="INTAKE\The_Application_Referral_Form_LDSS-4882\Section_C_--_Checking_Box_1_or_Box_2.htm" flags="0" topicid="-1"/>
+     <page name="Forms -- Intake Forms" topic="INTAKE\Introduction_to_Intake\Forms_--_Intake_Forms.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Cooperation Requirements">
+     <page name="Define &quot;Cooperation&quot;" topic="INTAKE\Cooperation_Requirements\Define__Cooperation_.htm" flags="0" topicid="-1"/>
+     <page name="Attesting to Lack of Information" topic="INTAKE\Cooperation_Requirements\Attesting_to_Lack_of_Information.htm" flags="0" topicid="-1"/>
+     <page name="Results of Non-Cooperation" topic="INTAKE\Cooperation_Requirements\Results_of_Non-Cooperation.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Safety Concerns -- Domestic Violence and Good Cause">
+     <page name="Suppression of Address and Employment Information" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Suppression_of_Address_and_Employment_Information.htm" flags="0" topicid="-1"/>
+     <page name="To the Customer in TA Cases Involving Domestic Violence" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\To_the_Customer_in_TA_Cases_Involving_Domestic_Violence.htm" flags="0" topicid="-1"/>
+     <page name="Good Cause versus Domestic Violence Waivers" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Good_Cause_versus_Domestic_Violence_Waivers.htm" flags="0" topicid="-1"/>
+     <page name="Referral to Domestic Violence Liaison" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Referral_to_Domestic_Violence_Liaison.htm" flags="0" topicid="-1"/>
+     <page name="Domestic Violence Liaison: What They Do" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Domestic_Violence_Liaison__What_They_Do.htm" flags="0" topicid="-1"/>
+     <page name="After a Determination by a DVL - Required Actions" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\After_a_Determination_by_a_DVL_-_Required_Actions.htm" flags="0" topicid="-1"/>
+     <page name="IMPORTANT: Setting FVI Codes" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\IMPORTANT__Setting_FVI_Codes.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="TA Cases (Intake) - Introduction">
+     <page name="Cooperation Requirements for TA Cases" topic="INTAKE\TA_Cases_Intake_Introduction\Cooperation_Requirements_for_TA_Cases.htm" flags="0" topicid="-1"/>
+     <page name="If the TA Unit Denies Temporary Assistance" topic="INTAKE\TA_Cases_Intake_Introduction\If_the_TA_Unit_Denies_Temporary_Assistance.htm" flags="0" topicid="-1"/>
+     <page name="The IVA-IVD Interface Report" topic="INTAKE\TA_Cases_Intake_Introduction\The_IVA-IVD_Interface_Report.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="TA Process  (Intake)">
+     <page name="Roadmap: TA Process for Intake" topic="INTAKE\TA_Process\Roadmap__TA_Process_for_Intake.htm" flags="0" topicid="-1"/>
+     <page name="CP applies for TA at TA Unit" topic="INTAKE\TA_Process\CP_applies_for_TA_at_TA_Unit.htm" flags="0" topicid="-1"/>
+     <page name="TA Worker provides LDSS-4882 to customer" topic="INTAKE\TA_Process\TA_Worker_provides_LDSS-4882_to_customer.htm" flags="0" topicid="-1"/>
+     <page name="CP or NCP completes and returns LDSS-4882" topic="INTAKE\TA_Process\CP_or_NCP_completes_and_returns_LDSS-4882.htm" flags="0" topicid="-1"/>
+     <page name="Worker logs receipt of 4882, reviews it for completeness" topic="INTAKE\TA_Process\Worker_logs_receipt_of_4882,_reviews_it_for_completeness.htm" flags="0" topicid="-1"/>
+     <page name="Does customer claim safety concerns?" topic="INTAKE\TA_Process\Does_customer_claim_safety_concerns_.htm" flags="0" topicid="-1"/>
+     <page name="Worker sends customer to DVL" topic="INTAKE\TA_Process\Worker_sends_customer_to_DVL.htm" flags="0" topicid="-1"/>
+     <page name="Worker examines supporting documentation" topic="INTAKE\TA_Process\Worker_examines_supporting_documentation.htm" flags="0" topicid="-1"/>
+     <page name="CP signs Attestation to Lack of Information form" topic="INTAKE\TA_Process\CP_signs_Attestation_to_Lack_of_Information_form.htm" flags="0" topicid="-1"/>
+     <page name="Worker interviews the customer (Optional)" topic="INTAKE\TA_Process\Worker_interviews_the_customer_(Optional).htm" flags="0" topicid="-1"/>
+     <page name="Worker begins building the case" topic="INTAKE\TA_Process\Worker_begins_building_the_case.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Non-TA Cases (Intake) - Introduction">
+     <page name="$25 Annual Service Fee -- Alternative A" topic="INTAKE\Non-TA_Cases_-_Introduction\$25_Annual_Service_Fee_--_Alternative_A.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Non-TA Process  (Intake)">
+     <page name="Roadmap - Non-TA Process - Intake" topic="INTAKE\Non-TA_Process_-_Intake\Roadmap_-__Non-TA_Process_-_Intake.htm" flags="0" topicid="-1"/>
+     <page name="Worker has initial contact with customer" topic="INTAKE\Non-TA_Process_-_Intake\Worker_has_initial_contact_with_customer.htm" flags="0" topicid="-1"/>
+     <page name="Worker provides LDSS-4882 to customer" topic="INTAKE\Non-TA_Process_-_Intake\Worker_provides_LDSS-4882_to_customer.htm" flags="0" topicid="-1"/>
+     <page name="CP or NCP completes &amp; returns LDSS-4882 - Version B" topic="INTAKE\Non-TA_Process_-_Intake\CP_or_NCP_completes_&amp;_returns_LDSS-4882_-_Version_B.htm" flags="0" topicid="-1"/>
+     <page name="Worker logs receipt of 4882, reviews it for completeness" topic="INTAKE\Non-TA_Process_-_Intake\Worker_logs_receipt_of_4882,_reviews_it_for_completeness.htm" flags="0" topicid="-1"/>
+     <page name="Worker begins building the case" topic="INTAKE\Non-TA_Process_-_Intake\Worker_begins_building_the_case.htm" flags="0" topicid="-1"/>
+     <page name="Worker examines supporting documentation" topic="INTAKE\Non-TA_Process_-_Intake\Worker_examines_supporting_documentation.htm" flags="0" topicid="-1"/>
+     <page name="Worker interviews the customer (Optional)" topic="INTAKE\Non-TA_Process_-_Intake\Worker_interviews_the_customer_(Optional).htm" flags="0" topicid="-1"/>
+     <page name="Has customer requested legal services?" topic="INTAKE\Non-TA_Process_-_Intake\Has_customer_requested_legal_services_.htm" flags="0" topicid="-1"/>
+     <page name="Worker provides customer with legal rates" topic="INTAKE\Non-TA_Process_-_Intake\Worker_provides_customer_with_legal_rates.htm" flags="0" topicid="-1"/>
+     <page name="Worker begins building the case" topic="INTAKE\Non-TA_Process_-_Intake\Worker_begins_building_the_case.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Foster Care Cases">
+     <page name="Introduction to Foster Care Cases" topic="INTAKE\Foster_Care_Cases\Introduction_to_Foster_Care_Cases.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Safety Net Cases">
+     <page name="Safety Net Cases" topic="INTAKE\Safety_Net_Cases\Safety_Net_Cases.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Case-Building">
+     <page name="Case-Building - Overview" topic="INTAKE\Case-Building\Case-Building_-_An_Introduction.htm" flags="0" topicid="-1"/>
+     <page name="Referral Search - Building a Case from a Referral Search" topic="INTAKE\Case-Building\Referral_Search_-_Building_a_Case_from_a_Referral_Search.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Troubleshooting - Intake">
+     <page name="ASSETS Changes CP or NCP Address" topic="INTAKE\Troubleshooting_-_Intake\ASSETS_Changes_CP_or_NCP_Address.htm" flags="0" topicid="-1"/>
+     <page name="Hard Copy of Referral Never Arrived from TA" topic="INTAKE\Troubleshooting_-_Intake\Hard_Copy_of_Referral_Never_Arrived_from_TA.htm" flags="0" topicid="-1"/>
+     <page name="Worker cannot select IV-E Foster Care radio button" topic="INTAKE\Troubleshooting_-_Intake\Worker_cannot_select_IV-E_Foster_Care_radio_button.htm" flags="0" topicid="-1"/>
+     <page name="Worker is kicked out of online application form" topic="INTAKE\Troubleshooting_-_Intake\New_Topic.htm" flags="0" topicid="-1"/>
+   </chapter>
+  </chapter>
+ </tocstructure>
+  <sectionhistory/>
+ <sectionlist>
+   <section type="defaulttitlepage" name="&lt;Default Title Page&gt;" url="" flags="0" topicid="-1"/>
+   <section type="toc" name="TOC" url="" flags="0" topicid="-1"/>
+   <section type="topics" name="Chapter Layout" url="" flags="0" topicid="-1"/>
+ </sectionlist>
+  <robopdfgeneratorsettings data="resIndex=3&amp;jpegImageQuality=75&amp;imageDPI=96&amp;quiet=0&amp;Quality=3&amp;resolution=96&amp;customResolution=300&amp;customImageDPI=96&amp;customJpegImageQuality=75&amp;pdfTemplateEnable=0&amp;pdfTemplateOnTop=0&amp;pdfTemplate=&amp;watermark=&amp;watermarkText=&amp;watermarkFontName=Arial&amp;watermarkFontSize=48&amp;watermarkStyle=0&amp;watermarkColor=90&amp;sd_permissionFlags=-64&amp;sd_enabled=0&amp;sd_keyLen=16&amp;sd_up=&amp;sd_op=&amp;"/>
+ <headerfootermapping>
+   <section type="custominternaltopic" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="customexternaltopic" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="defaulttitlepage" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="toc" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="topics" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="glossary" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="index" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+ </headerfootermapping>
+</printdoclayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<fontsets>
+		<fontset>
+			<name>Arial</name>
+			<fontlist>Arial</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman</name>
+			<fontlist>Times New Roman</fontlist>
+		</fontset>
+		<fontset>
+			<name>Calibri</name>
+			<fontlist>Calibri</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft Sans Serif</name>
+			<fontlist>Microsoft Sans Serif</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tahoma</name>
+			<fontlist>Tahoma</fontlist>
+		</fontset>
+	</fontsets>
+</rhpml>

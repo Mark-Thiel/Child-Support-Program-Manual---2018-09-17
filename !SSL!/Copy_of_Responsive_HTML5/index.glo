@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossary version="1.0">
+	<glossentry>
+		<glossterm>CEJ State</glossterm>
+		<glossdef>CEJ = Continuing Exclusive Jurisdiction.  The CEJ State is the state that has continuing exclusive jurisdiction over this case. If this field in ASSETS is populated, it means that this is an out-of-state case. In other words, it is in our ASSETS system -- and the New York State system -- only for purposes of enforcement.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>COLA</glossterm>
+		<glossdef>Cost of Living Allowance, also known as Cost of Living Adjustment</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CP</glossterm>
+		<glossdef>Custodial Parent. This is the parent with whom the child is living. However, the "Custodial Parent" could be a guardian such as a grandparent, foster home, or other person or entity with whom the child is living, and who is taking care of the child.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CPI-U</glossterm>
+		<glossdef>INSERT DEFINITION FOR CPI-U</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CSEU</glossterm>
+		<glossdef>Child Support Enforcement Unit</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CSSA</glossterm>
+		<glossdef>Child Support Standards Act (enacted 15 September 1989)</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>DSS</glossterm>
+		<glossdef>Department of Social Services</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>DUCC</glossterm>
+		<glossdef>Dynamic User-Centric Content</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>IV-D</glossterm>
+		<glossdef></glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>NCP</glossterm>
+		<glossdef>Non-Custodial Parent. Sometimes called the "absent parent."</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Non-TA</glossterm>
+		<glossdef>Non-Temporary Assistance</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Normalized</glossterm>
+		<glossdef></glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>self-support reserve</glossterm>
+		<glossdef>The Self-Support Reserve is 135% of the federal poverty level in any given year.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>TA</glossterm>
+		<glossdef>Temporary Assistance</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>TA Account</glossterm>
+		<glossdef>Temporary Assistance Account. In the past, this was known as a "Public Assistance" account. It pertains to a client who is receiving temporary monetary assistance from the State of New York.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Title 6A of Social Services Law</glossterm>
+		<glossdef></glossdef>
+	</glossentry>
+</glossary>

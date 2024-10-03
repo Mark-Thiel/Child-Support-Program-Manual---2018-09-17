@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc1.js\"  name=\"Download Individual Chapters (PDFs)\"><item name=\"COLA_Chapter\" url=\"Introduction_to_Child_Support/COLA_Chapter_CSS_Manual_-_20171129A.pdf\" /><item name=\"Glossary\" url=\"Introduction_to_Child_Support/Glossary_of_the_Child_Support_Program_Manual_-_20180123.pdf\" /></data>";

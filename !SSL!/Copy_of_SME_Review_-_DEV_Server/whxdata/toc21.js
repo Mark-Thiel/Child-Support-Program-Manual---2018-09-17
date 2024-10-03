@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc18.js\"  name=\"Automated Location Searches\"><item name=\"Automated Location Searches - Introduction\" url=\"LOCATION/Automated_Location_Searches/Automated_Location_Searches_-_Introduction.htm\" /></data>";

@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Video: Brief Overview of Major Features","url":"Introduction_to_the_Child_Support_Operations_Manual/Features/Demo_-_Brief_Video_Demo_of_Features.htm"},{"type":"item","name":"Roadmaps","url":"Introduction_to_the_Child_Support_Operations_Manual/Features/Roadmaps.htm"},{"type":"item","name":"Filter Your Content","url":"Introduction_to_the_Child_Support_Operations_Manual/Features/Filter_Your_Content.htm"},{"type":"item","name":"Search Box","url":"Introduction_to_the_Child_Support_Operations_Manual/Features/Search_Box.htm"},{"type":"item","name":"Glossary","url":"Introduction_to_the_Child_Support_Operations_Manual/Features/Glossary.htm"},{"type":"item","name":"Index","url":"Introduction_to_the_Child_Support_Operations_Manual/Features/Index.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

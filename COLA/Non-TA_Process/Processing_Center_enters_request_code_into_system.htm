@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="template" content="Process Step.htt" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="rh-authors" content="Mark Thiel" />
+<meta name="topic-comment" content="Proc Ctr enters request for COLA into system." />
+<meta name="topic-status" content="Complete" />
+<meta name="topic-check-list" content="Ran Smart Index" />
+<meta name="search-keywords" content="Code 2, Code 3" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+ <meta name="build tags" content="Chapter_COLA" />
+<title>Processing Center captures request for COLA</title>
+<link rel="StyleSheet" href="..\..\default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="../../ehlpdhtm.js" type="text/javascript" 
+							 language="JavaScript1.2"></script><?rh-script_end ?>
+<div>
+	<div>
+		<h1 class="Process_Step_H1">Processing Center captures request 
+		 for COLA</h1>
+		<p class="Normal_Body_Paragraph" style="margin-left: 27px;">When 
+		 the Processing Center receives a <b style="mso-bidi-font-weight: normal;"><span 
+		 class="Notices_name"><a href="http://otda.state.nyenet/assets/pages/PDFs/COLA/Request_for_a_Cost_of_Living_Adjustment.pdf" 
+								 target="_blank">Request for a Cost of 
+		 Living Adjustment (COLA)</a></span></b> form from the CP or NCP, 
+		 the Request Form is scanned and the following data is captured 
+		 and entered into the Processing Center's computer system:</p>
+		<ul style="list-style: disc;">
+			<ul style="list-style: disc;">
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">Whether or 
+				 not the Request Form is signed</p></li>
+				<li><p class="Normal_Pre-Bullet_Pre-Numbers">Which party 
+				 (CP or NCP) has made the request</p></li>
+			</ul>
+		</ul>
+		<p class="Normal_Pre-Bullet_Pre-Numbers" style="margin-left: 107px;"><?rh-dropspot_start 
+		 class="dropspot" href="javascript:TextPopup(this)" id="a1" dataid="POPUP588553502" ?><img 
+		 src="../../Graphics_Global/Learn more button - green 25 percent.png" 
+		 alt="" style="border: none;" border="0" /><?rh-dropspot_end ?></p>
+		<?rh-droptext_start class="droptext" id="POPUP588553502" style="display: none;" ?>
+			<p class="Master_Page_100_pt_Indent_body_text">If the form 
+			 isn't signed, the request is not entered into the system. 
+			 </p>
+			<p class="Master_Page_100_pt_Indent_body_text">Unsigned COLA 
+			 Request Forms are scanned by the Processing Center and sent 
+			 to the local district through ECS. </p>
+			<p class="Master_Page_100_pt_Indent_body_text">The SCU must 
+			 reach out to the party who submitted the unsigned request 
+			 form and have them sign it. </p>
+			<p class="Master_Page_100_pt_Indent_body_text">See topic: &#160;&quot;<a 
+			 href="../Troubleshooting_-_COLA/Proc_Ctr_Receives_an_Unsigned_Request_for_a_COLA.htm">Processing 
+			 Center Receives an Unsigned COLA Request Form.</a>&quot;</p>
+			<p class="Master_Page_100_pt_Indent_body_text">&#160;</p><?rh-droptext_end ?>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">In the next data exchange 
+		 between the Processing Center and ASSETS, the data entered by 
+		 the Processing Center causes ASSETS to change the value in the 
+		 <span class="Field_Name">COLA Request Indicator</span><span class="FieldinASSETS"> 
+		 field</span>&#160;from a [blank field], (which is &#160;the system 
+		 default value), to one of the following values:</p>
+		<ul style="list-style: disc; margin-top: 0in;">
+			<ul style="list-style: disc; margin-top: 0in;">
+				<li class="MsoNormal" style="mso-list: l0 level1 lfo1;"><p 
+					 class="Normal_Pre-Bullet_Pre-Numbers"><span class="Code_Value"><a 
+				 title="COLA Request Indicator Codes" href="javascript:BSSCPopup('../../Codes/COLA_Request_Indicator_Codes.htm',800,1000);" 
+				 id="a3">Code 2</a></span> = If the CP has requested a 
+				 COLA.</p></li>
+				<li class="MsoNormal" style="mso-list: l0 level1 lfo1;"><p 
+					 class="Normal_Pre-Bullet_Pre-Numbers"><span class="Code_Value"><a 
+				 title="COLA Request Indicator Codes" href="javascript:BSSCPopup('../../Codes/COLA_Request_Indicator_Codes.htm',800,1000);" 
+				 id="a4">Code 3</a></span> = If the NCP has requested a 
+				 COLA.</p></li>
+			</ul>
+		</ul>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">If both the CP <span style="font-style: italic;">and</span> 
+		 the NCP mail in a request, the request code will be set according 
+		 to whichever request (CP or NCP) was received first.</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers">Then, the <?rh-expandspot_start 
+		 class="expandspot" href="javascript:TextPopup(this)" id="a11" 
+		 dataid="POPUP5975332391" ?>next time<?rh-expandspot_end ?><?rh-expandtext_start 
+		 class="expandtext" id="POPUP5975332391" style="display: none;" ?>(no 
+		 action will be taken on the request until the next time that ASSETS 
+		 runs its COLA monthly process -- on the third full weekend of 
+		 the month)<?rh-expandtext_end ?> &#160;that ASSETS runs its COLA 
+		 monthly process, ASSETS will recognize this request for a COLA, 
+		 and will generate an <span class="Notices_name"><a href="http://otda.state.nyenet/assets/pages/PDFs/COLA/Adjusted_Order_of_Support.pdf" 
+															 target="_blank">Adjusted 
+		 Order of Support</a></span> for this case.</p>
+		<p class="Normal_Pre-Bullet_Pre-Numbers"><span style="mso-bidi-font-family: 'Times New Roman'; 
+														 mso-bidi-theme-font: minor-bidi; 
+														 mso-ansi-language: EN-US; 
+														 mso-fareast-language: EN-US; 
+														 mso-bidi-language: AR-SA;">At 
+		 that time, the </span><span class="Code_Value"><a title="COLA Request Indicator Codes" 
+															 href="javascript:BSSCPopup('../../Codes/COLA_Request_Indicator_Codes.htm',800,1000);" 
+															 id="a31">Code 
+		 2</a></span><span style="mso-bidi-font-family: 'Times New Roman'; 
+							 mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; 
+							 mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> 
+		 or </span><span class="Code_Value"><a title="COLA Request Indicator Codes" 
+												 href="javascript:BSSCPopup('../../Codes/COLA_Request_Indicator_Codes.htm',800,1000);" 
+												 id="a41">Code 3</a></span><span 
+		 style="mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; 
+		 mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> 
+		 in the </span><span class="Field_Name">COLA Request Indicator</span><span 
+		 style="mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; 
+		 mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> 
+		 field will cause ASSETS to send by first class mail (via the Processing 
+		 Center) an </span><b style="mso-bidi-font-weight: normal;"><i 
+		 style="mso-bidi-font-style: normal;"><span class="Notices_name"><a 
+		 href="http://otda.state.nyenet/assets/pages/PDFs/COLA/Adjusted_Order_of_Support.pdf" 
+		 target="_blank">Adjusted Order of Support</a></span></i></b><span 
+		 style="mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; 
+		 mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> 
+		 to both parties, the CSEU, and the court.</span> </p>
+	</div>
+	<p>&#160;</p>
+</div>
+<?rh-placeholder type="footer" ?>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( TextPopupInit ) != 'function' ) TextPopupInit = new Function();
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	TextPopupInit('a1', 'POPUP588553502');
+	FilePopupInit('a3');
+	FilePopupInit('a4');
+	TextPopupInit('a11', 'POPUP5975332391');
+	FilePopupInit('a31');
+	FilePopupInit('a41');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc51.js\"  name=\"RoboHelp Program Notes\"><item name=\"File Extensions in the RoboHelp Program\" url=\"Program_Manual_STYLE_GUIDE/File_Extensions_in_the_RoboHelp_Program.htm\" /></data>";

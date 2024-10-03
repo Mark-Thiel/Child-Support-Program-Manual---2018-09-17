@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Collection\"><item name=\"Undistributed_Collections\" url=\"COLLECTION/Undistributed_Collections.htm\" /></data>";

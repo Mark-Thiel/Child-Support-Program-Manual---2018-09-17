@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<folders>
+		<folder>
+			<name>Tables_as_Static_Graphics</name>
+		</folder>
+		<folder>
+			<name>Diagrams</name>
+		</folder>
+	</folders>
+</rhpml>

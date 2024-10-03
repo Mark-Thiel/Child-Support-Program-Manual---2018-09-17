@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossary version="1.0">
+	<glossentry>
+		<glossterm>CAN number</glossterm>
+		<glossdef>A CAN number is a CASE NUMBER pertaining to a specific child support CASE. An individual person may have multiple CAN numbers. This is different from a CIN number, which identifies an individual PERSON and spans serveral services under the umbrella of social services. (See glossary entry for CIN number.)</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CEJ State</glossterm>
+		<glossdef>CEJ = Continuing Exclusive Jurisdiction.  The CEJ State is the state that has continuing exclusive jurisdiction over this case. If this field in ASSETS is populated, it means that this is an out-of-state case. In other words, it is in our ASSETS system -- and the New York State system -- only for purposes of enforcement.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CIN number</glossterm>
+		<glossdef>Client Identification Number. A CIN number identifies an individual person and spans various services under the umbrella of social services. For example, if a person is receiving TA (temporary assistance), SNAP (food assistance), and Child Support, all of these fall under a single CIN number identifying the person receiving these services. * An individual CIN (person) may have multiple CAN numbers pertaining to individual services.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>COLA</glossterm>
+		<glossdef>Cost of Living Allowance, also known as Cost of Living Adjustment</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CP</glossterm>
+		<glossdef>Custodial Parent. This is the parent with whom the child is living. However, the "Custodial Parent" could be a guardian such as a grandparent, foster home, or other person or entity with whom the child is living, and who is taking care of the child.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CPI-U</glossterm>
+		<glossdef>INSERT DEFINITION FOR CPI-U</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CSEU</glossterm>
+		<glossdef>Child Support Enforcement Unit</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>CSSA</glossterm>
+		<glossdef>Child Support Standards Act (enacted 15 September 1989)</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>DSS</glossterm>
+		<glossdef>Department of Social Services</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>DUCC</glossterm>
+		<glossdef>Dynamic User-Centric Content</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>FIPS Code</glossterm>
+		<glossdef>Federal Information Processing Standard (FIPS) code. It uniquely identifies counties and county equivalents in the United States, certain U.S. territories or possessions, and certain freely associated states. In the ASSETS system, the code contains six digits. The first digit is either a "1" (meaning that funds collected are retained within the county is which they are collected) or a "2" (meaning that funds collected are disbursed in a county other than the one in which they are collected). The second and third digits denote the state, U.S. territory or possession. The last three digits denote the county within the state, U.S. territory, or possession.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>IV-D</glossterm>
+		<glossdef></glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Modification</glossterm>
+		<glossdef>For a court to grant a modification in the amount of a child support order, the petitioner for the modification must prove a significant and unforeseen change in circumstances (e.g. laid off from job, child has developed an unforeseen medical condition, etc)</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>NCP</glossterm>
+		<glossdef>Non-Custodial Parent. Sometimes called the "absent parent."</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Non-TA</glossterm>
+		<glossdef>Non-Temporary Assistance</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Normalized</glossterm>
+		<glossdef></glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Proc. Ctr.</glossterm>
+		<glossdef>Processing Center</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>self-support reserve</glossterm>
+		<glossdef>The Self-Support Reserve is 135% of the federal poverty level in any given year.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>SSN</glossterm>
+		<glossdef></glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>TA</glossterm>
+		<glossdef>Temporary Assistance</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>TA Account</glossterm>
+		<glossdef>Temporary Assistance Account. In the past, this was known as a "Public Assistance" account. It pertains to a client who is receiving temporary monetary assistance from the State of New York.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>Title 6A of Social Services Law</glossterm>
+		<glossdef></glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>WMS</glossterm>
+		<glossdef>Welfare Management System. ?MT - Medicaid and TA cases are in the WMS System? Need explanation.</glossdef>
+	</glossentry>
+	<glossentry>
+		<glossterm>WRTS</glossterm>
+		<glossdef>Welfare Reporting and Tracking System. This is accessed through the Summary Tab.</glossdef>
+	</glossentry>
+</glossary>

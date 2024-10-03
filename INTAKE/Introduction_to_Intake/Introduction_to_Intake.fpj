@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<topics>
+		<topic>
+			<name>Case_Processing_Timelines.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Definition_of_Intake.htm</name>
+			<comments>What is "Intake"?</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Applications_versus_Referrals.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Do_all_clients_need_to_fill_out_an_LDSS-4882_.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Linking_Cases_--_Should_You_Do_It_.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Retention_of_Paper_Records.htm</name>
+			<comments>Application form and petition must be kept on file.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Safety_Concerns__Safety_of_the_Applicant.htm</name>
+			<comments>Safety of the Applicant.</comments>
+			<frameset>0</frameset>
+		</topic>
+		<topic>
+			<name>Who_is_the_Client__Who_is_the_Petitioner_.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+</rhpml>

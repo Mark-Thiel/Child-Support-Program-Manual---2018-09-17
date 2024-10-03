@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties imagewidth="16" windowstyles="8388610" exwindowstyles="256">
+	</properties>
+	<item name="Introduction to the Child Support Program Manual" x-condition="Front_Matter">
+		<item name="Introduction to the Child Support Program Manual - cover page" link="Introduction_to_the_Child_Support_Operations_Manual\Introduction_to_the_Child_Support_Program_Manual_-_cover_page.htm">
+		</item>
+		<item name="Video - Overview of Child Support Program Manual" link="Introduction_to_the_Child_Support_Operations_Manual\Video_-_Overview_of_Child_Support_Program_Manual.htm" x-condition="Front_Matter">
+		</item>
+		<item name="Credits" link="Introduction_to_the_Child_Support_Operations_Manual\Title_Page_-_Produced_by_PDP.htm" x-condition="Front_Matter">
+		</item>
+		<item name="Mission, Scope, and Design" link="Introduction_to_the_Child_Support_Operations_Manual\Scope__What_This_Chapter_Covers.htm" x-condition="Front_Matter">
+		</item>
+		<item name="Conventions Used In This Manual" link="Introduction_to_Child_Support\Conventions_Used_In_This_Manual.htm" x-condition="Front_Matter">
+		</item>
+		<item name="Tips for Using the Program Manual" link="Introduction_to_the_Child_Support_Operations_Manual\Tips_for_Using_the_Program_Manual.htm" x-condition="Front_Matter">
+		</item>
+		<item name="About the Child Support Program Manual" link="Introduction_to_the_Child_Support_Operations_Manual\About_the_Child_Support_Program_Manual.htm" x-condition="SME_REVIEW,Front_Matter">
+		</item>
+		<item name="Servers - Development, Test, Production" link="Introduction_to_the_Child_Support_Operations_Manual\Servers_-_Development,_Test,_Production.htm" x-condition="DEVELOPMENT_SERVER_ONLY,Front_Matter">
+		</item>
+		<item name="Pre-Flight Checklist" link="Program_Manual_STYLE_GUIDE\Pre-Flight_Checklist.htm" x-condition="SME_REVIEW,Front_Matter">
+		</item>
+		<item name="The CSS Operations Manual - an Introduction" link="Introduction_to_the_Child_Support_Operations_Manual\Introduction_-_Child_Support_Operations_Manual.htm" x-condition="DEVELOPMENT_SERVER_ONLY,Front_Matter">
+		</item>
+		<item name="Acknowledgements" link="Introduction_to_the_Child_Support_Operations_Manual\Acknowledgements.htm" x-condition="DEVELOPMENT_SERVER_ONLY,Front_Matter">
+		</item>
+		<item name="Release Notes" link="Introduction_to_the_Child_Support_Operations_Manual\Release_Notes.htm" x-condition="DEVELOPMENT_SERVER_ONLY,Front_Matter">
+		</item>
+		<item name="Look Up the Meanings of Codes" link="Introduction_to_the_Child_Support_Operations_Manual\Look_Up_the_Meanings_of_Codes.htm" x-condition="Front_Matter">
+		</item>
+		<item name="Overview of Major Features (Video demonstration)" link="Introduction_to_the_Child_Support_Operations_Manual\Demo_-_Brief_Video_Demo_of_Features.htm" x-condition="Author_Notes,Front_Matter">
+		</item>
+		<item name="Roadmaps (Video demonstration)" link="Introduction_to_the_Child_Support_Operations_Manual\Roadmaps.htm" x-condition="Front_Matter">
+		</item>
+		<item name="Search Box (Video demonstration)" link="Introduction_to_the_Child_Support_Operations_Manual\Search_Box.htm" x-condition="Front_Matter">
+		</item>
+		<item name="Glossary (Video demonstration)" link="Introduction_to_the_Child_Support_Operations_Manual\Glossary.htm" x-condition="Author_Notes,Front_Matter">
+		</item>
+		<item name="Index (Video demonstration)" link="Introduction_to_the_Child_Support_Operations_Manual\Index.htm" x-condition="Front_Matter">
+		</item>
+		<item name="Known_Issues" link="Introduction_to_the_Child_Support_Operations_Manual\Known_Issues.htm" x-condition="SME_REVIEW,Front_Matter">
+		</item>
+		<item name="Updated Each Year - Figures and Screenshots" link="Introduction_to_the_Child_Support_Operations_Manual\Updated_Each_Year_-_Figures_and_Screenshots.htm" x-condition="Front_Matter">
+		</item>
+	</item>
+	<item name="Introduction to Child Support">
+		<item name="Introduction to Child Support - Cover Page" link="Introduction_to_Child_Support\Introduction_to_Child_Support_-_Cover_Page.htm">
+		</item>
+		<item name="CSSA - the Child Support Standards Act" link="Introduction_to_Child_Support\CSSA_-_the_Child_Support_Standards_Act.htm">
+		</item>
+		<item name="Ways In Which Data Enters Case Records In ASSETS" link="Introduction_to_Child_Support\Ways_In_Which_Data_Enters_Case_Records_In_ASSETS.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Information Needed to Build an Account" link="Introduction_to_Child_Support\Information_Needed_to_Build_an_Account.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Status and Reason Codes - an Overview" link="Introduction_to_Child_Support\Status_and_Reason_Codes_-_an_Overview.htm">
+		</item>
+		<item name="Group (Status) Codes and Their Meanings" link="Introduction_to_Child_Support\Group_(Status)_Codes_and_Their_Meanings.htm">
+		</item>
+		<item name="Roadmaps, Diagrams, Desk Aids, and Videos" link="Introduction_to_Child_Support\Roadmaps_and_Diagrams.htm">
+		</item>
+		<item name="Download PDFs of Individual Chapters of this Manual" link="Introduction_to_the_Child_Support_Operations_Manual\Download_PDFs_of_Individual_Chapters_of_this_Manual.htm">
+		</item>
+		<item name="Performance Measures" link="Introduction_to_Child_Support\Performance_Measures.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+	</item>
+	<item name="Intake" comment="Intake Chapter">
+		<item name="Intake - Cover Page" link="INTAKE\Intake_-_Cover_Page.htm">
+		</item>
+		<item name="Download a PDF of the Intake Chapter" link="INTAKE\Intake Chapter - Child Support Program Manual.pdf">
+		</item>
+		<item name="Introduction to Intake" comment="Introduction to Intake">
+			<item name="Intake - An Introduction" link="INTAKE\Introduction_to_Intake\Definition_of_Intake.htm">
+			</item>
+			<item name="Case Processing Timelines" link="INTAKE\Introduction_to_Intake\Case_Processing_Timelines.htm">
+			</item>
+			<item name="Applications versus Referrals" link="INTAKE\Introduction_to_Intake\Applications_versus_Referrals.htm">
+			</item>
+			<item name="Do all customers need to fill out an LDSS-4882?" link="INTAKE\Introduction_to_Intake\Do_all_clients_need_to_fill_out_an_LDSS-4882_.htm">
+			</item>
+			<item name="Linking Cases -- Should You Do It?" link="INTAKE\Introduction_to_Intake\Linking_Cases_--_Should_You_Do_It_.htm">
+			</item>
+			<item name="Record Retention Policy" link="INTAKE\Introduction_to_Intake\Retention_of_Paper_Records.htm">
+			</item>
+			<item name="Safety Concerns: Safety of the Applicant" link="INTAKE\Introduction_to_Intake\Safety_Concerns__Safety_of_the_Applicant.htm">
+			</item>
+			<item name="Who is the Customer? Who is the Petitioner?" link="INTAKE\Introduction_to_Intake\Who_is_the_Client__Who_is_the_Petitioner_.htm">
+			</item>
+		</item>
+		<item name="Eligibility for Child Support Services">
+			<item name="Who Is Eligible" link="INTAKE\Eligibility_for_Child_Support_Services\Eligible_Cases.htm">
+			</item>
+			<item name="Equal Access to Services" link="INTAKE\Eligibility_for_Child_Support_Services\Policies_Regarding_Intake.htm">
+			</item>
+		</item>
+		<item name="The Application Form" comment="The Application Form">
+			<item name="The Application: Form DSS-4882" link="INTAKE\The_Application_Referral_Form_LDSS-4882\The_Application__Form_DSS-2860.htm">
+			</item>
+			<item name="Section C:  Checking Box 1 or Box 2" link="INTAKE\The_Application_Referral_Form_LDSS-4882\Section_C_--_Checking_Box_1_or_Box_2.htm">
+			</item>
+			<item name="Forms: Intake Forms" link="INTAKE\The_Application_Referral_Form_LDSS-4882\Forms_--_Intake_Forms.htm">
+			</item>
+		</item>
+		<item name="Cooperation Requirements" comment="Cooperation requirements">
+			<item name="Define &quot;Cooperation&quot;" link="INTAKE\Cooperation_Requirements\Define__Cooperation_.htm">
+			</item>
+			<item name="Attesting to Lack of Information" link="INTAKE\Cooperation_Requirements\Attesting_to_Lack_of_Information.htm">
+			</item>
+			<item name="Results of Non-Cooperation" link="INTAKE\Cooperation_Requirements\Results_of_Non-Cooperation.htm">
+			</item>
+		</item>
+		<item name="Safety Concerns -- Domestic Violence and Good Cause">
+			<item name="Suppression of Address and Employment Information" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Suppression_of_Address_and_Employment_Information.htm">
+			</item>
+			<item name="To the Customer in TA Cases Involving Domestic Violence" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\To_the_Customer_in_TA_Cases_Involving_Domestic_Violence.htm">
+			</item>
+			<item name="Good Cause versus Domestic Violence Waivers" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Good_Cause_versus_Domestic_Violence_Waivers.htm">
+			</item>
+			<item name="Referral to Domestic Violence Liaison" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Referral_to_Domestic_Violence_Liaison.htm">
+			</item>
+			<item name="Domestic Violence Liaison: What They Do" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Domestic_Violence_Liaison__What_They_Do.htm">
+			</item>
+			<item name="After a Determination by a Domestic Violence Liaison:  Required Actions" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\After_a_Determination_by_a_DVL_-_Required_Actions.htm">
+			</item>
+			<item name="Setting Family Violence Indicator Codes" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\IMPORTANT__Setting_FVI_Codes.htm">
+			</item>
+		</item>
+		<item name="TA Cases (Intake) - Introduction" comment="TA and IV-E Cases - an Introduction">
+			<item name="Cooperation Requirements for TA Cases" link="INTAKE\TA_Cases_Intake_Introduction\Cooperation_Requirements_for_TA_Cases.htm">
+			</item>
+			<item name="If the TA Unit Denies Temporary Assistance" link="INTAKE\TA_Cases_Intake_Introduction\If_the_TA_Unit_Denies_Temporary_Assistance.htm">
+			</item>
+			<item name="The IVA-IVD Interface Report" link="INTAKE\TA_Cases_Intake_Introduction\The_IVA-IVD_Interface_Report.htm">
+			</item>
+			<item name="Workarounds We've Encountered in Intake Procedures" link="INTAKE\TA_Cases_Intake_Introduction\Workarounds_We_ve_Encountered_in_Intake_Procedures.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+			</item>
+		</item>
+		<item name="TA Process  (Intake)" comment="TA Process">
+			<item name="ROADMAP: TA Process for Intake" link="INTAKE\TA_Process\Roadmap__TA_Process_for_Intake.htm">
+			</item>
+			<item name="CP applies for temporary assistance at TA Unit" link="INTAKE\TA_Process\CP_applies_for_TA_at_TA_Unit.htm">
+			</item>
+			<item name="TA Worker provides LDSS-4882 to customer" link="INTAKE\TA_Process\TA_Worker_provides_LDSS-4882_to_customer.htm">
+			</item>
+			<item name="CP fills out an LDSS-4882" link="INTAKE\TA_Process\CP_or_NCP_completes_and_returns_LDSS-4882.htm">
+			</item>
+			<item name="Worker logs receipt of 4882, reviews it for completeness" link="INTAKE\TA_Process\Worker_logs_receipt_of_4882,_reviews_it_for_completeness.htm">
+			</item>
+			<item name="Does customer claim safety concerns?" link="INTAKE\TA_Process\Does_customer_claim_safety_concerns_.htm">
+			</item>
+			<item name="Worker sends customer to Domestic Violence Liaison" link="INTAKE\TA_Process\Worker_sends_customer_to_DVL.htm">
+			</item>
+			<item name="Worker examines supporting documentation" link="INTAKE\TA_Process\Worker_examines_supporting_documentation.htm">
+			</item>
+			<item name="CP signs Attestation to Lack of Information form" link="INTAKE\TA_Process\CP_signs_Attestation_to_Lack_of_Information_form.htm">
+			</item>
+			<item name="Worker interviews the customer (Optional)" link="INTAKE\TA_Process\Worker_interviews_the_customer_(Optional).htm">
+			</item>
+			<item name="Worker begins building the case" link="INTAKE\TA_Process\Worker_begins_building_the_case.htm">
+			</item>
+		</item>
+		<item name="Non-TA Cases (Intake) - Introduction">
+			<item name="Ability to Suppress Personally Idenifying Information" link="INTAKE\Non-TA_Cases_-_Introduction\Ability_to_Suppress_Personally_Idenifying_Information.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+			</item>
+			<item name="$25 Annual Service Fee" link="INTAKE\Non-TA_Cases_-_Introduction\$25_Annual_Service_Fee_--_Alternative_A.htm">
+			</item>
+			<item name="Family Violence Indicator (FVI) in Non-TA Cases" link="INTAKE\Non-TA_Cases_-_Introduction\Family_Violence_Indicator_(FVI)_in_Non-TA_Cases.htm" x-condition="Excluded_by_SMEs">
+			</item>
+		</item>
+		<item name="Non-TA Process  (Intake)">
+			<item name="ROADMAP:  Non-TA Process - Intake" link="INTAKE\Non-TA_Process_-_Intake\Roadmap_-__Non-TA_Process_-_Intake.htm">
+			</item>
+			<item name="Worker has initial contact with customer" link="INTAKE\Non-TA_Process_-_Intake\Worker_has_initial_contact_with_customer.htm">
+			</item>
+			<item name="Worker provides LDSS-4882 to customer" link="INTAKE\Non-TA_Process_-_Intake\Worker_provides_LDSS-4882_to_customer.htm">
+			</item>
+			<item name="CP or NCP completes &amp; returns LDSS-4882" link="INTAKE\Non-TA_Process_-_Intake\CP_or_NCP_completes_&amp;amp;_returns_LDSS-4882_-_Version_B.htm">
+			</item>
+			<item name="Worker logs receipt of 4882, reviews it for completeness" link="INTAKE\Non-TA_Process_-_Intake\Worker_logs_receipt_of_4882,_reviews_it_for_completeness.htm">
+			</item>
+			<item name="Worker begins building the case" link="INTAKE\Non-TA_Process_-_Intake\Worker_begins_building_the_case.htm">
+			</item>
+			<item name="Worker examines supporting documentation" link="INTAKE\Non-TA_Process_-_Intake\Worker_examines_supporting_documentation.htm">
+			</item>
+			<item name="Worker interviews the customer (Optional)" link="INTAKE\Non-TA_Process_-_Intake\Worker_interviews_the_customer_(Optional).htm">
+			</item>
+			<item name="Has customer requested legal services?" link="INTAKE\Non-TA_Process_-_Intake\Has_customer_requested_legal_services_.htm">
+			</item>
+			<item name="Worker provides customer with legal rates" link="INTAKE\Non-TA_Process_-_Intake\Worker_provides_customer_with_legal_rates.htm">
+			</item>
+			<item name="Worker begins building the case" link="INTAKE\Non-TA_Process_-_Intake\Worker_begins_building_the_case.htm">
+			</item>
+		</item>
+		<item name="Foster Care Cases">
+			<item name="Foster Care Cases" link="INTAKE\Foster_Care_Cases\Introduction_to_Foster_Care_Cases.htm">
+			</item>
+		</item>
+		<item name="Safety Net Cases">
+			<item name="Safety Net Cases" link="INTAKE\Safety_Net_Cases\Safety_Net_Cases.htm">
+			</item>
+		</item>
+		<item name="Troubleshooting - Intake" comment="Troubleshooting Intake">
+			<item name="ASSETS Changes CP or NCP Address" link="INTAKE\Troubleshooting_-_Intake\ASSETS_Changes_CP_or_NCP_Address.htm">
+			</item>
+			<item name="Hard Copy of Referral Never Arrived from TA" link="INTAKE\Troubleshooting_-_Intake\Hard_Copy_of_Referral_Never_Arrived_from_TA.htm">
+			</item>
+			<item name="Worker cannot select IV-E Foster Care radio button" link="INTAKE\Troubleshooting_-_Intake\Worker_cannot_select_IV-E_Foster_Care_radio_button.htm">
+			</item>
+			<item name="Worker is kicked out of online application form" link="INTAKE\Troubleshooting_-_Intake\New_Topic.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Case-Building">
+		<item name="Case-Building - Overview" link="INTAKE\Case-Building\Case-Building_-_An_Introduction.htm">
+		</item>
+		<item name="Referral Search - Building a Case from a Referral Search" link="INTAKE\Case-Building\Referral_Search_-_Building_a_Case_from_a_Referral_Search.htm">
+		</item>
+	</item>
+	<item name="Location" x-condition="Chapter_LOCATION">
+		<item name="Location - Cover Page" link="LOCATION\Location_-_Cover_Page.htm" x-condition="Chapter_LOCATION">
+		</item>
+		<item name="Download a PDF of the Location Chapter" link="LOCATION\Location_Chapter_CSPM - Final - 2018-09-14.pdf">
+		</item>
+		<item name="SMEs for Location Chapter" link="LOCATION\SMEs_for_Location_Chapter.htm" x-condition="Chapter_LOCATION,KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Screenshots and Documents Needed for Location Chapter" link="LOCATION\Screenshots_and_Documents_Needed_for_Location_Chapter.htm" x-condition="DEVELOPMENT_SERVER_ONLY,Chapter_LOCATION">
+		</item>
+		<item name="Introduction to Location" x-condition="Chapter_LOCATION">
+			<item name="Acronyms Used in the Location Chapter" link="LOCATION\Introduction_to_Location\Acronyms_Used_in_the_Location_Chapter.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Introduction to Location" link="LOCATION\Introduction_to_Location\Introduction_to_Location.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Opening an L Group" link="LOCATION\Introduction_to_Location\Opening_an_L_Group.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Ways In Which Data Enters Case Records In ASSETS" link="LOCATION\Introduction_to_Location\Ways_In_Which_Data_Enters_ASSETS.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Minimum Information Required to Locate a PF/NCP" link="LOCATION\Introduction_to_Location\Minimum_Information_Required_to_Locate_a_Respondent.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Essential Screens in the Location Process" link="LOCATION\Introduction_to_Location\Essential_Screens_in_the_Location_Process.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Codes Related to Location" link="LOCATION\Introduction_to_Location\Codes_Related_to_Location.htm" x-condition="Author_Notes,Chapter_LOCATION">
+			</item>
+		</item>
+		<item name="New Hire Reporting (Fully Automated)" x-condition="Chapter_LOCATION">
+			<item name="Intro to New Hire Reporting" link="LOCATION\New_Hire_Reporting\Intro_to_New_Hire_Reporting.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Roadmap:  New Hire Reporting" link="LOCATION\New_Hire_Reporting\Roadmap_New_Hire_Reporting.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Case appears on Overage Statuses tab" link="LOCATION\New_Hire_Reporting\Case_appears_on_Overage_Statuses_tab.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Proc Ctr enters Code V into Employer Verification Ind field" link="LOCATION\New_Hire_Reporting\Proc_Ctr_enters_Code_V_into_Employer_Verification_Ind_field.htm" x-condition="Chapter_LOCATION">
+			</item>
+		</item>
+		<item name="Automated Location Searches" x-condition="Chapter_LOCATION">
+			<item name="Automated Location Searches - Introduction" link="LOCATION\Automated_Location_Searches\Automated_Location_Searches_-_Introduction.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Roadmap_Automated Location Search Finds a Respondent Address" link="LOCATION\Verification_of_Address_or_Employment\Roadmap_Automated_Location_Search_Finds_a_Respondent_Address.htm" x-condition="Author_Notes,Chapter_LOCATION">
+			</item>
+		</item>
+		<item name="Manual Location Searches" x-condition="Chapter_LOCATION">
+			<item name="Intro to Manual Location Searches" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Intro_to_Manual_Searches.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Local Resources for Location Investigation - a Checklist" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Local_Resources_for_Location_Investigation_-_a_Checklist.htm" x-condition="SME_REVIEW,Chapter_LOCATION">
+			</item>
+			<item name="Social Security Number - Sources For Finding It" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Social_Security_Number_-_Sources_For_Finding_It.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Deceased PF/NCP" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Deceased_PF_NCP.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Incarcerated PF/NCPs" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Incarcerated_PF_NCPs.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Military - PF or NCP Is In the Military" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Military_-_PF_or_NCP_Is_In_the_Military.htm" x-condition="Chapter_LOCATION">
+			</item>
+		</item>
+		<item name="Manually Entering Respondent Address or Employer Into Case Record" x-condition="Chapter_LOCATION">
+			<item name="Manually Enter a New PF/NCP Address Into Case Record" link="LOCATION\Manual_-_Non-Automated_Location_Searches\Manually_Enter_a_New_Respondent_Address_Into_Case_Record.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="Manually Enter a PF/NCP Employer into the Case Record" link="LOCATION\Manual_-_Non-Automated_Location_Searches\How_to_Manually_Enter_an_Employer_into_the_Case_Record.htm" x-condition="Chapter_LOCATION">
+			</item>
+		</item>
+		<item name="Verification of Address or Employment" x-condition="Chapter_LOCATION">
+			<item name="Intro to Verifying Respondent Address and Employer" link="LOCATION\Verification_of_Address_or_Employment\Intro_to_Verifying_Address_and_Employment.htm" x-condition="SME_REVIEW,Chapter_LOCATION">
+			</item>
+			<item name="WHBR: Wage and Health Benefits Report" link="LOCATION\Verification_of_Address_or_Employment\WHBR_Wage_and_Health_Benefits_Report.htm" x-condition="Chapter_LOCATION">
+			</item>
+			<item name="PCL:  Postal Clearance Letter" link="LOCATION\Verification_of_Address_or_Employment\PCL_-_Postal_Clearance_Letter.htm" x-condition="Chapter_LOCATION">
+			</item>
+		</item>
+	</item>
+	<item name="Financial Investigations" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		<item name="Financial Investigations - Cover Page" link="FINANCIAL_INVESTIGATION\Financial_Invesigations_-_Cover_Page.htm">
+		</item>
+		<item name="Introduction to Financial Investigations" link="FINANCIAL_INVESTIGATION\Introduction_to_Financial_Investigation.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Laws and Regulations Governing Financial Investigations" link="FINANCIAL_INVESTIGATION\Laws_and_Regulations_Governing_Financial_Investigations.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Discovery:  Gathering Financial Evidence" link="FINANCIAL_INVESTIGATION\Discovery_of_Financial_Evidence.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Discovery &amp; Investigation Tools" link="FINANCIAL_INVESTIGATION\Discovery_and_Investigative_Tools.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Admissible Evidence:  What Is Admissible?" link="FINANCIAL_INVESTIGATION\Admissible_Evidence_-_What_Is_Admissible_.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Video:  Financial Investigation Requirements Under the Amended State and Federal Regulations" link="FINANCIAL_INVESTIGATION\Webinar_-_Financial_Investigation_Requirements_Under_the_Amended_State_and_Federal_Regulations.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Financial Investigation Desk Aid" link="FINANCIAL_INVESTIGATION\Financial Information Desk Aid.pdf" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Self-Employed PF/NCP" link="FINANCIAL_INVESTIGATION\Self-Employed_PF_NCP.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Discovery and Admissibility of Evidence - Laws and Regs" link="FINANCIAL_INVESTIGATION\Financial_Investigations_-_Discovery_and_Admissibility_-_Laws_and_Regs.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+	</item>
+	<item name="Paternity Establishment" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		<item name="Paternity Establishment - Cover Page" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_-_Cover_Page.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Introduction to Paternity Establishment" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			<item name="Introduction to Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Introduction_to_Paternity_Establishment\Introduction_to_Paternity_Establishment.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Benefits of Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Introduction_to_Paternity_Establishment\Benefits_of_Paternity_Establishment.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Laws and Regulations Related to Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Introduction_to_Paternity_Establishment\Laws_and_Regulations_Pertaining_to_Paternity_Establishment.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+		</item>
+		<item name="Paternity Establishment Process" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			<item name="Roadmap: Paternity Establishment" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_Process\Roadmap_Paternity_Establishment.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Signing an Acknowledgement of Paternity" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_Process\Have_parents_signed_an_Acknowledgement_of_Paternity_form.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Worker prepares a Paternity Petition" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_Process\Worker_prepares_a_Paternity_Petition.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Webinar - Acknowledgement of Paternity - April 25, 2018" link="PATERNITY_ESTABLISHMENT\Paternity_Establishment_Process\Webinar_-_Acknowledgement_of_Paternity_-_April_25,_2018.htm" x-condition="SME_REVIEW,Author_Notes">
+			</item>
+		</item>
+	</item>
+	<item name="Support Establishment" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		<item name="Support Establishment - Cover Page" link="SUPPORT_ESTABLISHMENT\Support_Establishment_-_Cover_Page.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Documents Related to Support Establishment" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Documents_Related_to_Support_Establishment.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT,THIEL_ONLY">
+		</item>
+		<item name="Introduction to Support Establishment" link="SUPPORT_ESTABLISHMENT\Introduction_to_Support_Establishment.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Laws and Regulations Related to Support Establishment" link="SUPPORT_ESTABLISHMENT\Laws_and_Regulations_Related_to_Support_Establishment.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Support Establishment Process" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			<item name="Roadmap - TA Process for Support Establishment" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Roadmap_-_TA_Process_for_Support_Establishment.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Support Magistrate continues paternity hearing to a support hearing" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Magistrate_continues_paternity_hearing_to_a_support_hearing.htm">
+			</item>
+			<item name="Worker prepares and files a Support Petition" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Worker_prepares_and_files_a_Support_Petition.htm">
+			</item>
+			<item name="Support hearing is convened" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_hearing_is_convened.htm">
+			</item>
+			<item name="Does either party request an adjournment?" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Does_either_party_request_an_adjournment.htm">
+			</item>
+			<item name="Court issues a Temporary Order" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Court_issues_a_Temporary_Order.htm">
+			</item>
+			<item name="CP and NCP submit evidence" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\CP_and_NCP_submit_evidence.htm">
+			</item>
+			<item name="Support Magistrate calculates support obligation amount" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_Magistrate_calculates_support_obligation_amount.htm">
+			</item>
+			<item name="Support Magistrate calculates adjustments to support obligation amount" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_Magistrate_calculates_adjustments_to_support_obligation_amount.htm">
+			</item>
+			<item name="Support Magistrate issues Order of Support" link="SUPPORT_ESTABLISHMENT\Support_Establishment_Process\Support_Magistrate_issues_Order_of_Support.htm">
+			</item>
+		</item>
+		<item name="Change of Payee" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			<item name="Change of Payee - TA Cases" link="SUPPORT_ESTABLISHMENT\Change_of_Payee\Change_of_Payee_-_TA_Cases.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Change of Payee - Non-TA Cases" link="SUPPORT_ESTABLISHMENT\Change_of_Payee\Change_of_Payee_-_Non-TA_Cases.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+		</item>
+	</item>
+	<item name="Account Creation" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		<item name="Account Creation - Cover Page" link="ACCOUNT_CREATION\Account_Creation_-_Cover_Page.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="NOTES re Account Creation" link="ACCOUNT_CREATION\NOTES_re_Account_Creation.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Screenshots in Account Creation" link="ACCOUNT_CREATION\Screenshots_in_Account_Creation.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Sources" link="ACCOUNT_CREATION\Sources.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT,THIEL_ONLY">
+		</item>
+		<item name="Introduction to Account Creation">
+			<item name="Introduction to Account Creation" link="ACCOUNT_CREATION\Introduction_to_Account_Creation.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Information Needed to Build an Account" link="ACCOUNT_CREATION\Intro_to_Account_Creation\Information_Needed_to_Create_an_Account.htm">
+			</item>
+			<item name="Laws and Regulations Related to Collection and Disbursement" link="ACCOUNT_CREATION\Laws_and_Regulations_Related_to_Collection_and_Disbursement.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Terminology Used In Account Creation" link="ACCOUNT_CREATION\Intro_to_Account_Creation\Terminology_Used_In_Account_Creation.htm">
+			</item>
+		</item>
+		<item name="Account Creation Process" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			<item name="Roadmap: Account Creation" link="ACCOUNT_CREATION\Account_Creation_Process\Roadmap_-_Account_Creation.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="ACS and-or Order of Support appear on Family Court Interface" link="ACCOUNT_CREATION\Account_Creation_Process\ACS_and-or_Order_of_Support_appear_on_Family_Court_Interface.htm">
+			</item>
+			<item name="Worker checks Family Court Interface, retrieves Order or ACS" link="ACCOUNT_CREATION\Account_Creation_Process\Worker_checks_Family_Court_Interface,_retreives_Order_or_ACS.htm">
+			</item>
+			<item name="Account Creation Summary - Obtain It, Use It" link="ACCOUNT_CREATION\Account_Creation_Process\Account_Creation_Summary_-_Obtain_It,_Use_It.htm">
+			</item>
+			<item name="Order of Support - Entire Document" link="ACCOUNT_CREATION\Account_Creation_Process\Order_of_Support_-_Entire_Document.htm">
+			</item>
+			<item name="Basic Search in ASSETS" link="ACCOUNT_CREATION\Account_Creation_Process\Basic_Search_in_ASSETS.htm">
+			</item>
+			<item name="Transpose info from Support Order to DSS-3117" link="ACCOUNT_CREATION\Account_Creation_Process\Transcribe_info_from_Support_Order_to_DSS-3117.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="DSS-3117 - Completing the Form" link="ACCOUNT_CREATION\Account_Creation_Process\DSS-3117_-_Completing_the_Form.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Should the case be linked?" link="ACCOUNT_CREATION\Account_Creation_Process\Should_the_case_be_linked_.htm">
+			</item>
+			<item name="Account Mode - Ledger tab:  Set Collection Indicator code" link="ACCOUNT_CREATION\Account_Creation_Process\Account_Mode_-_Ledger_tab.htm">
+			</item>
+			<item name="Effective Date of the Order of Support" link="ACCOUNT_CREATION\Account_Creation_Process\Effective_Date_of_the_Order_of_Support.htm">
+			</item>
+			<item name="Build an account" link="ACCOUNT_CREATION\Account_Creation_Process\Build_an_account.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+			<item name="Case Mode - CSSA tab - Add Record" link="ACCOUNT_CREATION\Account_Creation_Process\Case_Mode_-_CSSA_tab_-_Add_Record.htm">
+			</item>
+			<item name="Set the SA (Support Act) Indicator code" link="ACCOUNT_CREATION\Account_Creation_Process\Set_the_SA_(Support_Act)_Indicator_code.htm">
+			</item>
+			<item name="Wage Order Delinquency - Set the Value" link="ACCOUNT_CREATION\Account_Creation_Process\Wage_Order_Delinquency_-_Set_the_Value.htm">
+			</item>
+			<item name="Add a Ledger" link="ACCOUNT_CREATION\Account_Creation_Process\Add_a_Ledger.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+			</item>
+		</item>
+		<item name="Retroactive Arrears">
+		</item>
+		<item name="From Court Order to Case Record - Inputting Codes" link="ACCOUNT_CREATION\From_Court_Order_to_Case_Record_-_Inputting_Codes.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+	</item>
+	<item name="Interstate" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		<item name="Interstate - Cover Page" link="INTERSTATE\Interstate_-_Cover_Page.htm">
+		</item>
+		<item name="Interstate Case Assistant" link="http://otda.state.nyenet/assets/pages/HTML/Interstate_Case_Assistant/ICA_01.html">
+		</item>
+		<item name="Definition of Scope" link="INTERSTATE\Definition_of_Scope.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Principal Entities" link="INTERSTATE\Interstate_principal_entities.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Interstate Laws" link="INTERSTATE\Interstate_laws.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Interstate Regulations" link="INTERSTATE\Interstate_regulations.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Action Prompts" link="INTERSTATE\Interstate_action_prompts.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Tools" link="INTERSTATE\Interstate_tools.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Court Forms" link="https://www.nycourts.gov/forms/familycourt/uifsa.shtml">
+		</item>
+		<item name="Resources" link="INTERSTATE\Interstate_resources.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Other Points To Be Aware Of" link="INTERSTATE\New_Topic.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+	</item>
+	<item name="COLA" x-condition="Chapter_COLA">
+		<item name="COLA - Cover page for COLA chapter" link="COLA\COLA_-_Cover_page_for_COLA_chapter.htm" x-condition="Chapter_COLA">
+		</item>
+		<item name="COLA Page on ERS" link="COLA\COLA_Process_Page_on_ERS.htm" x-condition="Chapter_COLA">
+		</item>
+		<item name="Download a PDF of The COLA Chapter" link="Introduction_to_Child_Support\COLA_Chapter_CSS_Manual_-_20171129A.pdf" x-condition="Chapter_COLA">
+		</item>
+		<item name="Intro to COLA" x-condition="Chapter_COLA">
+			<item name="What is a COLA?" link="COLA\Intro_to_COLA\What_is_a_COLA_.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="TA Accounts versus Non-TA Accounts: Different COLA Processes" link="COLA\Intro_to_COLA\TA_Accounts_versus_Non-TA_Accounts__Different_COLA_Processes.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="How Is a COLA Calculated?" link="COLA\Intro_to_COLA\How_Is_a_COLA_Calculated_.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="Eligibility" x-condition="Chapter_COLA">
+			<item name="Orders Subject to COLA" link="COLA\Eligibility\Orders_Subject_to_COLA.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="General Eligibility Criteria for a COLA" link="COLA\Eligibility\General_Eligibility_Criteria_for_a_COLA.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Decision Tree: Is It Eligible for a COLA?" link="COLA\Eligibility\Decision_Tree.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Eligible Ledgers" link="COLA\Eligibility\Eligible_Ledgers.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Ledger Codes: Meaning and Syntax" link="COLA\Eligibility\Eligible_Ledgers__Syntax_of_Ledger_Codes.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Multiple Ledgers, Different Payment Frequencies" link="COLA\Eligibility\Multiple_Ledgers,_Different_Payment_Frequencies.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="To View the CPI-U Data From Any Page In ASSETS" link="Screens_You_Will_Encounter_-_Master_List\To_View_the_CPI-U_Data_From_Any_Page_In_ASSETS.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="Ineligibility" x-condition="Chapter_COLA">
+			<item name="Ineligibility" link="COLA\Ineligibility\Ineligibility.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="TA Process  (COLA)" x-condition="Chapter_COLA">
+			<item name="ROADMAP: TA Process (COLA)" link="COLA\TA_Process\Roadmap__TA_Process.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Eligible cases appear on &quot;Cost of Living Adjustment Eligible Cases&quot; screen" link="COLA\TA_Process\Step_02.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Worker reviews Eligible Cases screen, resolves any cases with Error codes" link="COLA\TA_Process\02.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="ASSETS runs its COLA monthly process (on the third full weekend of each month)" link="COLA\TA_Process\03.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Objection to COLA?" link="COLA\TA_Process\Objection_to_COLA_.htm">
+			</item>
+			<item name="Proc Ctr mails &quot;Adjusted Order of Support&quot; to all parties" link="COLA\TA_Process\04.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="Non-TA Process  (COLA)" x-condition="Chapter_COLA">
+			<item name="ROADMAP: Non-TA Process Diagram (COLA)" link="COLA\Non-TA_Process\Roadmap__Non-TA_Process.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Eligible cases appear on &quot;Cost of Living Adjustment Eligible Cases&quot; screen" link="COLA\Non-TA_Process\COLA-Eligible_cases_appear_on__Cost_of_Living_Adjustment_Eligible_Cases__screen.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Worker reviews Eligible Cases screen, resolves any cases with Error codes" link="COLA\Non-TA_Process\Caseworker_reviews_Eligible_Cases_screen,_looks_for_any_accounts_with_an__E__(Error)_code.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="ASSETS runs its COLA monthly process (on the third full weekend of each month)" link="COLA\Non-TA_Process\ASSETS_runs_its_COLA_monthly_process_(on_the_third_full_weekend_of_each_month).htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Processing Center prints and mails &quot;Notice of Your Right to Request&quot;" link="COLA\Non-TA_Process\PROC_CENTER_PRINT.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="No COLA requested? No further action." link="COLA\Non-TA_Process\No_COLA_requested._No_further_action..htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="CP or NCP mails request to Processing Center" link="COLA\Non-TA_Process\CP_or_NCP_mails_request_to_Processing_Center.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Processing Center captures request for COLA" link="COLA\Non-TA_Process\Processing_Center_enters_request_code_into_system.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="ASSETS runs COLA monthly process (on the next third full weekend of the month" link="COLA\Non-TA_Process\On_the_next_third_weekend_of_the_month,_ASSETS_runs_COLA_monthly_process..htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Proc Ctr mails ADJUSTED ORDER OF SUPPORT to parties" x-condition="Chapter_COLA" tocplaceholder="Proc Ctr mails ADJUSTED ORDER OF SUPPORT to parties.hhc">
+			</item>
+			<item name="Does any party object to the COLA?" link="COLA\Non-TA_Process\Does_any_party_object_to_the_COLA_.htm">
+			</item>
+			<item name="No objection? COLA takes effect in 60 days" link="COLA\Non-TA_Process\No_objection__COLA_takes_effect_in_60_days.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Objection: CP or NCP mails Objection to Court" link="COLA\Non-TA_Process\CP_or_NCP_mails_Objection_to_Court.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="Intro to Objections in COLA" x-condition="Chapter_COLA">
+			<item name="Introduction to Objections in COLA Process" link="COLA\Intro_to_Objections\Intro_to_Objections_in_COLA_Process.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="When Should the DSS Object to a COLA?" link="COLA\Intro_to_Objections\When_Should_the_DSS_Object_to_a_COLA_.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="Objection Process  (COLA)" x-condition="Chapter_COLA">
+			<item name="ROADMAP: Objection Process (COLA)" link="COLA\Objection_Process\Roadmap__Objecting_to_a_COLA.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Court receives objection and notifies the SCU" link="COLA\Objection_Process\Court_receives_objection.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Worker enters Objection Date into Adj Order Objection Date field" link="COLA\Objection_Process\Worker_enters_Objection_Date_into_Adj_Order_Objection_Date_field.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="ASSETS locks ledgers so that no COLA goes into effect pending de novo hearing" link="COLA\Objection_Process\ASSETS_locks_ledgers_so_that_no_COLA_goes_into_effect_pending_de_novo_hearing.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Worker preps for court, conducts financial investigation" link="COLA\Objection_Process\Workers_conducts_financial_investigation.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="If the objection is dismissed" link="COLA\Objection_Process\If_the_objection_is_dismissed.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="If the objection is upheld" link="COLA\Objection_Process\If_the_objection_is_upheld.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="If a new or modified order is issued" link="COLA\Objection_Process\If_a_new_or_modified_order_is_issued.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Worker rescinds &quot;Adjusted Order of Support&quot;" link="COLA\Objection_Process\Worker_rescinds__Adjusted_Order_of_Support_.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="Troubleshooting" x-condition="Chapter_COLA">
+			<item name="Objection Date field is locked." link="COLA\Troubleshooting_-_COLA\Cannot_clear_the_Objection_Date_Field.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="CEJ State field is locked." link="COLA\Troubleshooting_-_COLA\Cannot_edit_the__CEJ_State__field_in_ASSETS.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Code &quot;E&quot; (Error) appears in &quot;Review Adjustment Ind&quot; field" link="COLA\Troubleshooting_-_COLA\Review_Adjustment_Ind_field_Contains_Code__E_.htm" x-condition="Chapter_COLA">
+			</item>
+			<item name="Proc Ctr Receives an Unsigned COLA Request Form" link="COLA\Troubleshooting_-_COLA\Proc_Ctr_Receives_an_Unsigned_Request_for_a_COLA.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="COLA Notices - Sent from Processing Center" x-condition="Chapter_COLA">
+			<item name="COLA Notices - Sent from Processing Center" link="COLA\Notices_Documents_and_Correspondence\COLA_Notices_-_Sent_from_Processing_Center.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+		<item name="Screens You Will Encounter - COLA" x-condition="Chapter_COLA,THIEL_ONLY">
+			<item name="Screens You'll Encounter in COLA" link="Screens_You_Will_Encounter_-_Master_List\Screens_You_ll_Encounter_in_COLA.htm" x-condition="Chapter_COLA">
+			</item>
+		</item>
+	</item>
+	<item name="PEX" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		<item name="SMEs for PEX chapter" link="PEX\SMEs_for_PEX_chapter.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+	</item>
+	<item name="ACCOUNTING" x-condition="SME_REVIEW">
+		<item name="Employer Fails to Respond to an IWO" link="ACCOUNTING\Employer_Fails_to_Respond_to_an_IWO.htm">
+		</item>
+		<item name="Creating a Walk-In Cash Report" link="VIDEOS\Creating_a_Walk-In_Cash_Report.htm">
+		</item>
+	</item>
+	<item name="Collection" x-condition="Chapter_COLLECTIONS">
+		<item name="Introduction to Support Collection" link="COLLECTION\Introduction_to_Support_Collection.htm" x-condition="Chapter_COLLECTIONS">
+		</item>
+		<item name="Guide to Distribution Hierarchy" link="COLLECTION\Guide_to_Distribution_Hierarchy.htm" x-condition="SME_REVIEW">
+		</item>
+		<item name="Deliinquency Switches" link="COLLECTION\Deliinquency_Switches.htm" x-condition="Chapter_COLLECTIONS">
+		</item>
+		<item name="Lump Sum Payments" link="COLLECTION\Lump_Sum_Payments.htm" x-condition="Chapter_COLLECTIONS">
+		</item>
+		<item name="Undeliverable Mail or Returned Mail" link="COLLECTION\Undeliverable_Mail_or_Returned_Mail.htm" x-condition="Chapter_COLLECTIONS">
+		</item>
+		<item name="Undistributed_Collections" link="COLLECTION\Undistributed_Collections.htm">
+		</item>
+		<item name="Income Withholding Order Employer Verification Codes" link="COLLECTION\Income_Withholding_Order_Employer_Verification_Codes.htm">
+		</item>
+		<item name="The Additional Amount" x-condition="SME_REVIEW">
+			<item name="Overview - Request for Review of the Additional Amount" link="COLLECTION\The_Additional_Amount\Overview - Request for Review of the Additional Amount.pdf" x-condition="SME_REVIEW">
+			</item>
+			<item name="Request for Review of Additional Amount" link="COLLECTION\The_Additional_Amount\Request_for_Review_of_Additional_Amount.pdf" x-condition="SME_REVIEW">
+			</item>
+			<item name="Review Recap - Request Review of Additional Amount" link="COLLECTION\The_Additional_Amount\Review Recap IWRR - Key Points for Participants.doc" x-condition="SME_REVIEW">
+			</item>
+			<item name="SCU Determination Letter" link="COLLECTION\The_Additional_Amount\SCU Determination Letter.pdf" x-condition="SME_REVIEW">
+			</item>
+			<item name="Statement of Income and Expense" link="COLLECTION\The_Additional_Amount\Statement of Income and Expense.pdf" x-condition="SME_REVIEW">
+			</item>
+			<item name="Tips for Custody Worksheet" link="COLLECTION\The_Additional_Amount\Tips for Custody Worksheet.pdf" x-condition="SME_REVIEW">
+			</item>
+		</item>
+		<item name="Direct-from-Court Cases">
+			<item name="Direct-from-Court Cases: An Introduction" link="COLLECTION\Direct-from-Court_Cases\Direct-from-Court_Cases__An_Introduction.htm">
+			</item>
+			<item name="Court orders support paid through CSEU" link="COLLECTION\Direct-from-Court_Cases\Court_orders_support_paid_through_CSEU.htm">
+			</item>
+			<item name="Court sends the order to CSEU" link="COLLECTION\Direct-from-Court_Cases\Court_sends_the_order_to_CSEU.htm">
+			</item>
+			<item name="Worker receives court order" link="COLLECTION\Direct-from-Court_Cases\Worker_receives_court_order.htm">
+			</item>
+			<item name="Is a signed request for services attached to the order?" link="COLLECTION\Direct-from-Court_Cases\Is_a_signed_request_for_services_attached_to_the_order_.htm">
+			</item>
+			<item name="Worker builds case and account" link="COLLECTION\Direct-from-Court_Cases\Worker_builds_case_and_account.htm">
+			</item>
+			<item name="Worker checks court interface" link="COLLECTION\Direct-from-Court_Cases\Worker_checks_court_interface.htm">
+			</item>
+			<item name="Is a signed request for services available on court interface?" link="COLLECTION\Direct-from-Court_Cases\Is_a_signed_request_for_services_available_on_court_interface_.htm">
+			</item>
+			<item name="Does worker have enough info to build the case and account?" link="COLLECTION\Direct-from-Court_Cases\Does_worker_have_enough_info_to_build_the_case_and_account_.htm">
+			</item>
+			<item name="Worker retrieves the ACS Report" link="COLLECTION\Direct-from-Court_Cases\Worker_retrieves_the_ACS_Report.htm">
+			</item>
+			<item name="Worker builds the case" link="COLLECTION\Direct-from-Court_Cases\Worker_builds_the_case.htm">
+			</item>
+			<item name="Worker forwards case to collection/enforcement" link="COLLECTION\Direct-from-Court_Cases\Worker_forwards_case_to_collection_enforcement.htm">
+			</item>
+			<item name="CP or NCP misses deadline to return LDSS-4882" link="COLLECTION\Direct-from-Court_Cases\CP_or_NCP_misses_deadline_to_return_LDSS-4882.htm">
+			</item>
+			<item name="CP or NCP returns form LDSS-4882" link="COLLECTION\Direct-from-Court_Cases\CP_or_NCP_returns_form_LDSS-4882.htm">
+			</item>
+			<item name="If there is not sufficient information to build a case" link="COLLECTION\Direct-from-Court_Cases\If_there_is_not_sufficient_information_to_build_a_case.htm">
+			</item>
+			<item name="Worker assesses whether there is sufficient info to build the case" link="COLLECTION\Direct-from-Court_Cases\Worker_assesses_whether_there_is_sufficient_info_to_build_the_case.htm">
+			</item>
+		</item>
+		<item name="Paid - 50s Batches">
+		</item>
+		<item name="Due - 60s Batches">
+		</item>
+		<item name="Applied - 70s Batches">
+		</item>
+		<item name="Disbursed - 80s Batches">
+		</item>
+	</item>
+	<item name="CASE AND ACCOUNT MANAGEMENT" x-condition="DEVELOPMENT_SERVER_ONLY">
+		<item name="Continuation of Service When There's a Waiver In Effect" link="CASE_AND_ACCOUNT_MANAGEMENT\Continuation_of_Service_When_There_s_a_Waiver_In_Effect.htm">
+		</item>
+		<item name="Full Waiver" x-condition="DEVELOPMENT_SERVER_ONLY" tocplaceholder="Full Waiver.hhc">
+		</item>
+		<item name="Partial Waiver (of cooperation requirement)" link="CASE_MANAGEMENT_-_DRAFT\Partial_Waiver_(of_cooperation_requirement).htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Continuation of Services when TA benefits cease" link="CASE_AND_ACCOUNT_MANAGEMENT\Continuation_of_Services_when_TA_benefits_cease.htm">
+		</item>
+		<item name="Suppression of Address and Employment Information" link="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Suppression_of_Address_and_Employment_Information.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="ASSETS Changes CP or NCP Address On Its Own" link="INTAKE\Troubleshooting_-_Intake\ASSETS_Changes_CP_or_NCP_Address.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+		<item name="Batch Types - an Introduction" link="CASE_AND_ACCOUNT_MANAGEMENT\Batch_Types_-_an_Introduction.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Ally's Presentation:  Batching and Financial Transactions" link="ACCOUNTING\Ally_s_Presentation___Batching_and_Financial_Transactions.htm" x-condition="SME_REVIEW">
+		</item>
+	</item>
+	<item name="Modication Petitions" x-condition="SME_REVIEW">
+		<item name="Dismissal of Modification Petition" link="CASE_AND_ACCOUNT_MANAGEMENT\Modification_Petitions\Dismissal_of_Modification_Petition.htm" x-condition="SME_REVIEW">
+		</item>
+	</item>
+	<item name="Violation Petition" x-condition="SME_REVIEW">
+		<item name="Violation Petition - Preparing the Petition" link="Violation_Petitions\Violation_Petition_-_Preparing_the_Petition.htm">
+		</item>
+	</item>
+	<item name="Enforcement" x-condition="Chapter_ENFORCEMENT,Author_Notes">
+		<item name="Notes regarding Enforcement Chapter" link="ENFORCEMENT\Notes_regarding_Enforcement_Chapter.htm">
+		</item>
+		<item name="Introduction to Support Enforcement" link="ENFORCEMENT\Introduction_to_Support_Enforcement.htm" x-condition="Chapter_ENFORCEMENT,Author_Notes">
+		</item>
+		<item name="Sources for ENFORCEMENT Research" link="ENFORCEMENT\Sources_for_ENFORCEMENT_Research.htm">
+		</item>
+		<item name="ASSETS sets Delinquency Switch 9" link="LOCATION\New_Hire_Reporting\ASSETS_sets_Delinquency_Switch_9.htm">
+		</item>
+		<item name="Worker Alerts -- Enforcement Mode" link="ENFORCEMENT\Worker_Alerts_--_Enforcement_Mode.htm" x-condition="Author_Notes">
+		</item>
+		<item name="Title 6 Powers to Enforce Support" link="ENFORCEMENT\Title_6_Powers_to_Enforce_Support.htm" x-condition="Chapter_ENFORCEMENT,Author_Notes">
+		</item>
+		<item name="Administrative Enforcement">
+			<item name="Income Execution" x-condition="Author_Notes">
+			</item>
+			<item name="DMV - Driver's License Suspension" x-condition="Author_Notes">
+				<item name="Comments from Oswego County" link="ENFORCEMENT\DMV\Comments_from_Oswego_County.htm" x-condition="Author_Notes">
+				</item>
+			</item>
+			<item name="PEX - Property Execution" x-condition="Author_Notes">
+			</item>
+			<item name="Income Withholding (IWO)" x-condition="Author_Notes">
+			</item>
+			<item name="TAX - Referral to NYS Taxation and Finance" x-condition="Author_Notes">
+			</item>
+			<item name="Consumer Reporting Agency">
+			</item>
+			<item name="Lottery Intercept and Credit Reporting" x-condition="Author_Notes">
+			</item>
+			<item name="Professional License Suspension">
+			</item>
+			<item name="Passport Denial">
+				<item name="Video - Passport Denial -" link="ENFORCEMENT\Video_-_Passport_Denial_-.htm">
+				</item>
+			</item>
+			<item name="TRO - Tax Refund Offset Process" x-condition="Author_Notes">
+				<item name="Video - Tax Refund Offset - Exclusions" link="ENFORCEMENT\Video_-_Tax_Refund_Offset_-_Exclusions.htm">
+				</item>
+			</item>
+			<item name="United States Attorney's Office Referral">
+			</item>
+		</item>
+		<item name="Court-Based Enforcement">
+			<item name="Money Judgement for Past Due Amount">
+			</item>
+			<item name="Jail Term Up To Six Months">
+			</item>
+			<item name="Probation">
+			</item>
+			<item name="Driver's License Suspension Based Upon Violation Petition">
+			</item>
+			<item name="Professional License Suspension">
+			</item>
+		</item>
+		<item name="Personal Injury Insurance Claim Settlement Intercept" x-condition="Author_Notes">
+		</item>
+		<item name="Unemployment Insurance Intercept" x-condition="Author_Notes">
+		</item>
+	</item>
+	<item name="TRO - Tax Refund Offset" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		<item name="Videos: Tax Refund Offset" link="ENFORCEMENT\TRO_-_TAX_REFUND_OFFSET\Videos__Tax_Refund_Offset.htm" x-condition="KUG_Review_TEST_SERVER_OUTPUT">
+		</item>
+	</item>
+	<item name="Modifications to Support Orders" x-condition="SME_REVIEW">
+		<item name="Modification Petition - Preparing the Petition" link="Modifications_to_Support_Orders\Modification_Petition_-_Preparing_the_Petition.htm">
+		</item>
+		<item name="Proc Ctr mails ADJUSTED ORDER OF SUPPORT to parties" x-condition="SME_REVIEW" tocplaceholder="Proc Ctr mails ADJUSTED ORDER OF SUPPORT to parties.hhc">
+		</item>
+		<item name="Modified Orders - Account Maintenance Worksheet" link="Modifications_to_Support_Orders\Modified_Orders_-_Account_Maintenance_Worksheet.htm">
+		</item>
+		<item name="Retroactively Reduced Modified Perm Order.doc" link="Modifications_to_Support_Orders\Retroactively_Reduced_Modified_Perm_Order.doc.htm">
+		</item>
+	</item>
+	<item name="Case Closure" x-condition="Chapter_CASE_CLOSURE">
+		<item name="Introduction to Automated Case Closure" link="CASE_CLOSURE\Introduction_to_Automated_Case_Closure.htm" x-condition="Chapter_CASE_CLOSURE">
+		</item>
+		<item name="TA_Unit_closes_TA_case_but,_CP_requests_continuation_of_services" x-condition="Chapter_CASE_CLOSURE" tocplaceholder="TA_Unit_closes_TA_case_but,_CP_requests_continuation_of_services.hhc">
+		</item>
+	</item>
+	<item name="Processing Center" x-condition="SME_REVIEW">
+		<item name="Processing Center - Cover Page" link="PROCESSING_CENTER\Processing_Center_-_Cover_Page.htm">
+		</item>
+		<item name="NOTES re Processing Center" link="PROCESSING_CENTER\NOTES_re_Processing_Center.htm">
+		</item>
+		<item name="Introduction to the Processing Center" link="PROCESSING_CENTER\Introduction_to_the_Processing_Center.htm">
+		</item>
+		<item name="How Data Is Captured at the Processing Center" link="PROCESSING_CENTER\How_Data_Is_Captured_at_the_Processing_Center.htm" x-condition="SME_REVIEW">
+		</item>
+		<item name="ECS - Documents Available Via Electronic Communication System" link="PROCESSING_CENTER\ECS_-_Docs_Available_Via_Electronic_Communication_System.htm" x-condition="SME_REVIEW">
+		</item>
+		<item name="Originals of Documents Forwarded from the Processing Center to the CSEU" link="PROCESSING_CENTER\Original_Documents_Forwarded_from_the_Processing_Center_to_the_CSEU.htm" x-condition="SME_REVIEW">
+		</item>
+	</item>
+	<item name="Direct-from-Court Cases" x-condition="DEVELOPMENT_SERVER_ONLY">
+		<item name="Direct-from-Court Cases: An Introduction" link="COLLECTION\Direct-from-Court_Cases\Direct-from-Court_Cases__An_Introduction.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Court orders support paid through CSEU" link="COLLECTION\Direct-from-Court_Cases\Court_orders_support_paid_through_CSEU.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="CP or NCP misses deadline to return LDSS-4882" link="COLLECTION\Direct-from-Court_Cases\CP_or_NCP_misses_deadline_to_return_LDSS-4882.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="CP or NCP returns form LDSS-4882" link="COLLECTION\Direct-from-Court_Cases\CP_or_NCP_returns_form_LDSS-4882.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Court sends the order to CSEU" link="COLLECTION\Direct-from-Court_Cases\Court_sends_the_order_to_CSEU.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Worker receives court order" link="COLLECTION\Direct-from-Court_Cases\Worker_receives_court_order.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Is a signed request for services attached to the order?" link="COLLECTION\Direct-from-Court_Cases\Is_a_signed_request_for_services_attached_to_the_order_.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Worker builds case and account" link="COLLECTION\Direct-from-Court_Cases\Worker_builds_case_and_account.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Worker checks court interface for signed petition" link="COLLECTION\Direct-from-Court_Cases\Worker_checks_court_interface.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Is a signed request for services available on court interface?" link="COLLECTION\Direct-from-Court_Cases\Is_a_signed_request_for_services_available_on_court_interface_.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Does worker have enough info to build the case and account?" link="COLLECTION\Direct-from-Court_Cases\Does_worker_have_enough_info_to_build_the_case_and_account_.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Worker retrieves the ACS Report" link="COLLECTION\Direct-from-Court_Cases\Worker_retrieves_the_ACS_Report.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Worker builds the case" link="COLLECTION\Direct-from-Court_Cases\Worker_builds_the_case.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Worker forwards case to collection/enforcement" link="COLLECTION\Direct-from-Court_Cases\Worker_forwards_case_to_collection_enforcement.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Worker assesses whether there is sufficient info to build the case" link="COLLECTION\Direct-from-Court_Cases\Worker_assesses_whether_there_is_sufficient_info_to_build_the_case.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+	</item>
+	<item name="Appendices  (in alphabetical order)">
+		<item name="Appendices Cover Page" link="Appendices\Appendices_Cover_Page.htm">
+		</item>
+		<item name="ADMs (Administrative Directive Memos)" link="Appendices\ADMs_(Administrative_Directive_Memos).htm">
+		</item>
+		<item name="Code Tables">
+			<item name="Code Tables - Cover Page" link="Codes\Codes_-_Cover_Page.htm">
+			</item>
+			<item name="Look Up Meanings Of Codes Using the Search Box" link="Codes\Look_Up_Meanings_Of_Codes_Using_the_Search_Box.htm">
+			</item>
+			<item name="Account Transaction History Codes &amp; Types" link="Codes\Account_Transaction_History_Codes.htm">
+			</item>
+			<item name="Address Source Codes" link="Codes\Address_Source_Codes.htm">
+			</item>
+			<item name="Address Type Codes" link="Codes\Address_Type_Codes.htm">
+			</item>
+			<item name="Address Verification Indicator Codes" link="Codes\Address_Verification_Indicator_Codes.htm">
+			</item>
+			<item name="A Group - Status and Reason Codes" link="Codes\A_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Arrest Indicator Codes" link="Codes\Arrest_Indicator_Codes.htm">
+			</item>
+			<item name="B Group - Status and Reason Codes" link="Codes\B_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Billing Switch Codes" link="Codes\Billing_Switch_Codes.htm">
+			</item>
+			<item name="Case Type Codes" link="Codes\Case_Type_Codes.htm">
+			</item>
+			<item name="C Group - Status and Reason Codes" link="Codes\C_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Child Services Category Codes" link="Codes\Child_Services_Category_Codes.htm">
+			</item>
+			<item name="COLA Request Indicator Codes" link="Codes\COLA_Request_Indicator_Codes.htm">
+			</item>
+			<item name="COLA Review Indicators" link="Codes\COLA_Review_Indicators.htm">
+			</item>
+			<item name="Court Codes" link="Codes\Court_Codes.htm">
+			</item>
+			<item name="Court Order Type Codes" link="Codes\Court_Order_Type_Codes.htm">
+			</item>
+			<item name="Delinquency Switch Codes" link="Codes\Delinquency_Switch_Codes.htm">
+			</item>
+			<item name="Deviation Reason Codes" link="Codes\Deviation_Reason_Codes.htm">
+			</item>
+			<item name="D Group - Pre-Determination" link="Codes\D_Group_-_Pre-Determination.htm">
+			</item>
+			<item name="E Group - Status and Reason Codes" link="Codes\E_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Employer Verification Indicator Codes" link="Codes\Employer_Verification_Indicator.htm">
+			</item>
+			<item name="Ethnic Origin Codes" link="Codes\Ethnic_Origin_Codes.htm">
+			</item>
+			<item name="Eye Color Codes" link="Codes\Eye_Color_Codes.htm">
+			</item>
+			<item name="Family Violence Indicator Codes" link="Codes\Family_Violence_Indicator_codes.htm">
+			</item>
+			<item name="Federal Case Registry Codes" link="Codes\Federal_Case_Registry_Codes.htm">
+			</item>
+			<item name="Federal Parent Locator Service Codes" link="Codes\Federal_Parent_Locator_Service_Codes.htm">
+			</item>
+			<item name="Federal Parent Locator Service Exception Codes" link="Codes\Federal_Parent_Locator_Service_Exception_Codes.htm">
+			</item>
+			<item name="F Group - Status and Reason Codes" link="Codes\F_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="FIPS Codes - Federal Information Processing Standards codes" link="Codes\FIPS_Codes_-_Federal_Information_Processing_Standards_codes.htm">
+			</item>
+			<item name="Frequency Codes" link="Codes\Frequency_Codes.htm">
+			</item>
+			<item name="G Group - Status and Reason Codes" link="Codes\G_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Group Codes and their Meanings" link="Codes\Group_Codes_and_their_Meanings.htm">
+			</item>
+			<item name="H Group - Status and Reason Codes" link="Codes\H_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="I Group - Status and Reason Codes" link="Codes\I_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Income Withholding Delinquency Switch Codes" link="Codes\Income_Withholding_Delinquency_Switch_Codes.htm">
+			</item>
+			<item name="Income Withholding Income Deduction Order Indicator Codes" link="Codes\Income_Withholding_Income_Deduction_Order_Indicator_Codes.htm">
+			</item>
+			<item name="Income Withholding Indicator Codes" link="Codes\Income_Withholding_Indicator_Codes.htm">
+			</item>
+			<item name="Individual Disposition Status Codes" link="Codes\Individual_Disposition_Status_Codes.htm">
+			</item>
+			<item name="IV-D Indicator Codes" link="Codes\IV-D_Indicator_Codes.htm">
+			</item>
+			<item name="J Group - Status and Reason Codes" link="Codes\J_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="K Group - Status and Reason Codes" link="Codes\K_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Ledger Collection Indicator Codes" link="Codes\Ledger_Collection_Indicator_Codes.htm">
+			</item>
+			<item name="Ledger Distribution Switch Codes" link="Codes\Ledger_Distribution_Switch_Codes.htm">
+			</item>
+			<item name="Ledger Status Codes" link="Codes\Ledger_Status_Codes.htm">
+			</item>
+			<item name="Ledger Type Codes - Meaning and Syntax" link="Codes\Ledger_Type_Codes_-_Meaning_and_Syntax.htm">
+			</item>
+			<item name="L Group - Status and Reason Codes" link="Codes\L_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Location Status Indicator Codes" link="Codes\Location_Status_Indicator_Codes.htm">
+			</item>
+			<item name="Medical Insurance Order Codes" link="Codes\Medical_Insurance_Order_Codes.htm">
+			</item>
+			<item name="Medical Support Deviation Reason Codes" link="Codes\Medical_Support_Deviation_Codes.htm">
+			</item>
+			<item name="Messages on the PLS tab" link="Codes\Messages_on_the_PLS_tab.htm">
+			</item>
+			<item name="M Group - Status and Reason Codes" link="Codes\M_Group_-_Reason_and_Status_Codes.htm">
+			</item>
+			<item name="Marital Status Codes" link="Codes\Marital_Status_Codes.htm">
+			</item>
+			<item name="Military Branch Codes" link="Codes\Military_Branch_Codes.htm">
+			</item>
+			<item name="Military Codes" link="Codes\Military_Codes.htm">
+			</item>
+			<item name="N Group - Status and Reason Codes" link="Codes\N_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Paternity Indicator codes" link="Codes\Paternity_Indicator_codes.htm">
+			</item>
+			<item name="P Group - Status and Reason Codes" link="Codes\P_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Professional License Agency Codes" link="Codes\Professional_License_Agency_Codes.htm">
+			</item>
+			<item name="Professional License Codes" link="Codes\Professional_License_Codes.htm">
+			</item>
+			<item name="Q Group - Status and Reason Codes" link="Codes\Q_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="R Group - Status and Reason Codes" link="Codes\R_Group_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="S Group - Status and Reason Codes" link="Codes\S_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Standards Act Indicator Codes" link="Codes\Standards_Act_Indicator_Codes.htm">
+			</item>
+			<item name="Status Action Indicator Codes" link="Codes\Status_Action_Indicator_Codes.htm">
+			</item>
+			<item name="Status Code Entry Indicator Codes" link="Codes\Status_Code_Entry_Indicator_Codes.htm">
+			</item>
+			<item name="Status Codes - Syntax" link="Codes\Status_Codes_-_Syntax.htm">
+			</item>
+			<item name="Suffix Codes" link="Codes\Suffix_Codes.htm">
+			</item>
+			<item name="Support Record Type Codes" link="Codes\Support_Record_Type_Codes.htm">
+			</item>
+			<item name="T Group - Status and Reason Codes" link="Codes\T_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Transaction Type Codes" link="Codes\Transaction_Type_Codes.htm">
+			</item>
+			<item name="U Group - Status and Reason Codes" link="Codes\U_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Unemployment Insurance Benefit Income Withholding Exception Codes" link="Codes\Unemployment_Insurance_Benefit_Income_Withholding_Exception_Codes.htm">
+			</item>
+			<item name="Unemployment Insurance Benefit Income Withholding Indicator Codes" link="Codes\Unemployment_Insurance_Benefit_Income_Withholding_Indicator_Codes.htm">
+			</item>
+			<item name="V Group - Status and Reason Codes" link="Codes\V_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Wedlock Indicator Codes" link="Codes\Wedlock_Indicator_Codes.htm">
+			</item>
+			<item name="W Group - Status and Reason Codes" link="Codes\W_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="WMS Case Status Codes - Case Status -PA, MA, FS-" link="Codes\WMS_Case_Status_Codes_-_Case_Status_-PA,_MA,_FS-.htm">
+			</item>
+			<item name="WMS Individual Disposition Status Codes - Indicator Status - PA, MA, FS, HEAP-" link="Codes\WMS_Individual_Disposition_Status_Codes_-_Indicator_Status_-_PA,_MA,_FS,_HEAP-.htm">
+			</item>
+			<item name="X Group - Status and Reason Codes" link="Codes\X_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Y Group - Status and Reason Codes" link="Codes\Y_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+			<item name="Z Group - Status and Reason Codes" link="Codes\Z_Group_-_Status_and_Reason_Codes.htm">
+			</item>
+		</item>
+		<item name="Court Documents" link="Appendices\Court_Documents.htm">
+		</item>
+		<item name="Databases Used for Searches (Location)" link="Appendices\Databases_Used_for_Searches_(Location).htm">
+		</item>
+		<item name="DCLs (Dear Colleague Letters)" link="Appendices\DCLs_(Dear_Colleague_Letters).htm">
+		</item>
+		<item name="Forms - Alphabetical Order, by TItle" link="Appendices\Forms_-_Alphabetical_Order.htm">
+		</item>
+		<item name="Forms - Numerical Order, by Form Number" link="Appendices\Forms_-_Numerical_Order.htm">
+		</item>
+		<item name="INFs -- Informational Letters" link="Appendices\INFs_--_Informational_Letters.htm">
+		</item>
+		<item name="Manuals: User Manuals and Guides" link="Appendices\User_Manuals\User_Manuals_and_Guides.htm">
+		</item>
+		<item name="Notices &amp; Correspondence (Alphabetical, by title)">
+			<item name="Notices &amp; Correspondence - Alphabetical Order, by Title" link="Appendices\Notes_&amp;amp;_Correspondence_-_Alphabetical_by_Title.htm">
+			</item>
+			<item name="Account Creation Summary" link="Notices_and_Correspondence\Account_Creation_Summary.htm">
+			</item>
+			<item name="Affidavit of Prior Application" link="Notices_and_Correspondence\Affidavit_of_Prior_Application.htm">
+			</item>
+			<item name="Continuation of Child Support Services letter" link="Notices_and_Correspondence\Continuation_of_Child_Support_Services_letter.htm">
+			</item>
+			<item name="Application (LDSS-4882) Cover Letter" link="Notices_and_Correspondence\Cover_Letter_accompanying_Mailed_LDSS-4882_form.htm">
+			</item>
+		</item>
+		<item name="Notices &amp; Correspondence (Numerical, by form number)">
+			<item name="Notices &amp; Correspondence - Numerical Order, by Document Number" link="Appendices\Notes_&amp;amp;_Correspondence_-_In_Numerical_Order.htm">
+			</item>
+		</item>
+		<item name="Petitions and Affidavits">
+			<item name="Address Confidentiality Affidavit" link="Appendices\Petitions\Address_Confidentiality_Affidavit.pdf">
+			</item>
+			<item name="Financial Disclosure Affidavit" link="https://www.nycourts.gov/courts/6jd/forms/Local/Family/FinanDisclosAffidavit.pdf">
+			</item>
+		</item>
+		<item name="Screens You Will Encounter">
+			<item name="Account Mode &gt; Account Status tab" link="Screens_You_Will_Encounter_-_Master_List\Account_Mode_-_Account_Status_tab.htm">
+			</item>
+			<item name="Account Mode &gt; Account Tab" link="Screens_You_Will_Encounter_-_Master_List\Account_Mode_-_Account_Tab.htm">
+			</item>
+			<item name="Account Mode &gt; Beneficiary tab" link="Screens_You_Will_Encounter_-_Master_List\Account_Mode_-_Beneficiary_tab.htm">
+			</item>
+			<item name="Account Mode &gt; Ledger tab" link="Screens_You_Will_Encounter_-_Master_List\Account_Mode_-_Ledger_tab.htm">
+			</item>
+			<item name="Account Mode &gt; Money tab" link="Screens_You_Will_Encounter_-_Master_List\Account_Mode_-_Money_Transactions.htm">
+			</item>
+			<item name="Account Mode &gt; Refund to Respondent tab" link="Screens_You_Will_Encounter_-_Master_List\Account_Mode_-_Refund_to_Respondent_tab.htm">
+			</item>
+			<item name="Account Mode &gt; Remarks tab" link="Screens_You_Will_Encounter_-_Master_List\Account_Mode_-_Remarks_tab.htm">
+			</item>
+			<item name="Add Ledger Screen" link="Screens_You_Will_Encounter_-_Master_List\Add_Ledger_Screen.htm">
+			</item>
+			<item name="Advanced Search screen" link="Screens_You_Will_Encounter_-_Master_List\Summary_Tab.htm">
+			</item>
+			<item name="Administrative Subpoena" link="Screens_You_Will_Encounter_-_Master_List\Administrative_Subpoena.htm" x-condition="SME_REVIEW">
+			</item>
+			<item name="Application Form - Intake Module" link="Screens_You_Will_Encounter_-_Master_List\Application_Form_-_Intake_Module.htm">
+			</item>
+			<item name="Bank Reconciliation - Daily Analysis &gt; Daily Receipts tab" link="Screens_You_Will_Encounter_-_Master_List\Bank_Reconciliation_-_Daily_Analysis_-_Daily_Receipts_tab.htm">
+			</item>
+			<item name="Basic Search Screen" link="Screens_You_Will_Encounter_-_Master_List\Basic_Search_Screen.htm">
+			</item>
+			<item name="Case Mode &gt; Case tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode___Case_Information.htm">
+			</item>
+			<item name="Case Mode &gt; Child tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Child_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Cli Addr tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Cli_Addr_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Client tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Client_tab.htm">
+			</item>
+			<item name="Case Mode &gt; CSSA tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_CSSA_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Resp Emp tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Respondent_Employer_Detail_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Resp Emp Detail Edit tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode___Respondent_Employer_Detail_Edit_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Financial tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Respondent_Financial_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Remarks tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Remarks_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Resp Info tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode___Respoondent_Information_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Location tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Respondent_Location_Tab_screen.htm">
+			</item>
+			<item name="Case Mode &gt; Status tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Status_Information_screen.htm">
+			</item>
+			<item name="Case Mode &gt; Status Change tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Status_Change_tab.htm">
+			</item>
+			<item name="Child Support Standards Act (CSSA) Data and Consumer Price Index utility screen" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Data_and_Consumer_Price_Index_utility_screen.htm">
+			</item>
+			<item name="Child Support Standards Act (CSSA) Information tab" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Information_Tab.htm">
+			</item>
+			<item name="Case Mode &gt; Cli Addr tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Cli_Addr_tab.htm">
+			</item>
+			<item name="Case Mode &gt; Cli Emp tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_Cli_Emp_tab.htm">
+			</item>
+			<item name="Case Mode &gt; CSSA tab" link="Screens_You_Will_Encounter_-_Master_List\Case_Mode_-_CSSA_tab.htm">
+			</item>
+			<item name="Cost of Living Adjustment (COLA) Information Edit tab" link="Screens_You_Will_Encounter_-_Master_List\Cost_of_Living_Adjustment_(COLA)_Information_Edit.htm">
+			</item>
+			<item name="Document Generation Utility &gt; NYS Family Court tab" link="Screens_You_Will_Encounter_-_Master_List\NYS_Family_Court_Tab_-_Document_Generation_Utillty.htm">
+			</item>
+			<item name="Document Log screen" link="Screens_You_Will_Encounter_-_Master_List\Document_Log_screen.htm">
+			</item>
+			<item name="ECS - Electronic Communication System" link="Screens_You_Will_Encounter_-_Master_List\ECS_-_Electronic_Communication_System.htm">
+			</item>
+			<item name="Enforcement Mode &gt; Medical Support tab" link="Screens_You_Will_Encounter_-_Master_List\Enforcement_Mode_-_Medical_Support_tab.htm" x-condition="THIEL_ONLY">
+			</item>
+			<item name="Enforcement Mode &gt; NYS Tax" link="Screens_You_Will_Encounter_-_Master_List\Enforcement_Mode___NYS_Tax_and_Finance_Enforcement_tab.htm">
+			</item>
+			<item name="Enforcement Mode &gt; Professional License tab" link="Screens_You_Will_Encounter_-_Master_List\Enforcement_Mode___Professional_License_tab.htm">
+			</item>
+			<item name="Enforcement Mode &gt; Resp. Assets tab" link="Screens_You_Will_Encounter_-_Master_List\Enforcement_Mode_-_Respondent_Assets_Information_tab.htm">
+			</item>
+			<item name="Family Court Interface &gt; Messages tab" link="Screens_You_Will_Encounter_-_Master_List\Family_Court_Interface_-_Messages_tab.htm">
+			</item>
+			<item name="Family Court Interface &gt; Reports tab" link="Screens_You_Will_Encounter_-_Master_List\Family_Court_Interface_-_Reports_tab.htm">
+			</item>
+			<item name="Form DSS-3117" link="Screens_You_Will_Encounter_-_Master_List\Form_DSS-3117.htm">
+			</item>
+			<item name="Modules - Inquiry" link="Screens_You_Will_Encounter_-_Master_List\Modules_-_Inquiry.htm" x-condition="THIEL_ONLY">
+			</item>
+			<item name="Summary Mode - Case History tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Case_History_tab.htm">
+			</item>
+			<item name="Summary Mode &gt; Case Status &amp; Events" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Case_Status_and_Events.htm">
+			</item>
+			<item name="Summary Mode - Court Information tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Court_Information_tab.htm">
+			</item>
+			<item name="Summary Mode &gt; Documents tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Documents_tab.htm">
+			</item>
+			<item name="Summary Mode &gt; Enforcement tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Enforcement_tab.htm">
+			</item>
+			<item name="Summary Mode &gt; Obligation tab" link="Screens_You_Will_Encounter_-_Master_List\Obligation_Tab_screen.htm">
+			</item>
+			<item name="Summary Mode &gt; Obligation tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode___Obligation_Tab_screen.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+			</item>
+			<item name="Summary Mode &gt; Parties to Action tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Parties_to_Action_tab.htm">
+			</item>
+			<item name="Summary Mode &gt; Resp Addr tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Respondent_Address_Details_screen.htm">
+			</item>
+			<item name="Summary Mode &gt; Resp Addr tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode___Respondent_Address_Tab_screen.htm">
+			</item>
+			<item name="Summary Mode &gt; Resp Emp tab" link="Screens_You_Will_Encounter_-_Master_List\Summary_Mode_-_Respondent_Employer_Summary.htm">
+			</item>
+			<item name="Utilities &gt; CSSA and CPI-U Screen" link="Screens_You_Will_Encounter_-_Master_List\Child_Support_Standards_Act_(CSSA)_Data_and_Consumer_Price_Index_utility_screen.htm">
+			</item>
+			<item name="Welfare Reporting Tracking System Applicant Search" link="Screens_You_Will_Encounter_-_Master_List\Welfare_Reporting_Tracking_System_Applicant_Search.htm">
+			</item>
+			<item name="Worker Alerts &gt; COLA tab" link="Screens_You_Will_Encounter_-_Master_List\COLA_Eligible_Cases_Screen.htm">
+			</item>
+			<item name="Worker Alerts &gt; Enforcement Mode &gt; Delinq. Switches tab" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_Enforcement_Mode_Delinquency_Switches.htm">
+			</item>
+			<item name="Worker Alerts &gt; Enforcement Mode &gt; FCR tab" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_-_FCR_tab.htm" x-condition="SME_REVIEW">
+			</item>
+			<item name="Worker Alerts &gt; Enforcement Mode &gt; PLS tab" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_-_PLS_tab.htm">
+			</item>
+			<item name="Worker Alerts &gt; Enforcement Mode &gt; Ticklers" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_Enforcement_Mode_Ticklers.htm">
+			</item>
+			<item name="Worker Alerts &gt; Enforcement Mode &gt; Warnings tab" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_-_Warnings_tab.htm">
+			</item>
+			<item name="Worker Alerts &gt; IVA Mode &gt; IVA - IVD Interface tab" link="Screens_You_Will_Encounter_-_Master_List\IVA_-_IVD_Interface_screen.htm">
+			</item>
+			<item name="Worker Alerts &gt; Management Mode &gt; Daily Status Changes tab" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_-_Management_Mode_-_Daily_Status_Changes_tab.htm">
+			</item>
+			<item name="Worker Alerts &gt; Management Mode &gt; Overage Statuses tab" link="Screens_You_Will_Encounter_-_Master_List\Worker_Alerts_-_Management_Mode_-_Overage_Statuses.htm">
+			</item>
+		</item>
+		<item name="Timelines for Case Processing" link="Appendices\Timelines_for_Case_Processing.htm">
+		</item>
+		<item name="Useful Websites" link="Appendices\Useful_Websites.htm">
+		</item>
+		<item name="User Manuals and Guides" link="Appendices\User_Manuals\User_Manuals_and_Guides.htm">
+		</item>
+	</item>
+	<item name="Program Manual STYLE GUIDE" x-condition="SME_REVIEW">
+		<item name="Program Manual Style Guide - Cover Page" link="Program_Manual_STYLE_GUIDE\Program_Manual_Style_Guide_-_Cover_Page.htm" x-condition="SME_REVIEW">
+		</item>
+		<item name="To Be Updated Each Year - Dollar Figures and Screenshots" link="Program_Manual_STYLE_GUIDE\To_Be_Updated_Each_Year_-_Dollar_Figures_and_Screenshots.htm" x-condition="SME_REVIEW,DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Chapter Development Life Cycle" link="Program_Manual_STYLE_GUIDE\Chapter_Development_Life_Cycle.htm" x-condition="SME_REVIEW,DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Left Navigation Pane" link="Program_Manual_STYLE_GUIDE\Left_Navigation_Pane.htm" x-condition="THIEL_ONLY">
+		</item>
+		<item name="Single-Sourcing the Child Support Program Manual" link="Program_Manual_STYLE_GUIDE\Single-Sourcing_the_Child_Support_Program_Manual.htm" x-condition="SME_REVIEW,DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="To Prepare For Writing a New Chapter" link="Program_Manual_STYLE_GUIDE\To_Prepare_For_Writing_a_New_Chapter.htm" x-condition="SME_REVIEW,DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Word List" link="Program_Manual_STYLE_GUIDE\Word_List.htm" x-condition="SME_REVIEW">
+		</item>
+		<item name="Bullet Lists and Numbered Lists" x-condition="SME_REVIEW">
+			<item name="Bullet Lists" link="Program_Manual_STYLE_GUIDE\Bullet_Lists_and_Numbered_Lists\Bullet_Lists.htm" x-condition="SME_REVIEW">
+			</item>
+			<item name="Numbered Lists" link="Program_Manual_STYLE_GUIDE\Bullet_Lists_and_Numbered_Lists\Numbered_Lists.htm" x-condition="SME_REVIEW">
+			</item>
+		</item>
+		<item name="Code Tables" link="Program_Manual_STYLE_GUIDE\Code_Tables.htm" x-condition="SME_REVIEW,DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Screenshots and Pop-Up Screenshots" link="Program_Manual_STYLE_GUIDE\Screenshots_and_Pop-Up_Screenshots.htm" x-condition="SME_REVIEW">
+		</item>
+		<item name="ASSETS - Paths aka breadcrumbs" link="Program_Manual_STYLE_GUIDE\ASSETS_-_Paths_aka_breadcrumbs.htm">
+		</item>
+		<item name="Pre-Flight Checklist" link="Program_Manual_STYLE_GUIDE\Pre-Flight_Checklist.htm" x-condition="SME_REVIEW,DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="Publish to the SME Server" link="Program_Manual_STYLE_GUIDE\Publish_to_the_SME_Server.htm" x-condition="DEVELOPMENT_SERVER_ONLY">
+		</item>
+		<item name="TABLES for COPYING and Pasting" link="Program_Manual_STYLE_GUIDE\TABLES_for_COPYING.htm" x-condition="SME_REVIEW">
+		</item>
+		<item name="Clause order" link="Program_Manual_STYLE_GUIDE\Clause_order.htm">
+		</item>
+		<item name="RoboHelp Program Notes">
+			<item name="File Extensions in the RoboHelp Program" link="Program_Manual_STYLE_GUIDE\RoboHelp_Program_Notes\File_Extensions_in_the_RoboHelp_Program.htm" x-condition="SME_REVIEW,DEVELOPMENT_SERVER_ONLY">
+			</item>
+			<item name="RoboHelp Program Notes - Cover Page" link="Program_Manual_STYLE_GUIDE\RoboHelp_Program_Notes\RoboHelp_Program_Notes_-_Cover_Page.htm">
+			</item>
+			<item name="RoboHelp 2017 - Getting Started Guide" link="https://help.adobe.com/en_US/robohelp/2017/getting-started/Rh_2017_getting_started_guide.pdf" x-condition="DEVELOPMENT_SERVER_ONLY">
+			</item>
+			<item name="RoboHelp Help Resources" link="https://helpx.adobe.com/robohelp/using/help-resources.html" x-condition="DEVELOPMENT_SERVER_ONLY">
+			</item>
+			<item name="RoboHelp - The Essentials - VIDEO" link="https://vimeo.com/278167725" x-condition="DEVELOPMENT_SERVER_ONLY">
+			</item>
+		</item>
+		<item name="External Resources">
+			<item name="PlainLanguage.gov -- Checklists and Handouts" link="https://plainlanguage.gov/resources/checklists/" x-condition="SME_REVIEW">
+			</item>
+			<item name="PlainLanguage.gov -- Home Page" link="https://plainlanguage.gov/" x-condition="SME_REVIEW">
+			</item>
+		</item>
+		<item name="Backups and File Locations" link="PROJECT_NOTES\RoboHelp - Backups and File Locations - Thiel.pdf" x-condition="SME_REVIEW">
+		</item>
+		<item name="Sustainability Statement - 2017-03-16" link="Program_Manual_STYLE_GUIDE\2017-03-16 - Sustainability  Short Summary.pdf" x-condition="SME_REVIEW">
+		</item>
+		<item name="NYS Branding Requirements - Colors" link="PROJECT_NOTES\Style_Guide_for_Manual\NYS Branding - Color Requirements.pdf" x-condition="DEVELOPMENT_SERVER_ONLY,Author_Notes,SME_REVIEW">
+		</item>
+		<item name="NYS Branding Guidelines (from Daria Albini)" link="http://otda.ny.gov/share/" x-condition="Author_Notes,SME_REVIEW">
+		</item>
+		<item name="Section 508 site - Federal" link="https://www.section508.gov/" x-condition="Author_Notes,SME_REVIEW">
+		</item>
+	</item>
+	<item name="PROJECT NOTES" x-condition="Author_Notes,SME_REVIEW">
+		<item name="MASTER PLAN" link="PROJECT_NOTES\MASTER_PLAN.htm">
+		</item>
+		<item name="PFR - Putative Father Registry" link="PROJECT_NOTES\PFR_-_Putative_Father_Registry.htm" x-condition="SME_REVIEW">
+		</item>
+		<item name="PDP Tools and Resources" x-condition="Author_Notes,SME_REVIEW">
+			<item name="PDP Tools and Resources" link="PROJECT_NOTES\PDP_Tools_and_Resources\PDP_Tools_and_Resources.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+		</item>
+		<item name="Progress Reports - Activity Reports" x-condition="Author_Notes,SME_REVIEW">
+			<item name="2017-08-30 - Recent Developments with Manual - Activity Report" link="PROJECT_NOTES\2017-08-30 - Recent Developments - Activity Reports.pdf" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="2018-02-26 Demo for Eileen - Features of Manual" link="PROJECT_NOTES\2018-02-27 - Features of Manual - Demo for Eileen.pdf" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="2018-03-06 - Manual Overall - Survey Results" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="2018-03-06 - Intake Chapter - Survey Results" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="2018-03-06 - Intake Survey - All Responses" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+		</item>
+		<item name="Research Resources - Child Support" x-condition="Author_Notes,SME_REVIEW">
+			<item name="Federal Certification Documents - All Chapters" link="http://sharepoint.otda.state.nyenet/pa/dcse/assets/ASSETS%20Folders/Forms/AllItems.aspx?RootFolder=%2Fpa%2Fdcse%2Fassets%2FASSETS%20Folders%2FCertification%20Requirements%2FASSETS%20Certification" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Research Resources - Child Support" link="PROJECT_NOTES\Research_Resources_-_Child_Support\New_Topic1.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Location - Federal certification of ASSETS functionality" link="PROJECT_NOTES\Research_Resources_-_Child_Support\Location - Federal Certification of ASSETS functionality.docx" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+		</item>
+		<item name="Punctuation" x-condition="Author_Notes,SME_REVIEW">
+		</item>
+		<item name="Style Guide for Child Support Program Manual" x-condition="DEVELOPMENT_SERVER_ONLY,Author_Notes,SME_REVIEW">
+			<item name="Copy and Paste - Text Snippets" link="PROJECT_NOTES\Style_Guide_for_Manual\Copy_and_Paste_-_Text_Snippets.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="NYS Logo - Size and Placement" link="PROJECT_NOTES\Style_Guide_for_Manual\NYS_Logo_-_Size_and_Placement.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Print Icon in the function bar" link="PROJECT_NOTES\Style_Guide_for_Manual\Print_Icon_in_the_function_bar.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Screenshots - Requirements and Parameters" link="PROJECT_NOTES\Style_Guide_for_Manual\Screenshots_-_Requirements_and_Parameters.htm" x-condition="DEVELOPMENT_SERVER_ONLY,Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Function Bar disappears in Tablet View" link="PROJECT_NOTES\Style_Guide_for_Manual\Function_Bar_disappears_in_Tablet_View.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Glossary_Issues" link="PROJECT_NOTES\Style_Guide_for_Manual\Glossary_Issues.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Icons in Left Sidebar" link="PROJECT_NOTES\Style_Guide_for_Manual\Icons_in_Left_Sidebar.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Left Sidebar - Navigation Pane" link="PROJECT_NOTES\Style_Guide_for_Manual\Left_Sidebar_-_Navigation_Pane.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Official Colors - Child Support and OTDA" link="PROJECT_NOTES\Style_Guide_for_Manual\Official_Colors_-_Child_Support_and_OTDA.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Snippets Used in this Manual - a Reference Table" link="PROJECT_NOTES\Style_Guide_for_Manual\Snippets_Used_in_this_Manual_-_a_Reference_Table.htm" x-condition="DEVELOPMENT_SERVER_ONLY,Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Template - Screenshots and Docs Needed for XXXX Chapter" link="PROJECT_NOTES\Style_Guide_for_Manual\Template_-_Screenshots_and_Docs_Needed_for_XXXX_Chapter.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Word List" link="PROJECT_NOTES\Style_Guide_for_Manual\Word_List.htm" x-condition="DEVELOPMENT_SERVER_ONLY,Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Terminology - Standardization of Child Support Language in Publications" link="Introduction_to_the_Child_Support_Operations_Manual\Terminology_-_Standardization_of_Child_Support_Language_in_Publications.htm">
+			</item>
+		</item>
+		<item name="Troubleshooting - Project Notes" x-condition="Author_Notes,SME_REVIEW">
+		</item>
+		<item name="Reviews:  Intake Chapter Is Released" x-condition="Author_Notes,SME_REVIEW">
+		</item>
+		<item name="ASSETS Functionality">
+			<item name="Notes Regarding ASSETS" link="PROJECT_NOTES\ASSETS_Functionality\Notes_Regarding_ASSETS.htm">
+			</item>
+		</item>
+		<item name="Search engine BROKEN in Internet Explorer" link="https://forums.adobe.com/thread/2394540#">
+		</item>
+		<item name="Google Style Guide" link="https://developers.google.com/style/capitalization" x-condition="SME_REVIEW">
+		</item>
+		<item name="RoboHelp">
+			<item name="RoboHelp 2017 - User Manual - Online" link="https://help.adobe.com/en_US/robohelp/2017/robohtml/index.html#t=book%2Frob_gettingstarted_gs%2FGetting_started-.htm">
+			</item>
+			<item name="RoboHelp 2017 - User Manual - PDF format" link="PROJECT_NOTES\RoboHelp 2017 - User Manual - PDF format.pdf">
+			</item>
+			<item name="Known Issues with RoboHelp 2017" link="http://www.grainge.org/pages/authoring/rh2017/using_rh2017.htm">
+			</item>
+			<item name="RoboHelp - Backups and File Locations" link="PROJECT_NOTES\RoboHelp - Backups and File Locations - Thiel.pdf" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="Layout.CSS" link="PROJECT_NOTES\Style_Guide_for_Manual\Layout.CSS.htm" x-condition="Author_Notes,SME_REVIEW">
+			</item>
+			<item name="RoboHelp Learning and Support" link="https://helpx.adobe.com/support/robohelp.html">
+			</item>
+			<item name="E-Learning - Online Webinars at Adobe" link="https://meetus.adobeevents.com/elearning">
+			</item>
+		</item>
+		<item name="RoboHelp SERVER 10" link="https://www.adobe.com/products/robohelp-server.html">
+		</item>
+		<item name="Video - RoboHelp Server 10" link="https://my.adobeconnect.com/introtorobohelpserver/">
+		</item>
+	</item>
+	<item name="XXXX Content" x-condition="SME_REVIEW">
+	</item>
+</toc>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<colors>
+		<color>
+			<name>Black</name>
+			<colorref>0</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Red</name>
+			<colorref>255</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Lime</name>
+			<colorref>65280</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Blue</name>
+			<colorref>16711680</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Maroon</name>
+			<colorref>128</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Green</name>
+			<colorref>32768</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Navy</name>
+			<colorref>8388608</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Gray</name>
+			<colorref>8421504</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>White</name>
+			<colorref>16777215</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Fuchsia</name>
+			<colorref>16711935</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Aqua</name>
+			<colorref>16776960</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Yellow</name>
+			<colorref>65535</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Purple</name>
+			<colorref>8388736</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Olive</name>
+			<colorref>32896</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Teal</name>
+			<colorref>8421376</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Silver</name>
+			<colorref>12632256</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Medium Purple</name>
+			<colorref>9326445</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>NYS Yellow 01</name>
+			<colorref>43247</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>SME -  Review</name>
+			<colorref>15771895</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Medium Blue</name>
+			<colorref>12027751</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Blue - Vibrant</name>
+			<colorref>12273408</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Numbered_Headings_Within_Topic</name>
+			<colorref>10354688</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Lightest Purple</name>
+			<colorref>11832455</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Darkest Purple</name>
+			<colorref>7811153</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>SME Review</name>
+			<colorref>33023</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Medium Gold</name>
+			<colorref>53759</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Darkest Blue</name>
+			<colorref>9060893</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Solution</name>
+			<colorref>5356098</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>NewColor</name>
+			<colorref>15395519</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Lightest Gold</name>
+			<colorref>7200243</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>Invisible Blue</name>
+			<colorref>16777215</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Darkest Gold</name>
+			<colorref>43506</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>OTDA Lightest Blue</name>
+			<colorref>14588928</colorref>
+			<type>standard</type>
+		</color>
+		<color>
+			<name>3117_Red_Highlighter_Color</name>
+			<colorref>12695545</colorref>
+			<type>standard</type>
+		</color>
+	</colors>
+</rhpml>

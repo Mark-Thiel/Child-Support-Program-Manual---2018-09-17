@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="7" minorversion="13">
+	<folders>
+		<folder>
+			<name>Azure_Blue</name>
+		</folder>
+		<folder>
+			<name>Azure_Blue_2</name>
+		</folder>
+		<folder>
+			<name>OTDA</name>
+		</folder>
+		<folder>
+			<name>2017_01_20_A</name>
+		</folder>
+		<folder>
+			<name>CSS_Ops_Man_2017-05-12</name>
+		</folder>
+	</folders>
+</rhpml>

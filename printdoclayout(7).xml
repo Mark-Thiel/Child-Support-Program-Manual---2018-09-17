@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!--Printed Documentation Layout-->
+<printdoclayout version="3">
+  <temphistory/>
+ <stylemapping>
+   <templatefile type="msword" filename="Style Mapping.dot"/>
+   <maps/>
+ </stylemapping>
+ <tocstructure>
+  <chapter name="Intake">
+    <page name="Download a PDF of the Intake chapter" topic="INTAKE\Download_a_PDF_of_the_Intake_chapter.htm" flags="0" topicid="-1"/>
+   <chapter name="Eligibility for Child Support Services">
+     <page name="Who Is Eligible" topic="INTAKE\Eligibility_for_Child_Support_Services\Eligible_Cases.htm" flags="0" topicid="-1"/>
+     <page name="Equal Access to Services" topic="INTAKE\Eligibility_for_Child_Support_Services\Policies_Regarding_Intake.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Cooperation Requirements">
+     <page name="Define &quot;Cooperation&quot;" topic="INTAKE\Cooperation_Requirements\Define__Cooperation_.htm" flags="0" topicid="-1"/>
+     <page name="Attesting to Lack of Information" topic="INTAKE\Cooperation_Requirements\Attesting_to_Lack_of_Information.htm" flags="0" topicid="-1"/>
+     <page name="Good Cause versus Domestic Violence Waivers" topic="INTAKE\Cooperation_Requirements\Good_Cause_versus_Domestic_Violence_Waivers.htm" flags="0" topicid="-1"/>
+     <page name="Results of Non-Cooperation" topic="INTAKE\Cooperation_Requirements\Results_of_Non-Cooperation.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Safety Concerns -- Domestic Violence and Good Cause">
+     <page name="Suppression of Address and Employment Information" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Suppression_of_Address_and_Employment_Information.htm" flags="0" topicid="-1"/>
+     <page name="To the Customer in TA Cases Involving Domestic Violence" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\To_the_Customer_in_TA_Cases_Involving_Domestic_Violence.htm" flags="0" topicid="-1"/>
+     <page name="Referral to Domestic Violence Liaison" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Referral_to_Domestic_Violence_Liaison.htm" flags="0" topicid="-1"/>
+     <page name="Domestic Violence Liaison: What They Do" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\Domestic_Violence_Liaison__What_They_Do.htm" flags="0" topicid="-1"/>
+     <page name="After a Determination by a DVL - Required Actions" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\After_a_Determination_by_a_DVL_-_Required_Actions.htm" flags="0" topicid="-1"/>
+     <page name="IMPORTANT: Setting FVI Codes" topic="INTAKE\Safety_Concerns_-_Good_Cause_and_Domestic_Violence\IMPORTANT__Setting_FVI_Codes.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="TA Cases (Intake) - Introduction">
+     <page name="If the TA Unit Denies Temporary Assistance" topic="INTAKE\TA_Cases_Intake_Introduction\If_the_TA_Unit_Denies_Temporary_Assistance.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Non-TA Cases (Intake) - Introduction">
+     <page name="Ability to Suppress Personally Idenifying Information" topic="INTAKE\Non-TA_Cases_-_Introduction\Ability_to_Suppress_Personally_Idenifying_Information.htm" flags="0" topicid="-1"/>
+     <page name="$25 Annual Service Fee -- Alternative A" topic="INTAKE\Non-TA_Cases_-_Introduction\$25_Annual_Service_Fee_--_Alternative_A.htm" flags="0" topicid="-1"/>
+     <page name="Family Violence Indicator (FVI) in Non-TA Cases" topic="INTAKE\Non-TA_Cases_-_Introduction\Family_Violence_Indicator_(FVI)_in_Non-TA_Cases.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Foster Care Cases">
+     <page name="Introduction to Foster Care Cases" topic="INTAKE\Foster_Care_Cases\Introduction_to_Foster_Care_Cases.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Case-Building">
+     <page name="Case-Building - Overview" topic="INTAKE\Case-Building\Case-Building_-_An_Introduction.htm" flags="0" topicid="-1"/>
+     <page name="Referral Search - Building a Case from a Referral Search" topic="INTAKE\Case-Building\Referral_Search_-_Building_a_Case_from_a_Referral_Search.htm" flags="0" topicid="-1"/>
+   </chapter>
+   <chapter name="Troubleshooting - Intake">
+     <page name="ASSETS Changes CP or NCP Address" topic="INTAKE\Troubleshooting_-_Intake\ASSETS_Changes_CP_or_NCP_Address.htm" flags="0" topicid="-1"/>
+     <page name="Hard Copy of Referral Never Arrived from TA" topic="INTAKE\Troubleshooting_-_Intake\Hard_Copy_of_Referral_Never_Arrived_from_TA.htm" flags="0" topicid="-1"/>
+     <page name="Worker cannot select IV-E Foster Care radio button" topic="INTAKE\Troubleshooting_-_Intake\Worker_cannot_select_IV-E_Foster_Care_radio_button.htm" flags="0" topicid="-1"/>
+     <page name="Worker is kicked out of online application form" topic="INTAKE\Troubleshooting_-_Intake\New_Topic.htm" flags="0" topicid="-1"/>
+   </chapter>
+  </chapter>
+ </tocstructure>
+  <sectionhistory/>
+ <sectionlist>
+   <section type="topics" name="Chapter Layout" url="" flags="0" topicid="-1"/>
+   <section type="glossary" name="Glossary" url="" flags="0" topicid="-1"/>
+ </sectionlist>
+  <robopdfgeneratorsettings data="resIndex=3&amp;jpegImageQuality=75&amp;imageDPI=96&amp;quiet=0&amp;Quality=3&amp;resolution=96&amp;customResolution=300&amp;customImageDPI=96&amp;customJpegImageQuality=75&amp;pdfTemplateEnable=0&amp;pdfTemplateOnTop=0&amp;pdfTemplate=&amp;watermark=&amp;watermarkText=&amp;watermarkFontName=Arial&amp;watermarkFontSize=48&amp;watermarkStyle=0&amp;watermarkColor=90&amp;sd_permissionFlags=-64&amp;sd_enabled=0&amp;sd_keyLen=16&amp;sd_up=&amp;sd_op=&amp;"/>
+ <headerfootermapping>
+   <section type="custominternaltopic" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="customexternaltopic" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="defaulttitlepage" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="toc" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="topics" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="glossary" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+   <section type="index" firstpagetemplate="&lt;Default&gt;" evenpagetemplate="&lt;Default&gt;" oddpagetemplate="&lt;Default&gt;"/>
+ </headerfootermapping>
+</printdoclayout>

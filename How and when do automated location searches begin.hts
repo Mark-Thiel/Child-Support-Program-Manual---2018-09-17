@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="topic-comment" content="How and when do automated location searches begin?" />
+<meta name="generator" content="Adobe RoboHelp 2017" />
+<title>How and when do automated location searches begin</title>
+<link rel="StyleSheet" href="default.css" type="text/css" />
+</head>
+
+<body>
+<?rh-script_start ?><script src="ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script><?rh-script_end ?>
+<p class="Normal_Pre-Bullet_Pre-Numbers">ASSETS begins automated searches 
+ when an <span class="Code_Value"><a title="L Group - Status and Reason Codes" 
+									 href="javascript:BSSCPopup('Codes/L_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+									 id="a11">L Group</a></span> is opened 
+ on a case. Automated location searches run continuously in the background 
+ as long as the <span class="Code_Value"><a title="L Group - Status and Reason Codes" 
+											 href="javascript:BSSCPopup('Codes/L_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+											 id="a111">L Group</a></span><span 
+	 class="Code_Value"> </span>remains open. (Note that searches of the 
+ <span class="Databases">APRRS</span>, <span class="Databases" style="font-family: Arial, sans-serif;">NDNH,</span> 
+ and <span class="Databases">SDNH</span> continue even when no<span class="Code_Value"> 
+ <a title="L Group - Status and Reason Codes" href="javascript:BSSCPopup('Codes/L_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+	 id="a112">L Group</a></span> is open.)</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">An <span class="Code_Value"><a 
+	 title="L Group - Status and Reason Codes" href="javascript:BSSCPopup('Codes/L_Group_-_Status_and_Reason_Codes.htm',800,1000);" 
+	 id="a113">L Group</a></span> can be opened manually by a worker or 
+ <?rh-symbol_start name="Em Dash" ?>—<?rh-symbol_end ?> under certain conditions 
+ <?rh-symbol_start name="Em Dash" ?>—<?rh-symbol_end ?> automatically by 
+ ASSETS. &#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers">&#160;</p>
+<p class="Normal_Pre-Bullet_Pre-Numbers"><span style="font-weight: bold;">See 
+ also:</span> <span style="font-weight: bold;">&#160;</span><span class="Path_in_ASSETS" 
+	 style="font-weight: normal;">Location &gt; Introduction to Location 
+ &gt;</span> <a title="Opening an L Group" href="LOCATION/Introduction_to_Location/Opening_an_L_Group.htm">Opening 
+ an L Group</a></p>
+<?rh-script_start ?><script type="text/javascript" language="JavaScript1.2">//<![CDATA[
+	if( typeof( FilePopupInit ) != 'function' ) FilePopupInit = new Function();
+	FilePopupInit('a11');
+	FilePopupInit('a111');
+	FilePopupInit('a112');
+	FilePopupInit('a113');
+//]]></script><?rh-script_end ?>
+</body>
+</html>

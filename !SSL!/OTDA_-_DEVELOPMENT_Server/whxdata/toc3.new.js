@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Intake - Cover Page","url":"INTAKE/Intake_-_Cover_Page.htm"},{"type":"book","name":"Eligibility for Child Support Services","key":"toc4"},{"type":"book","name":"Introduction to Intake","key":"toc5"},{"type":"book","name":"The Application Form","key":"toc6"},{"type":"book","name":"Referrals - Intro to Referrals","key":"toc7"},{"type":"book","name":"Cooperation Requirements","key":"toc8"},{"type":"book","name":"Non-Cooperation","key":"toc9"},{"type":"book","name":"TA and IV-E Cases - Introduction","key":"toc10"},{"type":"book","name":"TA Process","key":"toc11"},{"type":"book","name":"Foster Care Cases","key":"toc12"},{"type":"book","name":"Direct-from-Court Cases","key":"toc13"},{"type":"book","name":"Troubleshooting - Intake","key":"toc14"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();
